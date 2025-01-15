@@ -34,8 +34,8 @@ class LabResults(BaseModel):
     ca_discharge: float = Field(..., description="calcium level at discharge")
 
 class Medications(BaseModel):
-    medications_admission: list[str] = Field(..., description="medications at admission")
-    medications_discharge: list[str] = Field(..., description="medications at discharge")
+    medications_admission: list[str] = Field(..., description="medications at admission, only return the names")
+    medications_discharge: list[str] = Field(..., description="medications at discharge, only return the names")
 
 class ClinicalExtract(BaseModel):
     primary_diagnosis: PrimaryDiagnosis
