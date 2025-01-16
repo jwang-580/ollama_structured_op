@@ -78,7 +78,10 @@ K-4.0 Cl-105 HCO3-28 AnGap-13
 ___ 12:25AM BLOOD ALT-19 AST-20 LD(LDH)-230 AlkPhos-138* 
 TotBili-0.4
 ___ 12:25AM BLOOD Calcium-9.4 Phos-3.3 Mg-1.6
-___ 08:56AM BLOOD tacroFK-8.___ctive issues
+___ 08:56AM BLOOD tacroFK-8.
+
+Active Issues:
+
 # heme: ___ s/p matched related donor allogeneic stem cell
 transplant with reduced intensity conditioning for leukemia. 
 Completed fludarabine 30mg/m2 daily on d-7 thru d-3, and 
@@ -383,7 +386,7 @@ exclusion, may be most likely in this situation.
   
 
  
-Brief Hospital Course:
+Active Issues:
 #SHORTNESS OF BREATH: Mr. ___ presented with dyspnea on 
 exertion and findings on a CT of the Chest notable for diffuse 
 bilateral opacities. Based on the imaging findings and his 
@@ -724,7 +727,7 @@ cannot be entirely excluded. This diagnosis was called to Dr.
 ___ (Dermatology) by Dr. ___ on ___.
 
  
-Brief Hospital Course:
+Active Issues:
 Mr. ___ is a ___ gentleman with past medical history 
 significant for MDS RAEB - 2, status post allogeneic stem cell 
 transplant from matched related donor in ___ with recent 
@@ -824,7 +827,7 @@ of Afib with RVR).Dose ___ need to be adjusted in the future
 # CODE: Full
 # EMERGENCY CONTACT: Wife (___) ___
  
-___ on Admission:
+Medications on Admission:
 The Preadmission Medication list is accurate and complete.
 1. Acyclovir 400 mg PO Q8H 
 2. Cyclosporine 0.05% Ophth Emulsion 2 drops Other BID 
@@ -1014,7 +1017,7 @@ ___ 12:17AM BLOOD EBV PCR, QUANTITATIVE, WHOLE BLOOD-PND
 ___ 10:00AM BLOOD EBV PCR, QUANTITATIVE, WHOLE BLOOD-Test   
    
  
-Brief Hospital Course:
+Active Issues:
 ASSESSMENT/PLAN: Mr. ___ is a ___ male with history 
 significant for MDS RAEB -2, status post allogeneic stem cell 
 transplant from matched related donor in ___ (D+163) with 
@@ -1385,7 +1388,7 @@ MICROBIOLOGY:
 ======================
 URINE CULTURE (Final ___:    NO GROWTH.
  
-Brief Hospital Course:
+Active Issues:
 ___ with hx of RAEB type ___ ___ MRD allo SCT (day 0 = ___ 
 with RIC (Flu/Bu) c/b severe gut GVHD on cyclosporin/prednisone 
 p/w with hypotension/lightheadedness in setting of Afib with 
@@ -1436,7 +1439,7 @@ taper slowly every other week)
 -full code
 -contact: ___ (Wife/HCP) ___
  
-___ on Admission:
+Medications on Admission:
 The Preadmission Medication list is accurate and complete.
 1. Voriconazole 200 mg PO Q12H 
 2. Acyclovir 400 mg PO Q8H 
@@ -1941,7 +1944,7 @@ cells detected by the assay; donor cells below this amount would
 not be
 detected.
  
-Brief Hospital Course:
+Active Issues:
 ___ w/ MDS RAEB type 2, s/p RI-allo-MRD-HSCT admitted for HCAP, 
 course complicated by a-fib with RVR, hyperuricemia, and ___. 
 Course also notable for orthostatic hypotension, LUE 

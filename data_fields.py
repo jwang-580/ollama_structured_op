@@ -2,8 +2,8 @@ from pydantic import BaseModel, Field
 from typing import List, Literal, Union
 
 class PrimaryDiagnosis(BaseModel):
-    primary_disease: str = Field(..., description="The primary disease indicated for bone marrow transplantation")
-    conditioing_regimen: str = Field(..., description="The conditioning regimen used for bone marrow transplant") 
+    primary_disease: str = Field(..., description="The primary disease indicated for bone marrow transplantation with full name: e.g. Acute Myeloid Leukemia")
+    conditioing_regimen: str = Field(..., description="The conditioning regimen used for bone marrow transplant with full name: e.g. Fludarabine, Cyclophosphamide, Total body irradiation") 
     donor_type: list[Literal["Unrelated matched donor", "Unrelated mismatched donor", "Related matched donor", "Haploidentical donor", "Not mentioned"]] = Field(
         ..., 
         description="The type of donor used for bone marrow transplant"
