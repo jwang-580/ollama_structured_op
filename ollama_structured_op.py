@@ -5,37 +5,7 @@ from data.notes import notes
 import csv
 from datetime import datetime
 import os
-
-class PrimaryDiagnosis(BaseModel):
-    primary_disease: str = Field(..., description="The primary disease indicated for bone marrow transplantation")
-    conditioing_regimen: str = Field(..., description="The conditioning regimen used for bone marrow transplant") 
-    donor_type: Literal["Unrelated matched donor", "Unrelated mismatched donor", "Related matched donor", "Haploidentical donor", "Not mentioned"] = Field(
-        ..., 
-        description="The type of donor used for bone marrow transplant"
-    )
-    transplant_related_complications: list[str] = Field(..., description="Complications specifically related to bone marrow transplant")
-
-class HospitalCourse(BaseModel):
-    reason_for_admission: Literal["Infection", "GVHD", "Respiratory failure", "Disease relapse", "Bone marrow trasnpalnt", "Other"] = Field(..., description="The reason for this admission to the hospital")
-    problem_list: list[str] = Field(..., description="Problem list during hospital stay, be sccucinct")
-
-class LabResults(BaseModel):
-    wbc_admission: float = Field(..., description="white blood cell count at admission")
-    wbc_discharge: float = Field(..., description="white blood cell count at discharge")
-    neuts_admission: float = Field(..., description="neutrophil count at admission")
-    neuts_discharge: float = Field(..., description="neutrophil count at discharge")
-    hgb_admission: float = Field(..., description="hemoglobin level at admission")
-    hgb_discharge: float = Field(..., description="hemoglobin level at discharge")
-    plt_admission: float = Field(..., description="platelet count at admission")
-    plt_discharge: float = Field(..., description="platelet count at discharge")
-    t_bili_admission: float = Field(..., description="total bilirubin level at admission")
-    t_bili_discharge: float = Field(..., description="total bilirubin level at discharge")
-    ca_admission: float = Field(..., description="calcium level at admission")
-    ca_discharge: float = Field(..., description="calcium level at discharge")
-
-class Medications(BaseModel):
-    medications_admission: list[str] = Field(..., description="medications at admission, only return the names")
-    medications_discharge: list[str] = Field(..., description="medications at discharge, only return the names")
+from data_fields import PrimaryDiagnosis, HospitalCourse, LabResults, Medications
 
 class ClinicalExtract(BaseModel):
     primary_diagnosis: PrimaryDiagnosis
@@ -44,7 +14,8 @@ class ClinicalExtract(BaseModel):
     medications: Medications
 
 results = []
-llm_model = 'llama3.3'
+# llm_model = 'llama3.3'
+llm_model = 'llama3:70b'
 # llm_model='llama3.3:70b-instruct-q8_0'
 
 for note_key in notes.keys():
