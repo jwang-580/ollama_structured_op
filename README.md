@@ -4,6 +4,26 @@ This project implements automated information extraction from clinical notes usi
 
 ## Setup
 
+You can set up the environment using either pip or conda:
+
+### Using conda (recommended)
+
+1. Clone the repository
+2. Create and activate conda environment:
+
+```bash
+conda create -n clinical_extract python=3.11
+conda activate clinical_extract
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Using pip
+
 1. Clone the repository
 2. Install dependencies:
 
