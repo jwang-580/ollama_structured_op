@@ -6,6 +6,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 import argparse
 from pathlib import Path
+from datetime import datetime
 
 def string_to_list(text: str) -> List[str]:
     """Convert string representation of list to actual list"""
@@ -98,7 +99,8 @@ def evaluate_csvs(ground_truth_path: str, test_path: str) -> Dict[str, Dict[str,
     fields = {
         # Text and list fields (all use token-level matching)
         'primary_disease': False,
-        'conditioing_regimen': False,
+        'conditioning_regimen_type': False,
+        'conditioning_regimen': False,
         'donor_type': False,
         'transplant_related_complications': False,
         'reason_for_admission': False,
@@ -165,6 +167,23 @@ if __name__ == "__main__":
         raise FileNotFoundError(f"Test file not found: {test_path}")
     
     results = evaluate_csvs(str(ground_truth_path), str(test_path))
+    
+    # Save results to CSV
+    output_path = Path('results')
+    output_path.mkdir(exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    results_file = output_path / f'evaluation_results_{timestamp}.csv'
+    
+    # Convert results to DataFrame format
+    results_data = []
+    for field, metrics in results.items():
+        row = {'field': field}
+        row.update(metrics)
+        results_data.append(row)
+    
+    pd.DataFrame(results_data).to_csv(results_file, index=False)
+    print(f"\nResults saved to: {results_file}")
     
     print("\nEvaluation Metrics by Field:")
     print("-" * 50)

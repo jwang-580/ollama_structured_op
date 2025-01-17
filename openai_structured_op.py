@@ -34,7 +34,8 @@ for note_key in notes.keys():
     flat_data = {
         'note_id': note_key,
         'primary_disease': clinical_extract.primary_diagnosis.primary_disease,
-        'conditioning_regimen': clinical_extract.primary_diagnosis.conditioing_regimen,
+        'conditioning_regimen_type': clinical_extract.primary_diagnosis.conditioning_regimen_type,
+        'conditioning_regimen': clinical_extract.primary_diagnosis.conditioning_regimen,
         'donor_type': clinical_extract.primary_diagnosis.donor_type,
         'transplant_complications': ','.join(clinical_extract.primary_diagnosis.transplant_related_complications),
         'reason_for_admission': clinical_extract.hospital_course.reason_for_admission,

@@ -54,7 +54,8 @@ def extract_whole_note(notes, llm_model):
         flat_data = {
             'note_id': note_key,
             'primary_disease': clinical_extract.primary_diagnosis.primary_disease,
-            'conditioning_regimen': clinical_extract.primary_diagnosis.conditioing_regimen,
+            'conditioning_regimen_type': clinical_extract.primary_diagnosis.conditioning_regimen_type,
+            'conditioning_regimen': clinical_extract.primary_diagnosis.conditioning_regimen,
             'donor_type': clinical_extract.primary_diagnosis.donor_type,
             'transplant_complications': ','.join(clinical_extract.primary_diagnosis.transplant_related_complications),
             'reason_for_admission': clinical_extract.hospital_course.reason_for_admission,
@@ -90,15 +91,15 @@ def extract_section_by_section(notes, llm_model):
         
         # Extract specific fields from relevant sections
         primary_diagnosis_prompt = f"""
-        Extract primary diagnosis information from these sections:
+        Extract primary cancer diagnosis information from these sections, use full name not abbreviation (e.g. Acute Myeloid Leukemia, not AML):
         History of Present Illness: {sections['History of Present Illness']}
         Discharge Diagnosis: {sections['Discharge Diagnosis']}
         """
 
         transplant_info_prompt = f"""
-        Extract transplant information from these sections:
+        Extract bone marrow transplant information from these sections, use full name not abbreviation (e.g. Fludarabine, not FLU):
+        History of Present Illness: {sections['History of Present Illness']}
         Active Issues: {sections['Active Issues']}
-        Discharge Diagnosis: {sections['Discharge Diagnosis']}
         """
 
         hospital_course_prompt = f"""
@@ -108,12 +109,12 @@ def extract_section_by_section(notes, llm_model):
         """
         
         lab_results_prompt = f"""
-        Extract lab results from this section:
+        Extract lab results from this section, return the value 999 if the information is not mentioned:
         Pertinent Results: {sections['Pertinent Results']}
         """
         
         medications_prompt = f"""
-        Extract medications from these sections:
+        Extract medication names from these sections, do not include the dosage:
         Medications on Admission: {sections['Medications on Admission']}
         Discharge Medications: {sections['Discharge Medications']}
         """
@@ -160,7 +161,8 @@ def extract_section_by_section(notes, llm_model):
         flat_data = {
             'note_id': note_key,
             'primary_disease': diagnosis_data.primary_disease,
-            'conditioning_regimen': transplant_info_data.conditioing_regimen,
+            'conditioning_regimen_type': transplant_info_data.conditioning_regimen_type,
+            'conditioning_regimen': transplant_info_data.conditioning_regimen,
             'donor_type': transplant_info_data.donor_type,
             'transplant_complications': ','.join(transplant_info_data.transplant_related_complications),
             'reason_for_admission': hospital_course_data.reason_for_admission,
@@ -188,9 +190,9 @@ def extract_section_by_section(notes, llm_model):
     return results
 
 
-def save_results(results, llm_model):
+def save_results(results, llm_model, method):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f'notes_extracts_{llm_model}_{timestamp}.csv'
+    filename = f'notes_extracts_{llm_model}_method{method}_{timestamp}.csv'
     
     os.makedirs('results', exist_ok=True)
     
@@ -209,7 +211,7 @@ def main():
     else:
         results = extract_section_by_section(notes, args.model)
     
-    save_results(results, args.model)
+    save_results(results, args.model, args.method)
 
 if __name__ == "__main__":
     main()
