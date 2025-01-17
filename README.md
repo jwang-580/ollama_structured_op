@@ -4,10 +4,6 @@ This project implements automated information extraction from clinical notes usi
 
 ## Setup
 
-You can set up the environment using either pip or conda:
-
-### Using conda (recommended)
-
 1. Clone the repository
 2. Create and activate conda environment:
 
@@ -22,28 +18,19 @@ conda activate clinical_extract
 pip install -r requirements.txt
 ```
 
-### Using pip
-
-1. Clone the repository
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Create a `.env` file in the root directory and add your OpenAI API key:
+4. Create a `.env` file in the root directory and add your OpenAI API key:
 
 ```
 OAI_API_KEY=your_api_key_here
 ```
 
-4. Install Ollama:
+5. Install Ollama:
 
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-5. Download the llama3.3 70b Q4-quantized model:
+6. Download the llama3.3 70b Q4-quantized model:
 
 ```bash
 ollama pull llama3.3
