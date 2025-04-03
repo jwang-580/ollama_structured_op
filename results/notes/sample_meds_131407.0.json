@@ -1,0 +1,1304 @@
+[
+    {
+        "medication": "Prismasate (B32 K2), DIALYS",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Bag, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Albumin 5% (25g / 500mL), IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "25 g, 1 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "400 mL, 400 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "10 mEq, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Citrate Dextrose 3% (ACD-A) CRRT, DIALYS",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "6-10 PUFF, 0.03-0.05 INH"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "2-4 gm, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "4 gm, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "500 UNIT, 5 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "16 mg, 4 AMP"
+    },
+    {
+        "medication": "Fluconazole, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "800 mg, 2 BAG"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "6 PUFF, 0.03 INH"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Meropenem, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), DIALYS",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "20 gm, 20 VIAL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "20 gm, 20 VIAL"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "6-10 PUFF, 0.03-0.05 INH"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "450 mEq, 9 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "3000 mL, 1 BAG"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "6 PUFF, 0.03 INH"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Prismasate (B32 K2), DIALYS",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "400 mL, 400 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 mEq, 2 SYR"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "150 mEq, 3 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 UNIT, 5 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Dexamethasone, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "3000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "450 mEq, 9 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "240 mg, 24 VIAL"
+    },
+    {
+        "medication": "Fluconazole, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "800 mg, 2 BAG"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "100 UNIT, 5 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mEq, 20 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "500 UNIT, 5 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Dexamethasone, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "20 mg, 2 VIAL"
+    },
+    {
+        "medication": "Albumin 5% (25g / 500mL), IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "25 g, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Albumin 5% (25g / 500mL), IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "25 g, 1 VIAL"
+    },
+    {
+        "medication": "Ivermectin, ORAL",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "240 mg, 24 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-18 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "6 PUFF, 0.03 INH"
+    },
+    {
+        "medication": "Allopurinol, PO",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "200 mg, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "Meropenem, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ganciclovir, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "375 mg, 7.5 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "20 gm, 20 VIAL"
+    },
+    {
+        "medication": "Sodium CITRATE 4%, DWELL",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "2 mL, 0.6667 SYR"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "Fluconazole, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "400 mg, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "CycloSPORINE (Neoral) MODIFIED, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "50 mg, 2 CAP"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "Thiamine, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Fluconazole, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "CycloSPORINE (Sandimmune), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "25 mg, 0.5 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Mycophenolate Mofetil, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "250 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "42.5 mL, 42.5 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "D5W (EXCEL BAG), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "250 mL, 1 BAG"
+    },
+    {
+        "medication": "Allopurinol, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "200 mg, 2 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "150 mEq, 3 SYR"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "6-10 PUFF, 0.03-0.05 INH"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "12.5-25 mcg, 0.25-0.5 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Cosyntropin, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "250 mcg, 1 VIAL"
+    },
+    {
+        "medication": "Fluconazole, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "60 mg, 6 VIAL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "DOBUTamine, IV DRIP",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mg, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), DIALYS",
+        "start_time": "2141-04-17 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Mycophenolate Mofetil, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mg, 1 CAP"
+    },
+    {
+        "medication": "Mycophenolate Mofetil, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mg, 1 CAP"
+    },
+    {
+        "medication": "CycloSPORINE (Neoral) MODIFIED, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "70 mg, 0.7 mL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Influenza Virus Vaccine, IM",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "0.5 mL, 1 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "25 gm, 1 SYR"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, PO",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "25 gm, 1 SYR"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "CefePIME, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-17 00:00:00",
+        "dosage": "2 g, 10 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-18 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2141-04-15 00:00:00",
+        "end_time": "2141-04-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "2-4 gm, 1-2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "2-4 gm, 1-2 BAG"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "D10W, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "D10W, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "D10W, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "D5W (Glass Bottle), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "D5W (Glass Bottle), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "CycloSPORINE (Sandimmune), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "25 mg, 0.5 mL"
+    },
+    {
+        "medication": "CycloSPORINE (Sandimmune), IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "25 mg, 0.5 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-04-16 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Tuberculin Protein, ID",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "0.1 mL, 1 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Mycophenolate Mofetil, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "750 mg, 3 CAP"
+    },
+    {
+        "medication": "Mycophenolate Mofetil, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "7.5 mg, 3 TAB"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-14 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Acetylcysteine 20%, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "600 mg, 0.75 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-15 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2141-04-14 00:00:00",
+        "end_time": "2141-04-16 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    }
+]

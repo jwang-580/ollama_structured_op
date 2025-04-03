@@ -1,0 +1,93 @@
+[
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-22 07:09:00",
+        "vitals": "Tmax: 38.4,C (101.1,   Tcurrent: 38.1,C (100.5,   HR: 92 (72 - 113) bpm,   BP: 114/48(66) {80/46(57) - 177/87(118)} mmHg,   ",
+        "events": "24 Hour Events:, PAN CULTURE - At [**2107-11-21**] 04:30 PM bcx2-R IJ and L IJ, urine,,   sputum, MAGNETIC RESONANCE IMAGING - At [**2107-11-21**] 08:30 PM, FEVER - 101.1,F - [**2107-11-21**] 04:00 PM,   - To MRI head without gadolinium --> went to MRI but apparently not,   great quality as he was moving around --> should try to get wet read,   tomorrow in before fam mtg at 4pm,   - Called lab to speciate GPR's in blood,   - UCx with Pseudomonas is pan sensitive, continues on Cefepime,   - Had family meeting with Dr. [**Last Name (STitle) 832**] and Dr. [**Last Name (STitle) 699**] --> another,   planned for 4pm tomorrow, have notified IR (Dr. [**First Name (STitle) 10870**] and Neuro (Dr.,   [**Last Name (STitle) 3849**].,   - Off CVVH --> to get HD tomorrow,   - Called radiology re: DVT in subclavian seen on u/s is UNLIKELY, not,   likely,   - 430pm called to assess hypoTN in the 80-90's. Some discrepancy,   between a-line and cuff, but overall is hypotense. Also febrile to,   101.1, so got sputum, blood x2, and UCx and given 250cc bolus x2. F/u,   BP's in the night --> back to normal, even back to hypertense,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-17 10:54:00",
+        "vitals": "Tmax: 34.3,C (93.7,   Tcurrent: 34.3,C (93.7,   HR: 79 (55 - 84) bpm,   BP: 125/53(74) {74/43(52) - 131/64(84)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2107-11-16**] 11:00 PM,   CVL only,   History obtained from Medical records, icu team,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-18 10:43:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.6,C (97.8,   HR: 74 (66 - 84) bpm,   BP: 124/67(87) {109/54(73) - 175/90(115)} mmHg,   ",
+        "events": "24 Hour Events:, BRONCHOSCOPY - At [**2107-11-17**] 02:00 PM,   Hypoxemia, bronch, following some commands,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-20 07:46:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.2,C (98.9,   HR: 73 (67 - 101) bpm,   BP: 164/63(93) {100/50(68) - 196/83(119)} mmHg,   ",
+        "events": "24 Hour Events:,   - Blood culture with gram (+) rods,   -Inability to wean sedation d/t seizure-like activity and agitation,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-24 08:16:00",
+        "vitals": "Tmax: 38.4,C (101.1,   Tcurrent: 35.9,C (96.7,   HR: 78 (66 - 92) bpm,   BP: 161/77(104) {82/65(73) - 166/94(110)} mmHg,   ",
+        "events": "24 Hour Events:, STOOL CULTURE - At [**2107-11-23**] 12:25 PM,   cdiff, PICC LINE - START [**2107-11-23**] 06:22 PM,   placed and confirmed in IR by Dr. [**Doctor Last Name 10887**] during,   insertion:thrombosed/stenosed brachial-cephalic vein with,   +collaterals--needs plasty prior to Picc removal if afebrile, DIALYSIS CATHETER - STOP [**2107-11-23**] 06:23 PM, DIALYSIS CATHETER - START [**2107-11-23**] 06:26 PM,   placed in IR by Dr. [**Last Name (STitle) 10886**], MULTI LUMEN - STOP [**2107-11-23**] 10:46 PM, FEVER - 101.1,F - [**2107-11-23**] 04:00 PM,   - Family discussion and decision to change line.,   - IR for VIP and PICC,   - renal: CRRT when returns from IR and [**Doctor Last Name **]+ hydroxide for Phos binding,   - NaHCO3 for acidemia,   - low crit, does he need EPO?,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-06 07:08:00",
+        "vitals": "Tmax: 39.6,C (103.3,   Tcurrent: 37.6,C (99.6,   HR: 106 (82 - 138) bpm,   BP: 117/53(71) {68/37(47) - 191/105(130)} mmHg,   ",
+        "events": "24 Hour Events:, RECTAL SWAB - At [**2107-12-5**] 09:05 AM,   per ID for HD protocol, NASAL SWAB - At [**2107-12-5**] 06:24 PM, FEVER - 103.3,F - [**2107-12-5**] 01:00 PM,   [**12-5**],   - slightly more awake,   - planned to stop sedation today,   - started zosyn and vanco, stopped other antibiotics,   - had HD and got 1.2 L off,   - Low BP and fever to 103.3.  Tylenol, gave 500cc fluid bolus.,   - cdiff X3 and fungal blood culture tests sent.,   - NPO after midnight for RUQ u/s,   - Need to talk to renal re: contrast for CT scan.  Not sure if planning,   on saving kidney or not,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-19 08:15:00",
+        "vitals": "Tmax: 37.8,C (100,   Tcurrent: 37.2,C (98.9,   HR: 91 (74 - 95) bpm,   BP: 101/52(66) {93/46(62) - 190/88(115)} mmHg,   ",
+        "events": "24 Hour Events:,   - Nursing witnessed: 7:15am when propofol off, nurse noted R facial,   twitching and stiffening of body. Off sedation, pt noted to wiggle,   toes, open eyes, to command.,   - 8am Neuro resident noticed R facial twitching and L arm clonic,   movements, off propofol. Not typical movements for sz, and on EEG did,   not look like sz.,   - EEG without sz's, just epileptiform sharp features.,   - Neuro: [**Doctor Last Name 2576**] [**2083**] Jama article: if no spont eye movement today, has,   20% chance recovery with mod to severe disability. If does have spont,   eye movement, today has 75% chance recovery with mod disability.,   - Recs: Continue propofol for sedation bc has antiepileptic activities.,   If wean sedation, needs Keppra prophy. Will continue EEG. If sz,   activity push the button and record activity.,   - 4pm labs:,   - 7.29/53/152 on AC 400x22 40% PEEP 8 --> change to 400x24, 40%, PEEP 5,   with repeat ABG: 7.29/51/134/26 --> increased rr to 26,   - Neb trial didn't make much change in airway resistance,   - CXR [**11-18**]: chronic mild cardiac decompensations with LLL atelectasis.,   \"Varying degrees of cardiac decompensation\" over past several days (see,   CXR report),   - f/[**Location 10843**] head --> no acute intracranial process,   - art line may need to be replaced soon,   - BCx with GPR's --> spoke with ID, watch identification of it, if,   corynebacterium not as worrisome but if clostridium needs to address,   - UCx Pseudomonas came back pan sensitive,   - 8pm I did off propofol neuro exam: Eyes open and upward deviated with,   R exotropia. Lips and periorbital muscles twitching L>R. Forward,   flexing at hip clonically. Bilateral arms outstretched but not rigid.,   No purposeful movements, not following commands at all. Unresponsive to,   voice or tactile stimulation. Pupils 3mm bilaterally with L slight,   constriction to light, none on R. Lots of drooling and trying to spit,   out oral airway, indicating intact gag reflex. Has corneal reflex.,   Couldn't elicit bilateral brachial, brachioradialis, patellar, or,   Achilles reflexes. Couldn't elicit Babinski's. Did withdraw to pain on,   R foot nailbed crushing, all other extrems none. During this, RT,   reported about 1 min of apnea.,   - Later in the evening talked to family,   - Unclear why Cefepime was started, will need clarification in the am.,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-11-27 13:32:00",
+        "vitals": "Tmax: 37.9,C (100.3,   Tcurrent: 37.9,C (100.3,   HR: 98 (87 - 108) bpm,   BP: 82/74(78) {81/47(58) - 138/98(172)} mmHg,   ",
+        "events": "24 Hour Events:,   IR unable to get HD line functional.,   3 BM yesterday.,   No change in mental status-- stopped propofol once yesterday and once,   overnight. He did not follow commands but moved all extremities. Easily,   agitated.,   History obtained from [**Hospital 85**] Medical records,   Patient unable to provide history: Unresponsive,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-01 07:35:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 37.3,C (99.2,   HR: 88 (66 - 91) bpm,   BP: sbp 93-189 mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - STOP [**2107-11-30**] 04:04 PM, DIALYSIS CATHETER - START [**2107-11-30**] 04:57 PM,   placed in IR [**11-29**]; left subclavian line, EKG - At [**2107-12-1**] 06:05 AM,   - Have spoken to IP --> they can do on Friday, need to talk with family,   about moving forward. They will get back to us.,   - Stopped Cefepime and Linezolid,   - Renal recs: calcium will improve with CVVH, to be restarted,   - IR for HD line placement --> DONE! Now has L subclavian HD line and,   CVVH has been restarted.,   - Start Haldol 5 tid,   - Asked attending to call wife,   - In evening called to assess HTN to 180's. Around 4pm, pt went to IR,,   got Propofol to sedate him, and bp's were 130-150. Came back up, off,   Propofol back to Fent 100/Versed 8. BP's to 180's, resistant to,   Labetalol prn's. Face looks agitated/angry and biting down on ETT.,   Given Seroquel 50mg once.,   - Then, RT switched AC to CPAP bc he was fighting vent. Pt began having,   episode that neuro witnessed other day: staring straight up, not,   blinking. Face tense appearing. Witnessed fasciculations in bilateral,   temporal areas, concerning for electrical discharge in facial nerve??,   Not rigid in rest of body. BP's 170's. --> Will give time for Seroquel,   to work, then consider going up on the Versed, especially if seizure,   activity.,   - HTN, so scheduled Labetalol. Increased Versed gtt.,   - Once settled down, went back onto AC,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-01 10:16:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 37.3,C (99.1,   HR: 95 (66 - 97) bpm,   BP: 175/87(104) {174/75(98) - 189/90(111)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - STOP [**2107-11-30**] 04:04 PM,   placed in IR [**11-29**], DIALYSIS CATHETER - START [**2107-11-30**] 04:57 PM, EKG - At [**2107-12-1**] 06:05 AM,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-03 11:23:00",
+        "vitals": "Tmax: 38.9,C (102.1,   Tcurrent: 37.2,C (99,   HR: 88 (83 - 108) bpm,   BP: 158/68(96) {73/50(61) - 190/106(129)} mmHg,   ",
+        "events": "24 Hour Events:, PEG INSERTION - At [**2107-12-2**] 01:23 PM, PERCUTANEOUS TRACHEOSTOMY - At [**2107-12-2**] 01:23 PM, URINE CULTURE - At [**2107-12-2**] 02:54 PM, BLOOD CULTURED - At [**2107-12-2**] 02:54 PM,   off dialysis line and off aline, BRONCHOSCOPY - At [**2107-12-2**] 03:23 PM, FEVER - 102.1,F - [**2107-12-2**] 07:00 PM,   Patient unable to provide history: Sedated, intubated,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-18 08:03:00",
+        "vitals": "Tmax: 38,C (100.4,   Tcurrent: 37.2,C (99,   HR: 86 (85 - 104) bpm,   BP: 157/63(86) {104/50(65) - 213/140(158)} mmHg,   ",
+        "events": "24 Hour Events:,   - Patient with hypertension (200s/100s) this PM; denied CP, HA, vision,   changes, SOB.  Responded well to Labetolol 10mg IV (140s/80s).,   However, should page the renal fellow this AM to let them know that pt,   needs to be dialyzed today for volume overload.,   - overall, much improved mental status (patient talking, oriented and,   [**Location (un) 308**] today) and respiratory status, Passy-Muir in place for most of,   day (CPAP overnight).,   - d/w heme onc on monday ([**12-19**]) recs for anti-coag,   "
+    },
+    {
+        "admit_time": "2107-11-15 17:54:00",
+        "discharge_time": "2107-12-21",
+        "event_time": "2107-12-10 11:58:00",
+        "vitals": "Tmax: 37.8,C (100,   Tcurrent: 37.2,C (99,   HR: 75 (66 - 93) bpm,   BP: 167/71(93) {108/45(61) - 189/88(103)} mmHg,   ",
+        "events": "24 Hour Events:,   Back on vent overnight,   Started on coumadin for thomboses in IJ, IVC,   "
+    }
+]

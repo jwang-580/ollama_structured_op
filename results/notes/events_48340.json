@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2136-05-29 03:20:00",
+        "discharge_time": "2136-06-07",
+        "event_time": "2136-05-29 07:36:00",
+        "vitals": "Tmax: 38.4,C (101.2,   Tcurrent: 37.4,C (99.4,   HR: 84 (79 - 93) bpm,   BP: 131/60(75) {123/51(68) - 144/63(80)} mmHg,   ",
+        "events": "24 Hour Events:, URINE CULTURE - At [**2136-5-29**] 03:36 AM, STOOL CULTURE - At [**2136-5-29**] 03:51 AM, FEVER - 101.2,F - [**2136-5-29**] 01:30 AM,   Subjective:,   Patient reports that his nausea has improved substantially.  He,   continues to have fevers and chills however.  His SOB has improved,   substantially as well.   He reports having to loose BMs overnight.  His,   knee pain continues to bother him and is very tender with limited,   mobility.  Patient trying to  gradually increase PO food and water,   intake.  ROS otherwise neg.,   "
+    }
+]

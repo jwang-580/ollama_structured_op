@@ -1,0 +1,368 @@
+[
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "1 mL, 0.2 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "75 mg, 3 TAB"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "1 mL, 0.2 SYR"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.8-2.2 mL"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2120-08-13 00:00:00",
+        "end_time": "2120-08-14 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2120-08-13 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2120-08-14 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2120-08-14 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen w/Codeine, PO",
+        "start_time": "2120-08-15 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "2.25 g, 0.5 BAG"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Levofloxacin, PB",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-10 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-10 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Atorvastatin, PO",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "500 mL, 0.5 BAG"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "1 mg, 0.1 AMP"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-09 00:00:00",
+        "dosage": "7.5 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-13 00:00:00",
+        "dosage": "25 gm, 1 SYR"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-13 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-13 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "Prazosin HCl, PO",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "5 mg, 1 CAP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2120-08-07 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2120-08-08 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2120-08-08 00:00:00",
+        "end_time": "2120-08-08 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-08 00:00:00",
+        "end_time": "2120-08-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PR",
+        "start_time": "2120-08-08 00:00:00",
+        "end_time": "2120-08-09 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2120-08-08 00:00:00",
+        "end_time": "2120-08-09 00:00:00",
+        "dosage": "1 mg, 0.1 AMP"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "OxycoDONE (Immediate Release) , PO",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "5-10 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2120-08-09 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Sodium Citrate 4%, DWELL",
+        "start_time": "2120-08-10 00:00:00",
+        "end_time": "2120-08-11 00:00:00",
+        "dosage": "1.4 mL, 0.4667 SYR"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2120-08-10 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2120-08-11 00:00:00",
+        "end_time": "2120-08-15 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-12 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.8-2.2 mL"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2120-08-12 00:00:00",
+        "end_time": "2120-08-13 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-06 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Dextrose 5%, PB",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2120-08-06 00:00:00",
+        "end_time": "2120-08-07 00:00:00",
+        "dosage": "1600 UNIT, 0.32 mL"
+    }
+]

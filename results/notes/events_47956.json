@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2165-10-19 23:38:00",
+        "discharge_time": "2165-10-23",
+        "event_time": "2165-10-21 06:38:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 35.7,C (96.2,   HR: 59 (59 - 89) bpm,   BP: 105/58(69) {75/37(47) - 114/61(74)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2165-10-20**] 09:50 PM,   Patient became hypotensive to BP 70/40s at 2100 --> total 2 L fluid,   boluses followed by 1+L maintenance fluids.  She also c/o headache and,   dizziness at that time.  Review of telemetry showed dyssinchronous,   pacing spikes on native qrs as well as runs of ventricular pacing,   without native beats.  It seemed that her hypotension was correlating,   with runs of V pacing.,   Cardiology fellow came and adjusted pacer, increased sensitivity from,   1.5 to 5 and decreased pacing rate from 60 to 50. No further episodes,   of pacing or hypotension.,   This AM, patient denies HA, dizziness, chest pain or other complaints.,   "
+    },
+    {
+        "admit_time": "2165-10-19 23:38:00",
+        "discharge_time": "2165-10-23",
+        "event_time": "2165-10-20 07:10:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.4,C (99.4,   HR: 90 (84 - 100) bpm,   BP: 130/58(75) {98/40(53) - 155/83(101)} mmHg,   ",
+        "events": "24 Hour Events:, CORDIS/INTRODUCER - START [**2165-10-19**] 07:53 PM,   pt had temp wire placed upon arrival to floor, tolerated procedure well,   threshold 0.6 mA,   will pace at 60 bpm,   no events overnight,   2-4 beat runs of NSVT on tele,   History obtained from [**Hospital 31**] Medical records,   "
+    }
+]

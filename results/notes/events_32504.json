@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2120-08-07 07:06:00",
+        "discharge_time": "2120-08-15",
+        "event_time": "2120-08-11 09:37:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.2,C (97.2,   HR: 83 (63 - 86) bpm,   BP: 159/63(87) {111/41(63) - 174/135(124)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - START [**2120-8-10**] 02:00 PM,   triple [**Last Name (un) 405**] hd cath placed at bedside by renal fellow.,   Tolerated 1st course of HD yesterday.,   Remains somnulant, but arousable.  Up in Chair.,   No further episodes of hypoglycemia.,   Experiences right toe pain (has h/o gout),   More alert, answers more quickly.,   History obtained from [**Hospital 15**] Medical records,   Patient unable to provide history: Encephalopathy,   "
+    },
+    {
+        "admit_time": "2120-08-07 07:06:00",
+        "discharge_time": "2120-08-15",
+        "event_time": "2120-08-12 10:44:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.3,C (97.4,   HR: 74 (73 - 91) bpm,   BP: 153/72(91) {134/42(62) - 175/87(107)} mmHg,   ",
+        "events": "24 Hour Events:,                                  History obtained from [**Hospital 15**] Medical records,   "
+    },
+    {
+        "admit_time": "2120-08-07 07:06:00",
+        "discharge_time": "2120-08-15",
+        "event_time": "2120-08-10 06:56:00",
+        "vitals": "Tmax: 36.3,C (97.3,   Tcurrent: 36.2,C (97.1,   HR: 67 (64 - 76) bpm,   BP: 113/48(64) {106/44(61) - 147/104(109)} mmHg,   ",
+        "events": "24 Hour Events:,   Patient tolerated clear liquid diet,   Cardiac enzymes,   betablocker PO,   last BM [**8-8**]?,   UOP 45-100 -fluids stopped overnight,   mental status: labile, +asterixis,   continues to complain of RUQ pain  -seen by surgery, not acute abdomen,,   no indication for surgery,   -ERCP -no imaging unless change in labs or dvlps fever,   Renal: encephalopathic, increasing BUN -plan for dialysis today,   Nutrition recs: start tube feeds, encourage po intake,   "
+    },
+    {
+        "admit_time": "2120-08-07 07:06:00",
+        "discharge_time": "2120-08-15",
+        "event_time": "2120-08-07 06:55:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 37.2,C (98.9,   HR: 77 (73 - 103) bpm,   BP: 119/54(70) {95/49(62) - 130/80(84)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    }
+]

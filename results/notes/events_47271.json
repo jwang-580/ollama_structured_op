@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2122-08-17 04:40:00",
+        "discharge_time": "2122-08-27",
+        "event_time": "2122-08-20 07:40:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 55 (55 - 84) bpm,   BP: 109/68(78) {101/49(63) - 161/126(129)} mmHg,   ",
+        "events": "24 Hour Events:,   .,   - 3pm FVC 1.3 L, NIF -30,   - midnight: FVC 0.8L, NIF -45-50,   - 6am ([**8-20**]): FVC 0.8, NIF -50,   .,   - increase (starting [**8-20**]) Imuran to 150mg daily per neuro,   .,   Pt feels ok this AM. Denies SOB and difficulty taking breaths.,   "
+    },
+    {
+        "admit_time": "2122-08-17 04:40:00",
+        "discharge_time": "2122-08-27",
+        "event_time": "2122-08-19 07:43:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 36.7,C (98.1,   HR: 61 (54 - 82) bpm,   BP: 113/61(73) {87/45(57) - 195/74(102)} mmHg,   ",
+        "events": "24 Hour Events:,   -very labile BP overnight,   "
+    },
+    {
+        "admit_time": "2122-08-17 04:40:00",
+        "discharge_time": "2122-08-27",
+        "event_time": "2122-08-20 12:28:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.7,C (98,   HR: 78 (55 - 84) bpm,   BP: 135/76(87) {101/50(63) - 161/86(99)} mmHg,   ",
+        "events": "24 Hour Events:,   History obtained from [**Hospital 15**] Medical records,   "
+    }
+]

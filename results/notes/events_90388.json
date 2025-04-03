@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2123-12-16 04:01:00",
+        "discharge_time": "2123-12-22",
+        "event_time": "2123-12-17 10:26:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 79 (55 - 79) bpm,   BP: 126/64(77) {95/38(53) - 162/83(98)} mmHg,   ",
+        "events": "24 Hour Events:,   Remains with supplimental oxygen requirement, but decreasing.,   Somnulant, but arrousable.,   Unable to swallow secretions effectively.  Absent gag.,   History obtained from [**Hospital 15**] Medical records,   "
+    },
+    {
+        "admit_time": "2123-12-16 04:01:00",
+        "discharge_time": "2123-12-22",
+        "event_time": "2123-12-17 08:25:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 37,C (98.6,   HR: 64 (55 - 77) bpm,   BP: 126/57(72) {95/38(53) - 162/83(98)} mmHg,   ",
+        "events": "24 Hour Events:,   - family meeting with son (husband [**Name (NI) 653**]- confirmed full code status,   - Vanc/Zosyn for antibiotics, d/c'd levo,   - rpt CXR this am with persistent bibasilar opacities,   - Am labs [**12-16**] Hypernatremic to 149, D5 1/2 NS @ 150 ml/hr => check 3,   PM lytes- Na still 149- changes fluids to D5W @ 150cc/hr,   -Pt  too somnolent in evening for nursing to do trial of swallow,   -sent urine legionella,   -started albuterol nebs PRN for wheezing,   -Yesterday evening, pt noted to have unequal pupils but reactive bilat.,   Moving all 4 extremities equally. Pupils equal and reactive this am.,   History obtained from Patient,   "
+    }
+]

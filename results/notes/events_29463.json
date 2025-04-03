@@ -1,0 +1,51 @@
+[
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-30 12:13:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.4,C (97.5,   HR: 85 (76 - 85) bpm,   BP: 124/58(73) {111/57(73) - 144/69(84)} mmHg,   ",
+        "events": "24 Hour Events:, CALLED OUT,   no new events,,   ambulating,   tolerating POs,   History obtained from [**Hospital 85**] Medical records,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-30 08:00:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.7,C (98,   HR: 77 (76 - 85) bpm,   BP: 134/61(78) {111/57(73) - 144/71(84)} mmHg,   ",
+        "events": "24 Hour Events:, CALLED OUT,   -called out,   -Surgery recommended to discontinue antibiotics and re-start home,   coumadin,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-27 07:32:00",
+        "vitals": "Tmax: 38.2,C (100.8,   Tcurrent: 37.6,C (99.6,   HR: 84 (84 - 98) bpm,   BP: 133/59(76) {104/52(66) - 144/67(86)} mmHg,   ",
+        "events": "24 Hour Events:, CALLED OUT,   - HCT drop this morning,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-28 10:43:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.7,C (98.1,   HR: 84 (75 - 92) bpm,   BP: 147/59(78) {126/57(71) - 166/82(103)} mmHg,   ",
+        "events": "24 Hour Events:,   Unexplained Hct drop yesterday, stable after 2U PRBC,   CT w/large hematoma in GB fossa; surgery not impressed, b/l pleural,   effusions and b/l atelectasis vs. infiltrate,   Remains HD stable,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-27 10:32:00",
+        "vitals": "Tmax: 37.9,C (100.2,   Tcurrent: 36.9,C (98.5,   HR: 83 (81 - 98) bpm,   BP: 140/62(80) {104/52(66) - 144/67(86)} mmHg,   ",
+        "events": "24 Hour Events:,   Remains in NSR,   AM HCT was 17, repeat 19, sent for stat abd CT and plan for Tx 2 UPRBC.,   Hemodynamically stable and no abd pain during episode,   Surgery aware,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-29 07:33:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.4,C (97.6,   HR: 76 (70 - 91) bpm,   BP: 146/68(86) {120/58(73) - 155/73(93)} mmHg,   ",
+        "events": "24 Hour Events:,   - PM Hct Stable,   - Called out.,   - Net out 2L on home Bumex only,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2153-04-24 15:55:00",
+        "discharge_time": "2153-04-30",
+        "event_time": "2153-04-29 07:50:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.4,C (97.6,   HR: 76 (70 - 91) bpm,   BP: 146/68(86) {120/58(73) - 155/73(93)} mmHg,   ",
+        "events": "24 Hour Events:, CALLED OUT,   "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2141-04-14 03:30:00",
+        "discharge_time": "2141-04-18",
+        "event_time": "2141-04-18 08:39:00",
+        "vitals": null,
+        "events": "24 Hour Events:,   BMBx and Liver lesion bx showed high grade lymphoma. Not currently a,   candidate for chemo given instability. Started on ganciclovir. Now on,   neo and vaso for BP. On CVVH. Spiked a temp of 101 on CVVH., DIALYSIS CATHETER - STOP [**2141-4-17**] 09:32 AM, DIALYSIS CATHETER - START [**2141-4-17**] 10:00 AM,   "
+    },
+    {
+        "admit_time": "2141-04-14 03:30:00",
+        "discharge_time": "2141-04-18",
+        "event_time": "2141-04-16 07:46:00",
+        "vitals": "Tmax: 38.6,C (101.5,   Tcurrent: 36,C (96.8,   HR: 84 (82 - 109) bpm,   BP: 115/66(78) {102/57(68) - 126/73(84)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - START [**2141-4-15**] 11:16 PM, MULTI LUMEN - START [**2141-4-15**] 11:19 PM, MULTI LUMEN - START [**2141-4-15**] 11:19 PM, MULTI LUMEN - STOP [**2141-4-15**] 11:35 PM, MULTI LUMEN - STOP [**2141-4-15**] 11:48 PM, FEVER - 101.5,F - [**2141-4-15**] 08:00 PM,   - 4L NS for BP support,   - CVL,   - Surgery c/s - to go to OR,   "
+    },
+    {
+        "admit_time": "2141-04-14 03:30:00",
+        "discharge_time": "2141-04-18",
+        "event_time": "2141-04-16 08:46:00",
+        "vitals": "Tmax: 38.6,C (101.5,   Tcurrent: 36,C (96.8,   HR: 84 (82 - 109) bpm,   BP: 115/66(78) {102/57(68) - 126/73(84)} mmHg,   ",
+        "events": "24 Hour Events:,   Readmitted to ICU overnight and seen by Dr. [**Last Name (STitle) **].  He has been,   relatively hypotensive following admission, recieved fluid,   resucitation.  Surgery plans to take to OR today for exploratory lap;,   biopsy of lymphnode for possible PTLD.  Hypoglycemic overnight, placed,   on D5-bicarb drip with next glucose level pending.,   "
+    },
+    {
+        "admit_time": "2141-04-14 03:30:00",
+        "discharge_time": "2141-04-18",
+        "event_time": "2141-04-17 07:58:00",
+        "vitals": "Tmax: 38,C (100.4,   Tcurrent: 35.8,C (96.5,   HR: 80 (80 - 133) bpm,   BP: 77/51(64) {68/48(58) - 118/71(92)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2141-4-16**] 06:27 PM, ARTERIAL LINE - START [**2141-4-16**] 06:58 PM, ARTERIAL LINE - START [**2141-4-16**] 10:29 PM, ARTERIAL LINE - STOP [**2141-4-16**] 11:04 PM, DIALYSIS CATHETER - START [**2141-4-17**] 03:03 AM,   - Increased back pain: started on Morphine 1mg IV q2H PRN prior to,   surgery,   - Final CT A/P W/O CONTRAST Study Date of [**2141-4-13**] 11:19 PM,   1. Multiple enlarged mesenteric and retroperitoneal nodes. The most,   likely possibilities are lymphoma and post-transplant,   lymphoproliferative disorder. Several nodes are accessible for,   percutaneous sampling by CT guidance.,   2. Marked gallbladder wall edema likely relates to third spacing.,   - Renal Transplant recs: cyclosporine 50mg po Q12 while on Fluconazole,,   continue IVF, check haptoglobin level, check AM cyclosporine level,   - ID recs: Continue current antibiotics, send lymphnode for bacterial,   culture, fungal culture and AFB testing; unlikely that extrapulmonary,   TB would present with such decompensation, starting treatment overnight,   would not change course so rec await further data,   - Heme-onc recs: to open lymphnode biopsy, await results; could,   consider steroids empirically if clinically worsens, though this is not,   ideal given concern for infectious etiology,   - Bone marrow biopsy performed at bedside by Heme-Onc: preliminary,   without clonality,   - Surgery recs: patient consented, active T&C; post-op consider Echo,   for hemodynamic analysis, check bladder pressure to r/o abdominal,   compartment syndrome,   - Hypoglycemic: ?sepsis vs tumor burden, started on D10 gtt then,   transitioned to [**1-27**] pushes PRN to minimize IVF,   - Laproscopic evaluation: revealed free fluid that appeared was,   heterogeneous, studded liver; obtained bx of lymphnodes, liver and sent,   fluid for studies,   - Preliminary path: No evidence of clonality on flow, touch prep,   without monocellular component, cannot clearly rule-out lymphoma but no,   informatin to direct therapy at this point,   - Steroids added at 11pm: Decadron 4mg QID,   - CvO2 sat = 94 at 11pm; started Vasopressin --> repeat CvO2 94 1am,   - Repeat CXR in evening with worsening volume overload & continued poor,   uop; attempting to minimize fluid intake,   - L femoral HD line placed at 3am --> strarted CVVH at 5am,   History obtained from Medical records,   Patient unable to provide history: Unresponsive,   "
+    }
+]

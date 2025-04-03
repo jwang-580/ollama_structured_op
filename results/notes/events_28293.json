@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2169-04-04 01:27:00",
+        "discharge_time": "2169-04-06",
+        "event_time": "2169-04-04 08:03:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.3,C (99.1,   HR: 61 (60 - 72) bpm,   BP: 135/38(64) {129/38(64) - 154/52(77)} mmHg,   ",
+        "events": "24 Hour Events:,   - O2 requirement up to 5L currently (satting high 90s),   - feels improved from yesterday,   "
+    },
+    {
+        "admit_time": "2169-04-04 01:27:00",
+        "discharge_time": "2169-04-06",
+        "event_time": "2169-04-04 08:53:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.3,C (99.1,   HR: 61 (60 - 72) bpm,   BP: 145/45(71) {129/38(64) - 154/52(77)} mmHg,   ",
+        "events": "24 Hour Events:,   Nasal cannula increased from 4L to 5L.,   History obtained from Patient, [**Hospital 228**] Medical records,   "
+    },
+    {
+        "admit_time": "2169-04-04 01:27:00",
+        "discharge_time": "2169-04-06",
+        "event_time": "2169-04-04 07:57:00",
+        "vitals": null,
+        "events": "24 Hour Events:,   "
+    }
+]
