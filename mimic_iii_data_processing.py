@@ -117,6 +117,7 @@ def process_admission(adm_id: int, filtered_notes: pd.DataFrame, prescription: p
         scans = discharge_summary['TEXT'].str.extract(r'Pertinent Results:([\s\S]*)Brief Hospital Course:')
         if not scans.empty:
             scans[0] = scans[0].str.replace('\n', ' ')
+            scans[0] = scans[0].str.replace('\/', '')
             scans.to_json(f'{output_dir}/scans_{adm_id}.json', orient='records')
         
         # Extract assessment/plan
@@ -181,7 +182,7 @@ def process_admission(adm_id: int, filtered_notes: pd.DataFrame, prescription: p
         }
         events_list.append(event_dict)
     
-    with open(f'{output_dir}/events_{pt_id}.json', 'w') as f:
+    with open(f'{output_dir}/events_{adm_id}.json', 'w') as f:
         json.dump(events_list, f, indent=4)
 
 def main(num_admissions: Optional[int] = None, output_dir: str = "results/notes", 
