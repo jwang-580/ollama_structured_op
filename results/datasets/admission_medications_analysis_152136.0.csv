@@ -1,0 +1,41 @@
+HADM_ID,admit_time,HPI,medication
+152136.0,2145-10-03 20:48:00,"
+Bleow is admission information for a patient.
+
+HPI:
+Chief Complaint: Cardiac arrest s/p suspected heroin overdose  Major Surgical or Invasive Procedure: Intracranial bolt placed for ICP monitoring [**2145-10-7**] Bronchoscopy [**2145-10-10**]  History of Present Illness: Mr. [**Name14 (STitle) 80449**] is a 30 yo male with past medical history of hemochromatosis and hepatitis C found down after reported heroin use, found to be in cardiac arrest in the field. Per report EMS was called by a friend who reported the patient became unresponsive after heroin and alcohol use. Down time prior to EMS arrival was approximately 10 minutes per report. He was intubated in the field, and received 30 minutes of CPR with initial rhythm of asystole followed by PEA. He received epi X2, atropine X2, HCO3 X2 and narcan 6 mg.  Pt initially taken to [**Hospital 8125**] Hospital where intial BP 58/22. Pt treated with IV fluid bolus with improvement in his BP and 2amp of bicarb. Pupils were fixed and dilated. Initial EtOH level was 265. Initial ABG 6.94/77/66/16. CT Head negative for acute bleed.  He was transferred to [**Hospital1 18**] for ongoing care.  On arrival to the [**Hospital1 18**] ED, vitals: HR 130, 150/100. Neurologic exam on arrival included pupils fixed and non-reactive at 6mm. No withdrawal of extremities to pain. CXR showed ET in place. He was started on the Artic Sun post-arrest hypothermia protocol. 2 PIVs were placed and he was started on propofol for sedation. ABG on arrival: 7.41/24/172/16. Labs showed serum EtOH of 198. Serum benzo screen positive.   Past Medical History: Psoriasis  Hemochromatosis  Hepatitis C  Hx substance abuse, EtOH/IVDU (Heroin)
+
+Home meds:
+medications=['Seroquel', 'Librium']
+
+Abnormal labs at baseline:
+[]
+
+Abnormal labs at admission:
+[{'lab_name': 'Creatine Kinase (CK), Blood', 'lab_value': '2093.0 IU/L'}, {'lab_name': 'Ethanol, Blood', 'lab_value': '198.0 mg/dL'}, {'lab_name': 'Lipase, Blood', 'lab_value': '86.0 IU/L'}, {'lab_name': 'Hematocrit, Blood', 'lab_value': '38.4 %'}, {'lab_name': 'Hemoglobin, Blood', 'lab_value': '13.5 g/dL'}, {'lab_name': 'MCH, Blood', 'lab_value': '34.2 pg'}, {'lab_name': 'MCHC, Blood', 'lab_value': '35.3 %'}, {'lab_name': 'Red Blood Cells, Blood', 'lab_value': '3.95 m/uL'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '16.0 mEq/L'}, {'lab_name': 'pCO2, Blood', 'lab_value': '24.0 mm Hg'}, {'lab_name': 'pO2, Blood', 'lab_value': '172.0 mm Hg'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '18.0 mEq/L'}, {'lab_name': 'pCO2, Blood', 'lab_value': '30.0 mm Hg'}, {'lab_name': 'pO2, Blood', 'lab_value': '628.0 mm Hg'}, {'lab_name': 'Alanine Aminotransferase (ALT), Blood', 'lab_value': '184.0 IU/L'}, {'lab_name': 'Alkaline Phosphatase, Blood', 'lab_value': '141.0 IU/L'}, {'lab_name': 'Anion Gap, Blood', 'lab_value': '22.0 mEq/L'}, {'lab_name': 'Asparate Aminotransferase (AST), Blood', 'lab_value': '317.0 IU/L'}, {'lab_name': 'Bicarbonate, Blood', 'lab_value': '19.0 mEq/L'}, {'lab_name': 'Creatine Kinase (CK), Blood', 'lab_value': '2060.0 IU/L'}, {'lab_name': 'Glucose, Blood', 'lab_value': '194.0 mg/dL'}, {'lab_name': 'MCH, Blood', 'lab_value': '34.5 pg'}, {'lab_name': 'MCHC, Blood', 'lab_value': '35.2 %'}, {'lab_name': 'Red Blood Cells, Blood', 'lab_value': '4.18 m/uL'}, {'lab_name': 'Free Calcium, Blood', 'lab_value': '1.08 mmol/L'}, {'lab_name': 'pH, Blood', 'lab_value': '7.3 units'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '19.0 mEq/L'}, {'lab_name': 'pH, Blood', 'lab_value': '7.33 units'}, {'lab_name': 'pO2, Blood', 'lab_value': '181.0 mm Hg'}]
+
+Scans done at admission:
+{'2145-10-3': 'BLOOD WBC-4.9 RBC-3.95* Hgb-13.5* Hct-38.4* MCV-97 MCH-34.2* MCHC-35.3* RDW-14.9 Plt Ct-165, PT-12.2 PTT-23.1 INR(PT)-1.0, Glucose-194* UreaN-8 Creat-1.1 Na-145 K-3.4 Cl-107 HCO3-19* AnGap-22*, ALT-184* AST-317* CK(CPK)-2060* AlkPhos-141* Amylase-55, CK-MB-7 cTropnT-<0.01, ASA-NEG Ethanol-198* Acetmnp-NEG Bnzodzp-POS Barbitr-NEG Tricycl-NEG'}
+
+What medication should be started for this patient at admission?
+","Cisatracurium Besylate, IV"
+152136.0,2145-10-03 20:48:00,"
+Bleow is admission information for a patient.
+
+HPI:
+Chief Complaint: Cardiac arrest s/p suspected heroin overdose  Major Surgical or Invasive Procedure: Intracranial bolt placed for ICP monitoring [**2145-10-7**] Bronchoscopy [**2145-10-10**]  History of Present Illness: Mr. [**Name14 (STitle) 80449**] is a 30 yo male with past medical history of hemochromatosis and hepatitis C found down after reported heroin use, found to be in cardiac arrest in the field. Per report EMS was called by a friend who reported the patient became unresponsive after heroin and alcohol use. Down time prior to EMS arrival was approximately 10 minutes per report. He was intubated in the field, and received 30 minutes of CPR with initial rhythm of asystole followed by PEA. He received epi X2, atropine X2, HCO3 X2 and narcan 6 mg.  Pt initially taken to [**Hospital 8125**] Hospital where intial BP 58/22. Pt treated with IV fluid bolus with improvement in his BP and 2amp of bicarb. Pupils were fixed and dilated. Initial EtOH level was 265. Initial ABG 6.94/77/66/16. CT Head negative for acute bleed.  He was transferred to [**Hospital1 18**] for ongoing care.  On arrival to the [**Hospital1 18**] ED, vitals: HR 130, 150/100. Neurologic exam on arrival included pupils fixed and non-reactive at 6mm. No withdrawal of extremities to pain. CXR showed ET in place. He was started on the Artic Sun post-arrest hypothermia protocol. 2 PIVs were placed and he was started on propofol for sedation. ABG on arrival: 7.41/24/172/16. Labs showed serum EtOH of 198. Serum benzo screen positive.   Past Medical History: Psoriasis  Hemochromatosis  Hepatitis C  Hx substance abuse, EtOH/IVDU (Heroin)
+
+Home meds:
+medications=['Seroquel', 'Librium']
+
+Abnormal labs at baseline:
+[]
+
+Abnormal labs at admission:
+[{'lab_name': 'Creatine Kinase (CK), Blood', 'lab_value': '2093.0 IU/L'}, {'lab_name': 'Ethanol, Blood', 'lab_value': '198.0 mg/dL'}, {'lab_name': 'Lipase, Blood', 'lab_value': '86.0 IU/L'}, {'lab_name': 'Hematocrit, Blood', 'lab_value': '38.4 %'}, {'lab_name': 'Hemoglobin, Blood', 'lab_value': '13.5 g/dL'}, {'lab_name': 'MCH, Blood', 'lab_value': '34.2 pg'}, {'lab_name': 'MCHC, Blood', 'lab_value': '35.3 %'}, {'lab_name': 'Red Blood Cells, Blood', 'lab_value': '3.95 m/uL'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '16.0 mEq/L'}, {'lab_name': 'pCO2, Blood', 'lab_value': '24.0 mm Hg'}, {'lab_name': 'pO2, Blood', 'lab_value': '172.0 mm Hg'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '18.0 mEq/L'}, {'lab_name': 'pCO2, Blood', 'lab_value': '30.0 mm Hg'}, {'lab_name': 'pO2, Blood', 'lab_value': '628.0 mm Hg'}, {'lab_name': 'Alanine Aminotransferase (ALT), Blood', 'lab_value': '184.0 IU/L'}, {'lab_name': 'Alkaline Phosphatase, Blood', 'lab_value': '141.0 IU/L'}, {'lab_name': 'Anion Gap, Blood', 'lab_value': '22.0 mEq/L'}, {'lab_name': 'Asparate Aminotransferase (AST), Blood', 'lab_value': '317.0 IU/L'}, {'lab_name': 'Bicarbonate, Blood', 'lab_value': '19.0 mEq/L'}, {'lab_name': 'Creatine Kinase (CK), Blood', 'lab_value': '2060.0 IU/L'}, {'lab_name': 'Glucose, Blood', 'lab_value': '194.0 mg/dL'}, {'lab_name': 'MCH, Blood', 'lab_value': '34.5 pg'}, {'lab_name': 'MCHC, Blood', 'lab_value': '35.2 %'}, {'lab_name': 'Red Blood Cells, Blood', 'lab_value': '4.18 m/uL'}, {'lab_name': 'Free Calcium, Blood', 'lab_value': '1.08 mmol/L'}, {'lab_name': 'pH, Blood', 'lab_value': '7.3 units'}, {'lab_name': 'Calculated Total CO2, Blood', 'lab_value': '19.0 mEq/L'}, {'lab_name': 'pH, Blood', 'lab_value': '7.33 units'}, {'lab_name': 'pO2, Blood', 'lab_value': '181.0 mm Hg'}]
+
+Scans done at admission:
+{'2145-10-3': 'BLOOD WBC-4.9 RBC-3.95* Hgb-13.5* Hct-38.4* MCV-97 MCH-34.2* MCHC-35.3* RDW-14.9 Plt Ct-165, PT-12.2 PTT-23.1 INR(PT)-1.0, Glucose-194* UreaN-8 Creat-1.1 Na-145 K-3.4 Cl-107 HCO3-19* AnGap-22*, ALT-184* AST-317* CK(CPK)-2060* AlkPhos-141* Amylase-55, CK-MB-7 cTropnT-<0.01, ASA-NEG Ethanol-198* Acetmnp-NEG Bnzodzp-POS Barbitr-NEG Tricycl-NEG'}
+
+What medication should be started for this patient at admission?
+","Calcium Gluconate, IV"

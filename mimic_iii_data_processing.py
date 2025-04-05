@@ -13,7 +13,7 @@ def load_filtered_data(data_dir: str) -> tuple:
     """Load pre-filtered datasets if they exist."""
     try:
         filtered_notes = pd.read_csv(os.path.join(data_dir, 'filtered_notes.csv'))
-        labs = pd.read_csv(os.path.join(data_dir, 'labs.csv'))
+        labs = pd.read_csv(os.path.join(data_dir, 'labs_with_labels.csv'))
         prescription = pd.read_csv(os.path.join(data_dir, 'PRESCRIPTIONS.csv'))
         available_hadm_ids = list(set(filtered_notes['HADM_ID']))
         return filtered_notes, prescription, labs, available_hadm_ids
@@ -70,7 +70,7 @@ def save_filtered_data(filtered_notes: pd.DataFrame, labs: pd.DataFrame, prescri
     """Save filtered datasets for future use."""
     os.makedirs(data_dir, exist_ok=True)
     filtered_notes.to_csv(os.path.join(data_dir, 'filtered_notes.csv'), index=False)
-    labs.to_csv(os.path.join(data_dir, 'labs.csv'), index=False)
+    labs.to_csv(os.path.join(data_dir, 'labs_with_labels.csv'), index=False)
     prescription.to_csv(os.path.join(data_dir, 'PRESCRIPTIONS.csv'), index=False)
     print(f"Saved filtered data to {data_dir}")
 
@@ -88,9 +88,9 @@ def process_admission(adm_id: int, filtered_notes: pd.DataFrame, prescription: p
         print(f"No admission note found for HADM_ID {adm_id}")
         return
         
-    admit_time = admit_note['CHARTTIME'].item()
+    admit_time = admit_note['CHARTTIME'].iloc[0]
     discharge_time = progress_notes[progress_notes['CATEGORY'].str.contains('Discharge summary', na=False)]['CHARTDATE'].item()
-    pt_id = admit_note['SUBJECT_ID'].item()
+    pt_id = admit_note['SUBJECT_ID'].iloc[0]
     
     # Process medications
     sample_meds = prescription[prescription['HADM_ID']==adm_id]
@@ -105,6 +105,7 @@ def process_admission(adm_id: int, filtered_notes: pd.DataFrame, prescription: p
         HPI = discharge_summary['TEXT'].str.extract(r'Admission Date:([\s\S]*)Social History:')
         if not HPI.empty:
             HPI[0] = HPI[0].str.replace('\n', ' ')
+            HPI[0] = HPI[0].str.replace('\/', '')
             HPI.to_json(f'{output_dir}/HPI_{adm_id}.json', orient='records')
         
         # Extract admission medications

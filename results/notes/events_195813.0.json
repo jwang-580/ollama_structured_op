@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2146-05-31 13:00:00",
+        "discharge_time": "2146-06-10",
+        "event_time": "2146-06-01 06:08:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 36.4,C (97.5,   HR: 75 (62 - 95) bpm,   BP: 92/53(62) {74/39(46) - 118/63(74)} mmHg,   ",
+        "events": "24 Hour Events:,   -NSURG thinks it might be burnt out osteo - wanted CRP (NSRG thinks,   tagged WBC will be positive in burnt out osteo as well as active).,   Tagged scan today.,   -CRP significantly elevated,   -ID Recs - start micofungin in addition to daptomycin; repeat blood cx,   in AM,   -Prelim read of RUQ U/S - unchanged from prior,   -Final read of lumbar spine CT - possible diskitis at L4-L5,   - on 0.04 levophed,   - still c/o moderate back pain,   "
+    },
+    {
+        "admit_time": "2146-05-31 13:00:00",
+        "discharge_time": "2146-06-10",
+        "event_time": "2146-06-03 07:52:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.3,C (97.4,   HR: 87 (79 - 95) bpm,   BP: 87/53(61) {78/50(58) - 98/59(67)} mmHg,   ",
+        "events": "24 Hour Events:, NUCLEAR MEDICINE - At [**2146-6-2**] 10:00 AM,   "
+    }
+]

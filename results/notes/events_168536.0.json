@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2123-09-24 20:55:00",
+        "discharge_time": "2123-09-26",
+        "event_time": "2123-09-25 06:40:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 98 (78 - 113) bpm,   BP: 138/75(90) {112/55(69) - 154/88(98)} mmHg,   ",
+        "events": "24 Hour Events:,   Developed Chest Pain around 11 pm. Refused EKG. Given nitro *2 with,   resolution as per his home regimen for when he develops CP.,   Received 2u pRBCs (Hct after 1st unit did not bump, given 2nd with,   appropriate response), received lasix 10mg IV during 2^nd unit,   Patient and his son would like for him to go home [**Name (NI) 2587**].,   "
+    }
+]
