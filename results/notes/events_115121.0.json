@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2167-01-14 03:40:00",
+        "discharge_time": "2167-02-03",
+        "event_time": "2167-01-15 07:10:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 36.3,C (97.4,   HR: 105 (90 - 122) bpm,   BP: 125/60(73) {88/43(55) - 154/72(91)} mmHg,   ",
+        "events": "24 Hour Events:,   - Added Azithromycin ([**1-14**]-); Continued vanco/[**Last Name (un) **]/flagyl,   - Continued nystatin, acyclovir and fluconazole for mucositis,   - Transfused 1 u prbc - 20 > 23.1,   - cx data - nothing new,   - BMT reccs - continue azithro/flagyl/fluc/vanco/[**Last Name (un) **]; family meeting,   re: chemo; continue to follow ldh, counts, tumor lysis labs; maintain,   hct > 25; continue hep B and tb meds,   - ID - continue 4 drug regimen (ehtambutol, pyrasinamide, rifambutin,,   inh) b/c pt from TB endemic area and splenic/liver granulomas suggest,   disseminated TB, and concern for starting chemo and high risk of,   peritoneal bx; continue precautions; no comment on acyclovir,   - Crackles at base noted [**2188**] --> lasix 10 mg iv and put out 500 cc,   uop; repeated 10 mg iv x1,   - repleted lytes with amls,   "
+    },
+    {
+        "admit_time": "2167-01-14 03:40:00",
+        "discharge_time": "2167-02-03",
+        "event_time": "2167-01-15 10:27:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 36.3,C (97.4,   HR: 105 (90 - 122) bpm,   BP: 125/60(73) {88/43(55) - 154/72(91)} mmHg,   ",
+        "events": "24 Hour Events:,   History obtained from Medical records,   Patient unable to provide history: Language barrier,   "
+    }
+]

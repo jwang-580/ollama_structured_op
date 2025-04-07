@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2197-03-30 16:43:00",
+        "discharge_time": "2197-04-01",
+        "event_time": "2197-03-31 06:58:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.4,C (99.4,   HR: 89 (70 - 93) bpm,   BP: 114/67(76) {103/64(76) - 151/92(103)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2197-3-30**] 11:15 AM, MAGNETIC RESONANCE IMAGING - At [**2197-3-30**] 04:10 PM, INVASIVE VENTILATION - STOP [**2197-3-30**] 08:11 PM, C-SPINE CLEARANCE - At [**2197-3-30**] 08:30 PM,   - Precsiption medications per Rite-Aid Pnarmacy:,   1) Provigil 200 mg PO daily (last refill [**1-/2197**]),   2) Midrin (generic version) 2 capsules PO at onset of headache, repeat,   once PRN (last refill [**2-/2197**]),   3) Astelin nasal spray 2 sprays to each nostril [**Hospital1 **] (last refill,   [**1-/2197**]),   4) Lamotrigine 200 mg PO BID (last refill [**11/2196**]),   5) Clonazepam 0.5 mg once daily PRN (last refill [**10/2196**]),   6) Lisinopril/HCTZ 20/12.5 mg PO once daily (last refill [**6-/2196**]),   .,   - Neuro: Twitching of right shoulder -> ordered for home lamictal dose,   200mg [**Hospital1 **]. cannot do EEG while patient is intubated (will need to,   re-order once extubated),   - Prelim MRI/MRV read negative for thrombus, but + chronic sinusitis,   with changes in the right maxillary sinus that could be consistent with,   fungal infection (correlate clinically - given no risk factors, seems,   unlikely),   - Sedation weaned and patient able to follow commands, neuro exam,   intact. Therefore, extubated.,   - Interesting tip: Ultram can trigger positive U-tox for methadone.,   "
+    },
+    {
+        "admit_time": "2197-03-30 16:43:00",
+        "discharge_time": "2197-04-01",
+        "event_time": "2197-03-31 08:52:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 36.9,C (98.4,   HR: 91 (70 - 93) bpm,   BP: 124/78(89) {103/63(75) - 151/92(103)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2197-3-30**] 11:15 AM, MAGNETIC RESONANCE IMAGING - At [**2197-3-30**] 04:10 PM, INVASIVE VENTILATION - STOP [**2197-3-30**] 08:11 PM, C-SPINE CLEARANCE - At [**2197-3-30**] 08:30 PM,   "
+    }
+]

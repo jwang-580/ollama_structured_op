@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2125-01-02 22:02:00",
+        "discharge_time": "2125-01-08",
+        "event_time": "2125-01-03 09:40:00",
+        "vitals": "Tmax: 38.6,C (101.4,   Tcurrent: 38.6,C (101.4,   HR: 122 (119 - 128) bpm,   BP: 138/79(93) {122/77(90) - 169/108(117)} mmHg,   ",
+        "events": "24 Hour Events:,   No further bleeding overnight. Repleted K, MG, Phos overnight. Recieved,   50 of valium, and 4 of haldol.,   "
+    },
+    {
+        "admit_time": "2125-01-02 22:02:00",
+        "discharge_time": "2125-01-08",
+        "event_time": "2125-01-03 07:22:00",
+        "vitals": "Tmax: 37.9,C (100.2,   Tcurrent: 37.5,C (99.5,   HR: 120 (120 - 128) bpm,   BP: 151/93(105) {122/77(90) - 169/108(117)} mmHg,   ",
+        "events": "24 Hour Events:,   Tmax 101.4 7am,   - Patient given 40 Valium for withdrawal,   - Haldol 2mg IV x2 for agitation,   "
+    }
+]

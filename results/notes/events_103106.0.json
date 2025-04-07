@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2155-03-01 22:08:00",
+        "discharge_time": "2155-03-04",
+        "event_time": "2155-03-02 10:34:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 37.1,C (98.7,   HR: 93 (73 - 107) bpm,   BP: 156/90(114){99/15(36) - 162/113(119)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2155-3-1**] 02:00 PM, PICC LINE - STOP [**2155-3-1**] 03:05 PM, MULTI LUMEN - START [**2155-3-1**] 07:00 PM,   Now off insulin drip, good urine output, and feeling better and more,   alert,   History obtained from [**Hospital 85**] Medical records,   "
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2114-03-29 18:28:00",
+        "discharge_time": "2114-04-19",
+        "event_time": "2114-04-01 06:19:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.2,C (98.9,   HR: 60 (52 - 65) bpm,   BP: 142/47(72) {108/34(53) - 175/67(95)} mmHg,   ",
+        "events": "24 Hour Events:, CHEST PAIN - At [**2114-3-31**] 09:45 AM,   - had an episode of chest pain that responded to a nitro gtt; has been,   chest pain free since then,   - blood pressures fine,   - further clarified home insulin regimen, started on NPH 6u [**Hospital1 **],   - started heparin gtt now that INR<2,   "
+    },
+    {
+        "admit_time": "2114-03-29 18:28:00",
+        "discharge_time": "2114-04-19",
+        "event_time": "2114-03-31 07:36:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.6,C (97.8,   HR: 58 (48 - 63) bpm,   BP: 152/55(80) {109/34(53) - 162/94(110)} mmHg,   ",
+        "events": "24 Hour Events:,   CP in am, mild EKG changes, nitro drip started, CP resolved.,   -hypertensive to 170s with HR 50s, asymptomatic. Gave captopril 12.5,   mg, then lisinopril 20 mg, with improvement of SBP to 140s-150s,   Seen by CT-[**Doctor First Name 91**] (Dr [**First Name (STitle) **] continue nitro drip, plan for surgery on,   Monday). NPO on Sunday pm,   -CT chest preop for CABG, calcifications throughout Aorta.,   "
+    },
+    {
+        "admit_time": "2114-03-29 18:28:00",
+        "discharge_time": "2114-04-19",
+        "event_time": "2114-03-30 07:15:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.5,C (97.7,   HR: 61 (49 - 61) bpm,   BP: 148/42(69) {128/42(57) - 183/104(103)} mmHg,   ",
+        "events": "24 Hour Events:, CARDIAC CATH - At [**2114-3-29**] 04:15 PM,   -hypertensive to 170s with HR 50s, asymptomatic. Gave captopril 12.5,   mg, then lisinopril 20 mg, with improvement of SBP to 150s,   "
+    }
+]

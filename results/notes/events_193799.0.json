@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2142-08-31 00:49:00",
+        "discharge_time": "2142-09-11",
+        "event_time": "2142-09-03 08:06:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.4,C (97.6,   HR: 93 (69 - 105) bpm,   BP: 87/36(48) {87/33(48) - 103/50(60)} mmHg,   ",
+        "events": "24 Hour Events:,   Per neuro keppra dc'd, currently on dilantin, level pending.,   EEG monitoring currently, per neuro, needs seizure free period >24,   hours before DC monitoring. After dc EEG, MRI to assess for,   anoxic/ischemic injury.,   Family specified no LP, broad spectrum anti-meningitis abx: acyclovir,   400mg/ampicillin 2g, Cefepime 2g.,   ROMI: Trops trending down (0.21, 0.24, 0.29), CK-MB 2, 4, not done.,   CXR, EKG: downsloping, 3mm STD in V4-V6, inf TWI, new from prior.,   Has DNR (not DNI) order.,   Cultures: Urine Cx, Urine legionella Ag -ve. Stool C.diff, sputum Cx, &,   Mrsa screen Pending.,   [**2142-9-1**],   TFs restarted, IVF given and UOP/BP picked up.,   [**9-2**],   Digoxin level 0.9, restarted home dose of digoxin, repleted K and phos.,   Dilantin - continue current dose (100mg TID), neuro okay with,   correction.,   Attempted to update family, but no answer.,   INR 7.2 - Gave 1mg PO VitK with plan to recheck at 10AM,   "
+    },
+    {
+        "admit_time": "2142-08-31 00:49:00",
+        "discharge_time": "2142-09-11",
+        "event_time": "2142-09-02 06:54:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.2,C (97.1,   HR: 92 (68 - 100) bpm,   BP: 97/44(57) {85/36(50) - 119/59(71)} mmHg,   ",
+        "events": "24 Hour Events:,   TFs restarted, IVF given and UOP/BP picked up.,   "
+    },
+    {
+        "admit_time": "2142-08-31 00:49:00",
+        "discharge_time": "2142-09-11",
+        "event_time": "2142-09-07 07:23:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.3,C (97.4,   HR: 114 (101 - 123) bpm,   BP: 96/57(63) {87/45(52) - 126/68(79)} mmHg,   ",
+        "events": "24 Hour Events:,   EEG showed continuing to seize intermittently, subclinical, no ativan,   given. Dilantin therapeutic level but seizing through. Per neuro,   restarting Keppra.  EMG ordered.,   "
+    },
+    {
+        "admit_time": "2142-08-31 00:49:00",
+        "discharge_time": "2142-09-11",
+        "event_time": "2142-09-08 10:32:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 36.9,C (98.5,   HR: 107 (75 - 121) bpm,   BP: 92/45(55) {92/45(55) - 123/71(79)} mmHg,   ",
+        "events": "24 Hour Events:,   MRI: diffuse white matter changes, ventriculomegaly, old hemmorhage,,   chronic cerbellar infarcts, - no acute changes, diffuse patchy,   meningeal enhancement non spec and coudl even be due to lumbar puncture,   This AM appeared to be having recurrent SZ activity- given Ativan 2 mg,   IV,   "
+    },
+    {
+        "admit_time": "2142-08-31 00:49:00",
+        "discharge_time": "2142-09-11",
+        "event_time": "2142-09-10 07:17:00",
+        "vitals": "Tmax: 37.9,C (100.3,   Tcurrent: 37.7,C (99.9,   HR: 82 (81 - 125) bpm,   BP: 93/36(49) {86/31(44) - 117/69(80)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2142-9-9**] 09:08 PM,   Continued intermittent seizure per neuro, continue  abx, keppra,,   dilantin, start depakote.,   Bumped Cr, stopped lasix gtt, now on bolus, goal even. PM lytes K+ wnl,,   Cr 1.0 initially held lasix but continued given bicarb. Spiked temp to,   100.3, pan cultured.,   Dilantin therapeutic after bolus, loading dose depakote given.  We,   should discuss goals of care with son this week re stay here vs [**Hospital **],   rehab in context of continued seizures.,   "
+    }
+]

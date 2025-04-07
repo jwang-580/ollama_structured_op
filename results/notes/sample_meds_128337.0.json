@@ -1,0 +1,524 @@
+[
+    {
+        "medication": "Dextrose 5%, IV",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-09 00:00:00",
+        "dosage": "150 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-09 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-13 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-15 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2104-02-09 00:00:00",
+        "end_time": "2104-02-10 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-09 00:00:00",
+        "end_time": "2104-02-10 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-09 00:00:00",
+        "end_time": "2104-02-10 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2104-02-09 00:00:00",
+        "end_time": "2104-02-15 00:00:00",
+        "dosage": "750 mg, 3 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2104-02-09 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2104-02-11 00:00:00",
+        "end_time": "2104-02-12 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-11 00:00:00",
+        "end_time": "2104-02-12 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-11 00:00:00",
+        "end_time": "2104-02-12 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-12 00:00:00",
+        "end_time": "2104-02-12 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-12 00:00:00",
+        "end_time": "2104-02-13 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-13 00:00:00",
+        "end_time": "2104-02-13 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-13 00:00:00",
+        "end_time": "2104-02-14 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-13 00:00:00",
+        "end_time": "2104-02-14 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Cosyntropin, IV",
+        "start_time": "2104-02-14 00:00:00",
+        "end_time": "2104-02-15 00:00:00",
+        "dosage": "250 mcg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-14 00:00:00",
+        "end_time": "2104-02-15 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-14 00:00:00",
+        "end_time": "2104-02-15 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-15 00:00:00",
+        "end_time": "2104-02-16 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-15 00:00:00",
+        "end_time": "2104-02-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-15 00:00:00",
+        "end_time": "2104-02-16 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Fludrocortisone Acetate, PO",
+        "start_time": "2104-02-15 00:00:00",
+        "end_time": "2104-02-17 00:00:00",
+        "dosage": "0.1 mg, 1 TAB"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-17 00:00:00",
+        "end_time": "2104-02-18 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-17 00:00:00",
+        "end_time": "2104-02-18 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Fludrocortisone Acetate, PO",
+        "start_time": "2104-02-17 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "0.2 mg, 2 TAB"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "FoLIC Acid, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1 mg, 0.2 mL"
+    },
+    {
+        "medication": "Multivitamin IV, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "10 mL, 1 VIAL"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "Diazepam, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "15-30 mg, 1.5-3 SYR"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "15-30 mg, 1.5-3 TAB"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "40 mg, 2 CAP"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "4-6 mg, 2-3 mL"
+    },
+    {
+        "medication": "Diazepam, IV",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-05 00:00:00",
+        "dosage": "15-30 mg, 1.5-3 SYR"
+    },
+    {
+        "medication": "Diazepam, IV",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "20-40 mg, 2-4 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "20-40 mg, 2-4 TAB"
+    },
+    {
+        "medication": "FoLIC Acid, PO",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, PO",
+        "start_time": "2104-02-05 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Haloperidol, IM",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-06 00:00:00",
+        "dosage": "1 mg, 0.2 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Diazepam, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "15 mg, 1.5 SYR"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Aztreonam, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2104-02-06 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "1 mg, 0.2 VIAL"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5NS, IV",
+        "start_time": "2104-02-07 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2104-02-07 00:00:00",
+        "end_time": "2104-02-07 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2104-02-07 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Guaifenesin, PO",
+        "start_time": "2104-02-07 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "5-10 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2104-02-07 00:00:00",
+        "end_time": "2104-02-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-08 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Levofloxacin, IV",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-09 00:00:00",
+        "dosage": "750 mg, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2104-02-08 00:00:00",
+        "end_time": "2104-02-09 00:00:00",
+        "dosage": "1 PKT, 1 PKT"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Diazepam, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "15-30 mg, 1.5-3 SYR"
+    },
+    {
+        "medication": "Multivitamin IV, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "10 mL, 1 VIAL"
+    },
+    {
+        "medication": "FoLIC Acid, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1 mg, 0.2 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "2-4 mg, 1-2 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2104-02-04 00:00:00",
+        "end_time": "2104-02-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    }
+]

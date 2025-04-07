@@ -1,0 +1,284 @@
+[
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "325-650 mg, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "8 mg, 2 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2101-02-24 00:00:00",
+        "end_time": "2101-02-24 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2101-02-24 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "120 mg, 3 VIAL"
+    },
+    {
+        "medication": "Meropenem, IV",
+        "start_time": "2101-02-24 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2101-02-24 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO/NG",
+        "start_time": "2101-02-25 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "750 mg, 1.5 TAB"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO/NG",
+        "start_time": "2101-02-25 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "CefTAZidime, IV",
+        "start_time": "2101-02-25 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "1 g, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2101-02-25 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2101-02-26 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2101-02-26 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Torsemide, PO",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-22 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Succinate XL, PO",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-22 00:00:00",
+        "dosage": "50 mg, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "CefePIME, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "2 gm, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-25 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Atorvastatin, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Hydroxychloroquine Sulfate, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Clopidogrel, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Allopurinol, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "sevelamer HYDROCHLORIDE, PO",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "800 mg, 2 TAB"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "50 mcg, 1 TAB"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO/NG",
+        "start_time": "2101-02-22 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-23 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-24 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Meropenem, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-24 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2101-02-23 00:00:00",
+        "end_time": "2101-02-26 00:00:00",
+        "dosage": "6.25 mg, 0.25 TAB"
+    }
+]

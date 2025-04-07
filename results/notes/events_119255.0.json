@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2182-12-10 22:52:00",
+        "discharge_time": "2182-12-13",
+        "event_time": "2182-12-12 13:11:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.7,C (98,   HR: 80 (57 - 91) bpm,   BP: 117/74(84) {105/63(74) - 138/96(101)} mmHg,   ",
+        "events": "24 Hour Events:,   Experienced episodes of apnea and desaturation yesterday afternoon,,   required arrousal.,   No new complaints.,   Continues to complain of hand pain, stomach pain, neuropathy in legs,   (chronic symptoms, unchanged).  Requesting narcotics to control pain.,   Expresses desire to enroll in rehab program.,   History obtained from [**Hospital 85**] Medical records,   "
+    },
+    {
+        "admit_time": "2182-12-10 22:52:00",
+        "discharge_time": "2182-12-13",
+        "event_time": "2182-12-12 07:25:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.1,C (97,   HR: 57 (57 - 117) bpm,   BP: 115/68(78) {101/68(78) - 140/96(106)} mmHg,   ",
+        "events": "24 Hour Events:,   - Per psych recs, a decision was made to put the patient on standing,   Valium 5mg q6hrs and d/c CIWA scale.  The patient continued to ask for,   more benzos.,   - Pt. was switched to Thiamine IV 100mg daily,   - Pt had intermittent apnea yesterday, attributed to Valium,   "
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2125-05-09 01:50:00",
+        "discharge_time": "2125-05-11",
+        "event_time": "2125-05-09 09:04:00",
+        "vitals": "Tmax: 36.4,C (97.6,   Tcurrent: 35.9,C (96.6,   HR: 71 (66 - 75) bpm,   BP: 104/66(74) {74/39(48) - 104/66(74)} mmHg,   ",
+        "events": "24 Hour Events: 44 yo male hemachromatosis, type I DM presented to OSH,   with massive hematemasis.  Blood and clots in emeisis and hypotension,   at OSH.  2 Units PRBC and 2L NS fluid at OSH.  Protonix, octreotide and,   10 SQ Vit K for INR 1. at OSH.  Grade 4 bleeding varicies at OSH and,   banded transferred to [**Hospital1 **] for consideration of TIPS.  Hyperglycemic,   sugars 450 no gap.  Hcts at OSH 33 unclear timing with transfusions.,   On arrival mild O2 requirement 3-4L, Hct 32 on arrival and received 2L,   NS and I unit FFP overnight.  Baseline BP low 100,s systolic,   "
+    },
+    {
+        "admit_time": "2125-05-09 01:50:00",
+        "discharge_time": "2125-05-11",
+        "event_time": "2125-05-09 07:46:00",
+        "vitals": "Tmax: 36.4,C (97.6,   Tcurrent: 36.4,C (97.6,   HR: 72 (68 - 75) bpm,   BP: 83/41(52) {74/39(48) - 103/61(74)} mmHg,   ",
+        "events": "24 Hour Events:\\,   - humalog 11 units at 0100 for FS 390,   - FFP,   "
+    },
+    {
+        "admit_time": "2125-05-09 01:50:00",
+        "discharge_time": "2125-05-11",
+        "event_time": "2125-05-10 10:31:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36.1,C (96.9,   HR: 73 (67 - 81) bpm,   BP: 118/65(76) {60/36(41) - 118/78(86)} mmHg,   ",
+        "events": "24 Hour Events:,   - HCT stable overnight, tolerating clears,   History obtained from Patient,   "
+    }
+]

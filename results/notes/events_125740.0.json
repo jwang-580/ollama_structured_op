@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2112-10-13 23:19:00",
+        "discharge_time": "2112-10-20",
+        "event_time": "2112-10-14 08:01:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 66 (58 - 70) bpm,   BP: 104/50(68) {85/45(56) - 112/58(69)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - START [**2112-10-13**] 04:00 PM,   See admission note from [**2112-10-13**].,   "
+    },
+    {
+        "admit_time": "2112-10-13 23:19:00",
+        "discharge_time": "2112-10-20",
+        "event_time": "2112-10-16 06:56:00",
+        "vitals": "Tmax: 37.6,C (99.7,   Tcurrent: 36.5,C (97.7,   HR: 62 (61 - 74) bpm,   BP: 100/51(62) {91/49(25) - 126/63(77)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - STOP [**2112-10-15**] 05:00 PM,   Femoral triple lumen removed.,   This am, patient reports feeling well.  No CP, SOB, dizziness,,   palpitations.  Denies other pain or new issues currently.,   No events on telemetry overnight.,   "
+    },
+    {
+        "admit_time": "2112-10-13 23:19:00",
+        "discharge_time": "2112-10-20",
+        "event_time": "2112-10-17 07:21:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 36.4,C (97.6,   HR: 60 (59 - 82) bpm,   BP: 100/58(68) {91/46(59) - 132/65(86)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2112-10-16**] 08:43 PM,   rountine per CCU team,   [**2112-10-16**]: EKG repeated today to monitor QT (QTc=537ms, QT=480ms). Should,   be repeated again tmr AM. Volume status increased, so fluid restricted,   to 1500 mL/day. Planned for HD tomorrow morning prior to cardiac cath.,   NPO p MN. On heparin gtt, INR=1.8.,   Patient feels well, slept well but fairly anxious about cardiac cath,   today. Tolerated laying flat in bed. Denies CP, SOB on NC (continues to,   desat to high 80,s on RA), palpitations, dizziness. Vomited x 1 with,   supper last night. Also has mild mostly dry cough, occurring after,   eating.,   No events on telemetry.,   "
+    },
+    {
+        "admit_time": "2112-10-13 23:19:00",
+        "discharge_time": "2112-10-20",
+        "event_time": "2112-10-15 06:48:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.1,C (98.8,   HR: 66 (64 - 78) bpm,   BP: 104/51(64) {84/47(57) - 121/69(75)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2112-10-14**] 12:29 PM,   [**2112-10-14**]: TTE done: LVEF 20%. Extensive anterior, septal, and apical,   akinesis with moderate-to-severe tricuspid regurgitation and at least,   mild mitral regurgitation; moderate aortic stenosis. Mild-moderate,   aortic regurg. Tissue Doppler imaging suggests an increased left,   ventricular filling pressure (PCWP>18mmHg). Nephrology called for HD,   and aware that K and Mg should be high-normal. R femoral line hematoma,   stopped bleeding after vitamin K. Plan for ICD on Monday once INR,   normalizes. TSH normal. Desats to high 80s on room air overnight. Pt w/,   brief episodes of torsades x 2, which self resolved. Pt w/ back and,   shoulder pain, EKG obtained, EKG appears to show resolving MI. CEs,   trending down (peak trop was 4.5 at 7:49 pm, next set trending,   down.)Cards notified, case discussed, plan is for Pt to go for non,   emergent cath on Monday.,   .,   "
+    }
+]

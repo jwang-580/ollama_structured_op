@@ -1,0 +1,657 @@
+[
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.74 m/uL",
+        "lab_time": "2100-09-01 12:20:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "13.9 K/uL",
+        "lab_time": "2100-09-01 12:20:00"
+    },
+    {
+        "lab_name": "WBC, Urine",
+        "lab_value": "32.0 #/hpf",
+        "lab_time": "2100-09-05 18:08:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "27.2 %",
+        "lab_time": "2100-09-05 18:09:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.8 g/dL",
+        "lab_time": "2100-09-05 18:09:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "573.0 K/uL",
+        "lab_time": "2100-09-05 18:09:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.09 m/uL",
+        "lab_time": "2100-09-05 18:09:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "11.4 K/uL",
+        "lab_time": "2100-09-05 18:09:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.1 m/uL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "16.3 K/uL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "pO2, Blood",
+        "lab_value": "179.0 mm Hg",
+        "lab_time": "2100-08-28 21:35:00"
+    },
+    {
+        "lab_name": "Hyaline Casts, Urine",
+        "lab_value": "11.0 #/lpf",
+        "lab_time": "2100-08-28 22:39:00"
+    },
+    {
+        "lab_name": "RBC, Urine",
+        "lab_value": "5.0 #/hpf",
+        "lab_time": "2100-08-28 22:39:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "19.0 mEq/L",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Calcium, Total, Blood",
+        "lab_value": "8.1 mg/dL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Chloride, Blood",
+        "lab_value": "113.0 mEq/L",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Phosphate, Blood",
+        "lab_value": "4.9 mg/dL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "23.1 %",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.3 g/dL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "36.0 %",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "94.0 K/uL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.82 m/uL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "15.8 K/uL",
+        "lab_time": "2100-08-29 00:58:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "20.0 mEq/L",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Calcium, Total, Blood",
+        "lab_value": "7.9 mg/dL",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Chloride, Blood",
+        "lab_value": "113.0 mEq/L",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "24.5 %",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.8 g/dL",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "10.9 %",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "36.0 %",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "85.3 %",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "85.0 K/uL",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.95 m/uL",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "15.5 K/uL",
+        "lab_time": "2100-08-29 05:29:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "23.3 %",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.5 g/dL",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "36.5 %",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "86.0 K/uL",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.84 m/uL",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "15.8 K/uL",
+        "lab_time": "2100-08-29 09:08:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "23.1 %",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.3 g/dL",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "36.0 %",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "99.0 K/uL",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.81 m/uL",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "15.5 K/uL",
+        "lab_time": "2100-08-29 13:02:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "66.0 IU/L",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Uric Acid, Blood",
+        "lab_value": "5.8 mg/dL",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "21.8 %",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "7.7 g/dL",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "35.4 %",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "98.0 K/uL",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.6 m/uL",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "13.4 K/uL",
+        "lab_time": "2100-08-30 04:30:00"
+    },
+    {
+        "lab_name": "Fibrinogen, Functional, Blood",
+        "lab_value": "697.0 mg/dL",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "21.4 %",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "7.7 g/dL",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "36.1 %",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "113.0 K/uL",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.55 m/uL",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "14.1 K/uL",
+        "lab_time": "2100-08-30 12:00:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "22.5 %",
+        "lab_time": "2100-08-31 04:45:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "7.9 g/dL",
+        "lab_time": "2100-08-31 04:45:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "146.0 K/uL",
+        "lab_time": "2100-08-31 04:45:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.66 m/uL",
+        "lab_time": "2100-08-31 04:45:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "14.8 K/uL",
+        "lab_time": "2100-08-31 04:45:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "23.1 %",
+        "lab_time": "2100-09-01 12:20:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.0 g/dL",
+        "lab_time": "2100-09-01 12:20:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "32.9 %",
+        "lab_time": "2100-08-28 00:24:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "11.4 g/dL",
+        "lab_time": "2100-08-28 00:24:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.64 m/uL",
+        "lab_time": "2100-08-28 00:24:00"
+    },
+    {
+        "lab_name": "Protein/Creatinine Ratio, Urine",
+        "lab_value": "1.1 Ratio",
+        "lab_time": "2100-08-28 01:43:00"
+    },
+    {
+        "lab_name": "Fibrinogen, Functional, Blood",
+        "lab_value": "421.0 mg/dL",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "30.7 %",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "11.0 g/dL",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "35.7 %",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.44 m/uL",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "12.8 K/uL",
+        "lab_time": "2100-08-28 15:16:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "30.5 %",
+        "lab_time": "2100-08-28 16:55:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "10.5 g/dL",
+        "lab_time": "2100-08-28 16:55:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.3 m/uL",
+        "lab_time": "2100-08-28 16:55:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "14.0 K/uL",
+        "lab_time": "2100-08-28 16:55:00"
+    },
+    {
+        "lab_name": "Calculated Bicarbonate, Whole Blood, Blood",
+        "lab_value": "20.0 mEq/L",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "Chloride, Whole Blood, Blood",
+        "lab_value": "113.0 mEq/L",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "Free Calcium, Blood",
+        "lab_value": "1.04 mmol/L",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "6.7 g/dL",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "pCO2, Blood",
+        "lab_value": "47.0 mm Hg",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "pH, Blood",
+        "lab_value": "7.23 units",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "Sodium, Whole Blood, Blood",
+        "lab_value": "134.0 mEq/L",
+        "lab_time": "2100-08-28 17:37:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "25.2 %",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.5 g/dL",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "INR(PT), Blood",
+        "lab_value": "1.2",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "148.0 K/uL",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "PT, Blood",
+        "lab_value": "13.8 sec",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "PTT, Blood",
+        "lab_value": "44.3 sec",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "2.76 m/uL",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "14.0 K/uL",
+        "lab_time": "2100-08-28 18:42:00"
+    },
+    {
+        "lab_name": "Calculated Bicarbonate, Whole Blood, Blood",
+        "lab_value": "18.0 mEq/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Calculated Total CO2, Blood",
+        "lab_value": "20.0 mEq/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Free Calcium, Blood",
+        "lab_value": "1.37 mmol/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "115.0 mg/dL",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "9.0 g/dL",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Lactate, Blood",
+        "lab_value": "3.1 mmol/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "pCO2, Blood",
+        "lab_value": "49.0 mm Hg",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "pH, Blood",
+        "lab_value": "7.19 units",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "pO2, Blood",
+        "lab_value": "36.0 mm Hg",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Potassium, Whole Blood, Blood",
+        "lab_value": "5.8 mEq/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Sodium, Whole Blood, Blood",
+        "lab_value": "134.0 mEq/L",
+        "lab_time": "2100-08-28 18:54:00"
+    },
+    {
+        "lab_name": "Calculated Bicarbonate, Whole Blood, Blood",
+        "lab_value": "18.0 mEq/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Calculated Total CO2, Blood",
+        "lab_value": "19.0 mEq/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Free Calcium, Blood",
+        "lab_value": "1.1 mmol/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "7.8 g/dL",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Lactate, Blood",
+        "lab_value": "3.1 mmol/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "pH, Blood",
+        "lab_value": "7.28 units",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "pO2, Blood",
+        "lab_value": "124.0 mm Hg",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Potassium, Whole Blood, Blood",
+        "lab_value": "5.6 mEq/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Sodium, Whole Blood, Blood",
+        "lab_value": "133.0 mEq/L",
+        "lab_time": "2100-08-28 19:19:00"
+    },
+    {
+        "lab_name": "Albumin, Blood",
+        "lab_value": "2.8 g/dL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "19.0 mEq/L",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Chloride, Blood",
+        "lab_value": "113.0 mEq/L",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "D-Dimer, Blood",
+        "lab_value": "8702.0 ng/mL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Magnesium, Blood",
+        "lab_value": "1.3 mg/dL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Phosphate, Blood",
+        "lab_value": "5.0 mg/dL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Potassium, Blood",
+        "lab_value": "5.3 mEq/L",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Fibrin Degradation Products, Blood",
+        "lab_value": "nan ug/mL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "26.0 %",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "9.0 g/dL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "10.1 %",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "85.5 %",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Platelet Count, Blood",
+        "lab_value": "104.0 K/uL",
+        "lab_time": "2100-08-28 21:09:00"
+    },
+    {
+        "lab_name": "Uric Acid, Blood",
+        "lab_value": "5.9 mg/dL",
+        "lab_time": "2100-08-28 00:24:00"
+    }
+]

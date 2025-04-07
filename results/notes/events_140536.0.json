@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2183-01-07 23:13:00",
+        "discharge_time": "2183-01-13",
+        "event_time": "2183-01-08 06:15:00",
+        "vitals": "Tmax: 36,C (96.8,   Tcurrent: 36,C (96.8,   HR: 41 (37 - 54) bpm,   BP: 113/60(77) {102/57(76) - 117/65(81)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2183-1-7**] 06:24 PM, MULTI LUMEN - START [**2183-1-7**] 06:51 PM, ARTERIAL LINE - START [**2183-1-7**] 10:04 PM,   "
+    },
+    {
+        "admit_time": "2183-01-07 23:13:00",
+        "discharge_time": "2183-01-13",
+        "event_time": "2183-01-09 07:15:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 36.6,C (97.8,   HR: 51 (42 - 60) bpm,   BP: 139/63(88) {118/54(5) - 142/71(94)} mmHg,   ",
+        "events": "24 Hour Events:,   - Patient pain free and somnolent this AM.  Describe prior SOB and,   ?chest discomfort beginning/worsening after [**Holiday **].,   - Patient says rash began in [**Month (only) 1148**] or [**Month (only) 2139**] and that he stopped,   both lisinopril and norvasc at that time, patient appears confused and,   timecourse is not reliable.,   [**1-8**],   - Derm consulted. Said Drug Induced Lupus may persist for days/weeks,   following discontinuation.  Wanted anti-histone antibody, which was,   done at [**Location (un) 250**], found to be negative (<1.0) [**2183-1-1**] 1024.,   - Repeat Troponin decreased from 0.5 to 0.33. CK 77 this AM.,   - Patient on CPAP on FiO2 of 50% with ABG 7.37/37/166. Plan to wean to,   FiO2 40% -->  EXTUBATED at 9am,   - Added back Azithro for atypical coverage PNA, and sent for VZV in,   sputum,   - still sleepy ~2pm ; ABG 7.35/39/79 looks fine,   - urine output ~2pm ~20cc/hr,   - Flu swab negative ; DC flu precautions,   - legionella urinary antigen negative.,   "
+    },
+    {
+        "admit_time": "2183-01-07 23:13:00",
+        "discharge_time": "2183-01-13",
+        "event_time": "2183-01-09 07:30:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 36.6,C (97.8,   HR: 55 (42 - 60) bpm,   BP: 139/64(89) {118/54(5) - 146/71(94)} mmHg,   ",
+        "events": "24 Hour Events:,   [**1-9**],   - Patient pain free and somnolent this AM.  Describe prior SOB and,   ?chest discomfort beginning/worsening after [**Holiday **].,   - Patient says rash began in [**Month (only) 1148**] or [**Month (only) 2139**] and that he stopped,   both lisinopril and norvasc at that time, patient appears confused and,   timecourse is not reliable. Rash is intermittently painful/pruritic.,   [**1-8**],   - Derm consulted. Said Drug Induced Lupus may persist for days/weeks,   following discontinuation.  Wanted anti-histone antibody, which was,   done at [**Location (un) 250**], found to be negative (<1.0) [**2183-1-1**] 1024.,   - Repeat Troponin decreased from 0.5 to 0.33. CK 77 this AM.,   - Patient on CPAP on FiO2 of 50% with ABG 7.37/37/166. Plan to wean to,   FiO2 40% -->  EXTUBATED at 9am,   - Added back Azithro for atypical coverage PNA, and sent for VZV in,   sputum,   - still sleepy ~2pm ; ABG 7.35/39/79 looks fine,   - urine output ~2pm ~20cc/hr,   - Flu swab negative ; DC flu precautions,   - legionella urinary antigen negative.,   "
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2173-01-20 02:48:00",
+        "discharge_time": "2173-01-24",
+        "event_time": "2173-01-21 11:45:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 36.8,C (98.2,   HR: 95 (79 - 100) bpm,   BP: 123/60(76) {104/59(72) - 167/92(102)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2173-1-20**] 11:24 AM,   Dilantin initiated.,   History obtained from Medical records,   Patient unable to provide history: Non-communicative,   "
+    },
+    {
+        "admit_time": "2173-01-20 02:48:00",
+        "discharge_time": "2173-01-24",
+        "event_time": "2173-01-21 07:57:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 36.4,C (97.5,   HR: 88 (79 - 108) bpm,   BP: 123/92(100) {104/59(72) - 167/92(117)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2173-1-20**] 11:24 AM,   - Urine and blood cultures pending,   - Family refused LP,   - C diff ordered,   - CXR with ? interstitial edema,   - 6p Na 162 from 169 at 1a- correcting w/ 250 cc Q 4 plus,   - D5 1/2 NS plus 40 K at 200cc/hr for the night,   - Phenytoin level 7.9 ([**11-9**] therapeutic at 6p),   - CK continueds to trend up to 6733 in evening. Trop flat,   -Fingersticks trended down to nadir 47 then fluids back to D5 1/2 NS,   from 1/2 NS at midnight,   -PICC successfully placed,   Patient unable to provide history: Unresponsive,   "
+    },
+    {
+        "admit_time": "2173-01-20 02:48:00",
+        "discharge_time": "2173-01-24",
+        "event_time": "2173-01-22 09:19:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.6,C (99.6,   HR: 98 (81 - 98) bpm,   BP: 156/70(90) {123/56(76) - 164/103(143)} mmHg,   ",
+        "events": "24 Hour Events:, STOOL CULTURE - At [**2173-1-22**] 06:38 AM,   Family declined LP,   Amp/vanco d/c'd given low clinical suspicion for CNS infection.,   Insulin gtt stopped yesterday--> transitioned to glargine and SSI,   "
+    },
+    {
+        "admit_time": "2173-01-20 02:48:00",
+        "discharge_time": "2173-01-24",
+        "event_time": "2173-01-22 07:51:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.8,C (98.2,   HR: 98 (81 - 98) bpm,   BP: 164/79(99) {123/56(76) - 164/103(143)} mmHg,   ",
+        "events": "24 Hour Events:,   - Discontinued ampicillin and vancomycin,   - Discontinued IVF,   - Patient's insulin drip was stopped and glarine + HISS was started,   - Attempted [**Last Name (un) 72**] consult; however, they were not reachable,   - Sodium check at 1700 was 150 (was 162 24 hours prior),   - Sodium check at 2300 was 149,   "
+    },
+    {
+        "admit_time": "2173-01-20 02:48:00",
+        "discharge_time": "2173-01-24",
+        "event_time": "2173-01-20 07:38:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 37.2,C (99,   HR: 103 (101 - 116) bpm,   BP: 121/65(80) {100/61(71) - 138/76(90)} mmHg,   ",
+        "events": "24 Hour Events:,   -K remained low at 2.9, repleted with K through PEG, will likely need K,   added to IVFs,   -Na, Cre improved with IVFs,   - Insulin gtt decreased to 10 U/hr,   Patient unable to provide history: Encephalopathy,   "
+    }
+]

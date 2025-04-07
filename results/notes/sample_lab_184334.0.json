@@ -1,0 +1,52 @@
+[
+    {
+        "lab_name": "Lithium, Blood",
+        "lab_value": "0.3 mmol/L",
+        "lab_time": "2197-03-30 07:45:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "39.3 %",
+        "lab_time": "2197-03-30 07:45:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "13.6 g/dL",
+        "lab_time": "2197-03-30 07:45:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "4.56 m/uL",
+        "lab_time": "2197-03-30 07:45:00"
+    },
+    {
+        "lab_name": "Potassium, Whole Blood, Blood",
+        "lab_value": "3.3 mEq/L",
+        "lab_time": "2197-03-30 07:50:00"
+    },
+    {
+        "lab_name": "pCO2, Blood",
+        "lab_value": "51.0 mm Hg",
+        "lab_time": "2197-03-30 12:00:00"
+    },
+    {
+        "lab_name": "pO2, Blood",
+        "lab_value": "38.0 mm Hg",
+        "lab_time": "2197-03-30 12:00:00"
+    },
+    {
+        "lab_name": "Lithium, Blood",
+        "lab_value": "0.3 mmol/L",
+        "lab_time": "2197-03-31 03:00:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "72.3 %",
+        "lab_time": "2197-03-31 03:00:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "14.7 K/uL",
+        "lab_time": "2197-03-31 03:00:00"
+    }
+]

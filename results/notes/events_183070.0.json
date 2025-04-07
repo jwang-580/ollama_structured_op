@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2190-03-03 01:59:00",
+        "discharge_time": "2190-03-30",
+        "event_time": "2190-03-03 07:26:00",
+        "vitals": "Tmax: 38.7,C (101.6,   Tcurrent: 37.7,C (99.9,   HR: 136 (118 - 142) bpm,   BP: 123/80(96) {103/64(77) - 174/97(122)} mmHg,   ",
+        "events": "24 Hour Events:, FEVER - 101.6,F - [**2190-3-2**] 10:00 PM,   Tachycardic,   "
+    },
+    {
+        "admit_time": "2190-03-03 01:59:00",
+        "discharge_time": "2190-03-30",
+        "event_time": "2190-03-04 08:05:00",
+        "vitals": "Tmax: 38.8,C (101.8,   Tcurrent: 38,C (100.4,   HR: 127 (112 - 136) bpm,   BP: 184/86(115) {116/64(79) - 184/95(122)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - STOP [**2190-3-3**] 10:30 AM, ARTERIAL LINE - START [**2190-3-3**] 07:00 PM, BLOOD CULTURED - At [**2190-3-3**] 09:00 PM,    blood c/s 1 of 2 sent, BLOOD CULTURED - At [**2190-3-3**] 10:08 PM,    2 of 2 sent, FEVER - 101.8,F - [**2190-3-3**] 08:00 PM,   - pt exutabed, doing well,   - pt developed pleural effusions - stopped IVF, stopped insulin/D10,   - lasix given goal net -1L over 12h per surgery, given lasix 10 IV x2,   overnight,   - fluid cx shows 4+ G(-)R, 2+ G(+)R,   - pt had a temp 101.1, blood cx sent,   "
+    }
+]

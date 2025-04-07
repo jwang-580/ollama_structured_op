@@ -1,0 +1,296 @@
+[
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "40-80 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "5-10 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Vitamin E, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "400 UNIT, 1 CAP"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "40-80 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Losartan Potassium, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Vitamin B Complex, PO",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Ascorbic Acid, PO",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "20 mEq, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "20 mEq, 1 PKT"
+    },
+    {
+        "medication": "Aluminum-Magnesium Hydrox.-Simethicone, PO",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "15-30 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Heparin Sodium, SC",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Syringe, SC",
+        "start_time": "2184-02-11 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "1 mL, 1 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2184-02-12 00:00:00",
+        "end_time": "2184-02-12 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Aluminum-Magnesium Hydrox.-Simethicone, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Ascorbic Acid, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Meclizine, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "12.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Losartan Potassium, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-10 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2184-02-10 00:00:00",
+        "end_time": "2184-02-11 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    }
+]

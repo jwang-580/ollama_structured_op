@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2194-11-22 19:36:00",
+        "discharge_time": "2194-12-01",
+        "event_time": "2194-11-27 07:51:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 36.9,C (98.4,   HR: 88 (72 - 119) bpm,   BP: 115/57(72) {106/42(63) - 147/95(101)} mmHg,   ",
+        "events": "24 Hour Events:,   -Two different GNR on Prelim sputum culture (final pending),   "
+    },
+    {
+        "admit_time": "2194-11-22 19:36:00",
+        "discharge_time": "2194-12-01",
+        "event_time": "2194-11-26 06:44:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.9,C (98.5,   HR: 93 (82 - 125) bpm,   BP: 134/60(78) {104/47(62) - 155/75(94)} mmHg,   ",
+        "events": "24 Hour Events:,   - WBC was trending up, so ordered CXR which showed new pulmnonary,   infiltrate suggestive of superimposed PNA,   - pan cultured, sputum cx growing out 4+ GNRs, culture pending and,   sensitivities requested in lab,   - States that she feels better today, continues to have cough but no,   longer feels as though she is febrile.  Feels that she is tired of,   sitting in bed and prepared to switch floors to a non-ICU bed.,   "
+    },
+    {
+        "admit_time": "2194-11-22 19:36:00",
+        "discharge_time": "2194-12-01",
+        "event_time": "2194-11-24 07:17:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.7,C (98.1,   HR: 105 (89 - 130) bpm,   BP: 133/74(89) {93/56(72) - 150/94(109)} mmHg,   ",
+        "events": "24 Hour Events: none,   "
+    },
+    {
+        "admit_time": "2194-11-22 19:36:00",
+        "discharge_time": "2194-12-01",
+        "event_time": "2194-11-24 11:21:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.9,C (98.4,   HR: 126 (89 - 135) bpm,   BP: 148/92(104) {93/56(72) - 150/94(109)} mmHg,   ",
+        "events": "24 Hour Events:,   No acute events overnight.,   History obtained from [**Hospital 19**] Medical records,   "
+    },
+    {
+        "admit_time": "2194-11-22 19:36:00",
+        "discharge_time": "2194-12-01",
+        "event_time": "2194-11-23 08:00:00",
+        "vitals": "Tmax: 37.6,C (99.7,   Tcurrent: 36.6,C (97.8,   HR: 116 (106 - 126) bpm,   BP: 130/66(81) {120/63(77) - 152/84(100)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    }
+]

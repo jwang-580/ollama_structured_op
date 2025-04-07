@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2185-03-07 02:09:00",
+        "discharge_time": "2185-03-09",
+        "event_time": "2185-03-07 06:10:00",
+        "vitals": "Tmax: 36.6,C (97.9,   Tcurrent: 36.6,C (97.9,   HR: 67 (58 - 68) bpm,   BP: 119/79(89) {100/55(69) - 136/81(92)} mmHg,   ",
+        "events": "24 Hour Events:,   - Admitted overnight,   "
+    }
+]

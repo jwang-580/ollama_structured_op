@@ -1,0 +1,170 @@
+[
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-06 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-06 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-06 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-06 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Sumatriptan Succinate, SC",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "6 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Sumatriptan Succinate, SC",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "6 mg, 1 VIAL"
+    },
+    {
+        "medication": "Estrogens Conjugated, PO",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "0.625 mg, 1 TAB"
+    },
+    {
+        "medication": "Indomethacin, PO",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "25 mg, 1 CAP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2159-09-06 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-07 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "400 UNIT, 1 TAB"
+    },
+    {
+        "medication": "Celecoxib, ORAL",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "200 mg, 1 CAP"
+    },
+    {
+        "medication": "Hydroxychloroquine Sulfate, PO",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Imitrex, ORAL",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Fluoxetine, PO",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "40 mg, 2 CAP"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "Hydroxychloroquine Sulfate, PO",
+        "start_time": "2159-09-07 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "400 mg, 2 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2159-09-08 00:00:00",
+        "end_time": "2159-09-08 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    }
+]

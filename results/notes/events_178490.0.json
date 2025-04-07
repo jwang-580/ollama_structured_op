@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2108-09-05 02:59:00",
+        "discharge_time": "2108-09-12",
+        "event_time": "2108-09-06 09:44:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 36.7,C (98.1,   HR: 89 (71 - 91) bpm,   BP: 106/19(44) {79/19(44) - 140/6,161(109)} mmHg,   ",
+        "events": "24 Hour Events:,   -if fluids, many boluses,   -improved mental status to baseline,   -sats improving,   History obtained from [**Hospital 15**] Medical records,   "
+    }
+]

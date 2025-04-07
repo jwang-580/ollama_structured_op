@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2200-12-07 00:56:00",
+        "discharge_time": "2200-12-12",
+        "event_time": "2200-12-07 08:03:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 37,C (98.6,   HR: 72 (72 - 105) bpm,   BP: 90/51(60) {90/51(60) - 121/81(187)} mmHg,   ",
+        "events": "24 Hour Events:,   None,   Required 10 mg Valium per CIWA scale,   "
+    }
+]

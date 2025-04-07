@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2139-10-27 02:25:00",
+        "discharge_time": "2139-11-03",
+        "event_time": "2139-10-31 07:55:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36.7,C (98,   HR: 108 (75 - 135) bpm,   BP: 144/82(96) {135/75(48) - 158/96(113)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - STOP [**2139-10-30**] 12:00 PM,   Neuro: no new recs, but do not feel that she is having a myasthenia,   crisis,   Would only wear bipap for a few hours overnight,   "
+    }
+]

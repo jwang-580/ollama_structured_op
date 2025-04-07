@@ -1,0 +1,170 @@
+[
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-04 00:00:00",
+        "dosage": "0.5 mg, 0.5 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-04 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-04 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-04 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-05 00:00:00",
+        "dosage": "0.5-2 mg, 0.5-2 TAB"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-05 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-05 00:00:00",
+        "dosage": "0.5-2 mg, 1-4 TAB"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-05 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 mL"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-07 00:00:00",
+        "dosage": "7.5 mg, 3 TAB"
+    },
+    {
+        "medication": "Gabapentin, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Citalopram Hydrobromide, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "10 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2145-11-04 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-05 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-06 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Silver Sulfadiazine 1% Cream, TP",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-07 00:00:00",
+        "dosage": "1 Appl, 1 JAR"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "0.5-2 mg, 1-4 TAB"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2145-11-05 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "0.5-2 mg, 0.5-2 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2145-11-06 00:00:00",
+        "end_time": "2145-11-07 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2145-11-06 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "5-10 mg, 1-2 TAB"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), SC",
+        "start_time": "2145-11-07 00:00:00",
+        "end_time": "2145-11-07 00:00:00",
+        "dosage": "0.5 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2145-11-07 00:00:00",
+        "end_time": "2145-11-08 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), SC",
+        "start_time": "2145-11-07 00:00:00",
+        "end_time": "2145-11-08 00:00:00",
+        "dosage": "0.5 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Silver Sulfadiazine 1% Cream, TP",
+        "start_time": "2145-11-07 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "1 Appl, 0.1 JAR"
+    },
+    {
+        "medication": "Ibuprofen, PO",
+        "start_time": "2145-11-08 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "800 mg, 2 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2145-11-08 00:00:00",
+        "end_time": "2145-11-09 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    }
+]

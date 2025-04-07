@@ -1,0 +1,51 @@
+[
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-04-26 07:34:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.9,C (98.4,   HR: 68 (48 - 73) bpm,   BP: 107/55(69) {86/46(-26) - 114/68(82)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - START [**2147-4-25**] 03:32 PM, DIALYSIS CATHETER - START [**2147-4-25**] 08:39 PM, EKG - At [**2147-4-25**] 11:26 PM,   - A line placed,   - OG placed attempted x3 but unclear that below diaphragm, plan to,   re-attempt in AM, started lactulose PR in the meantime.,   - Temporary HD catheter placed (3 units FFP before), CVVH started,   up-titrated to net negative 200-250cc/hr and initially BP tolerating w/,   MAP in 60s but then decreased to 50s, so backed off fluid to 100cc/hr,   and started levophed to maintain MAP >60.,   - Episode of bradycardia to 30s after started levophed. EKG shows,   change from sinus to ectopic atrial rhythm with rate in 50s. Levophed,   stopped then re-started without incident.,   - Able to wean FiO2 from 80% to 50%, tried to wean PEEP but respiratory,   rate increased so maintained at 18 overnight.,   - F/U to see that foley was changed in AM,   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-04-29 06:37:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.4,C (99.4,   HR: 116 (77 - 122) bpm,   BP: 100/57(72) {83/44(57) - 132/73(90)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2147-4-28**] 01:32 PM,   specs from HD cath and PICC sent, URINE CULTURE - At [**2147-4-28**] 04:19 PM,   - During the day had stable levophed requirement, sedation taken off,   and patient more alert MAE but not following commands. Fibrinogen <100,,   high FDP (no schistocytes) do to either DIC/severe liver disease got 1u,   cryoprecip and 1u pRBC for HCT<24,   - Overnight HCT drop to 14, stable levophed requirement but heart rate,   increased to the 110s, no obvious source of bleeding. Getting 2u PRBC,,   2uFFP, 2uCryoprecip, 0.3mcg/kg DDAVP. Checking hemolysis labs. Ordered,   for CT abdomen/pelvis.,   - WBC count increased to 33. Sent stool C. Diff. Bedside abdominal U/S,   without accessible ascites to tap. Started vanc, zosyn, flagyl.,   - ET tube advanced,   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-04-29 08:56:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.2,C (99,   HR: 112 (80 - 122) bpm,   BP: 115/63(81) {83/51(61) - 132/73(90)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2147-4-28**] 01:32 PM,   specs from HD cath and PICC sent, URINE CULTURE - At [**2147-4-28**] 04:19 PM,   History obtained from Medical records, icu team,   Patient unable to provide history: Sedated, Encephalopathy,   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-04-27 06:53:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.5,C (99.5,   HR: 64 (57 - 72) bpm,   BP: 109/53(66) {92/52(65) - 131/86(330)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - STOP [**2147-4-26**] 03:56 PM, ARTERIAL LINE - START [**2147-4-26**] 05:00 PM,   [**2147-4-26**],   - A line replaced after pulled from artery during movement of patient.,   - Dobhoff placed.,   - patient continues on CVVH, slowly decreasing PEEP now at 12.,   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-04-27 12:37:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 36.1,C (97,   HR: 68 (60 - 72) bpm,   BP: 107/53(68) {92/47(60) - 131/86(330)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - STOP [**2147-4-26**] 03:56 PM, ARTERIAL LINE - START [**2147-4-26**] 05:00 PM,   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-05-01 07:40:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 35.7,C (96.3,   HR: 74 (67 - 87) bpm,   BP: 90/47(61) {77/47(61) - 156/98(122)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2147-4-30**] 01:11 PM,   - CT abdomen/pelvis: diffuse colonic bowel wall thickening concerning,   for infectious source (c.diff), large left rectus sheath fluid,   collection appears to be blood, small bilateral pleural effusions,,   diffuse fat stranding throughout the mesentary.,   - Surgical c/s: no intervention,   - Hct drop 24 -> 21 in morning so given another 3 units pRBCs, 2 units,   platelets, 1 unit FFP, vitamin K 5mg IV (per liver, should be IV).,   Current fibrinogen goal ~150 given active bleeding.,   - Re-started on levophed for hypotension,   - [**Doctor First Name 3**] recommended repeat CT abd/pelvis to evaluate for active,   extravasation amenable to IR. Given instability, held off for now.,   - Right thigh ecchymoses noted on exam this morning near femoral HD,   line; US limited but no hematoma or pseudoaneurysm seen.,   - Bruise on R hand/palm per nursing; request to investigate on,   rounds...reportedly able to move fingers when asked (lower dose of,   propofol at that time),   "
+    },
+    {
+        "admit_time": "2147-04-23 17:28:00",
+        "discharge_time": "2147-05-22",
+        "event_time": "2147-05-04 07:13:00",
+        "vitals": "Tmax: 36.9,C (98.5,   Tcurrent: 36,C (96.8,   HR: 86 (66 - 106) bpm,   BP: 101/49(64) {89/39(54) - 138/85(107)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - START [**2147-5-3**] 12:05 PM,   - Liver: cont. steroids (may be help w/ t-bili) for 28 day course per,   liver,   - HD line placed by IR, renal rec re-start CVVH to remove volume,   - D/C PO vanc and IV flagyl as C.Diff negative x2,   - SBT trial -> patient looked good, but ABG showed PaO2 of 63, so kept,   intubated; will aim for net negative with CVVH and re-try tomorrow,   - Received 5 mg PO vitamin K,   - Concern by IR for ETT too high so got CXR; attending thought it,   looked OK so no intervention,   . Renal recs [**5-4**], restarted CVVH [**5-3**] with reasonable UF; would,   continue to attempt UF up to 300-400 cc/hr if BP tolerate; remains,   volume overloaded. Continue citrate. Zosyn at current dose, vanc by,   levels.,   "
+    }
+]

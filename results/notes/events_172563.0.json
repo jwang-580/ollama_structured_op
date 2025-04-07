@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2138-03-25 21:52:00",
+        "discharge_time": "2138-03-30",
+        "event_time": "2138-03-26 10:11:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 35.6,C (96,   HR: 70 (60 - 127) bpm,   BP: 121/56(75) {88/44(56) - 121/80(87)} mmHg,   ",
+        "events": "24 Hour Events:,   C diff returned positive,   "
+    }
+]

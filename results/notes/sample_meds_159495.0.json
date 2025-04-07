@@ -1,0 +1,578 @@
+[
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Soln, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "50 mL, 1 VIAL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Oxymetazoline, NU",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "1 SPRY, 0.0167 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "DOPamine, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-18 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Nystatin Oral Suspension, PO",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "5 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "1 TAB, 1 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-21 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-22 00:00:00",
+        "dosage": "750 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO/NG",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "1 TAB, 1 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2201-10-20 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "CefePIME, IV",
+        "start_time": "2201-10-21 00:00:00",
+        "end_time": "2201-10-24 00:00:00",
+        "dosage": "2 g, 10 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2201-10-21 00:00:00",
+        "end_time": "2201-10-24 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Fluconazole, PO/NG",
+        "start_time": "2201-10-21 00:00:00",
+        "end_time": "2201-10-26 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "OxycoDONE-Acetaminophen Elixir, PO/NG",
+        "start_time": "2201-10-21 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "5-10 mL, 1-2 UDCUP"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2201-10-21 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-22 00:00:00",
+        "end_time": "2201-10-23 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-22 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2201-10-22 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "traZODONE, PO/NG",
+        "start_time": "2201-10-25 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "25 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Warfarin, PO/NG",
+        "start_time": "2201-10-25 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "traZODONE, PO/NG",
+        "start_time": "2201-10-26 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "25 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Furosemide, PO/NG",
+        "start_time": "2201-10-26 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Lansoprazole Oral Disintegrating Tab, PO/NG",
+        "start_time": "2201-10-26 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Aripiprazole, PO/NG",
+        "start_time": "2201-10-27 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-23 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-23 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-23 00:00:00",
+        "dosage": "16 mg, 4 AMP"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-26 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-26 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Aripiprazole, PO",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Albuterol-Ipratropium, IH",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "1-2 PUFF, 0.01-0.02 CAN"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Atorvastatin, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "CefePIME, IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "2 gm, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-16 00:00:00",
+        "dosage": "30 mmol, 10 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-21 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "CefePIME, IV",
+        "start_time": "2201-10-15 00:00:00",
+        "end_time": "2201-10-21 00:00:00",
+        "dosage": "2 g, 10 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-18 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2201-10-16 00:00:00",
+        "end_time": "2201-10-18 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Guaifenesin, PO/NG",
+        "start_time": "2201-10-17 00:00:00",
+        "end_time": "2201-10-17 00:00:00",
+        "dosage": "5-10 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "traZODONE, PO/NG",
+        "start_time": "2201-10-17 00:00:00",
+        "end_time": "2201-10-18 00:00:00",
+        "dosage": "25 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2201-10-17 00:00:00",
+        "end_time": "2201-10-21 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Midazolam, IV",
+        "start_time": "2201-10-17 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Cosyntropin, IV",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "250 mcg, 1 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "200 mg, 2 CAP"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Polyethylene Glycol, PO/NG",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "17 g, 1 PKT"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2201-10-18 00:00:00",
+        "end_time": "2201-10-27 00:00:00",
+        "dosage": "500-1000 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-19 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "200 mg, 2 CAP"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-19 00:00:00",
+        "end_time": "2201-10-19 00:00:00",
+        "dosage": "200 mg, 2 UDCUP"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO/NG",
+        "start_time": "2201-10-19 00:00:00",
+        "end_time": "2201-10-20 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Fluconazole, PO/NG",
+        "start_time": "2201-10-19 00:00:00",
+        "end_time": "2201-10-21 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "60 mg, 6 VIAL"
+    },
+    {
+        "medication": "Aspirin, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-14 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2201-10-14 00:00:00",
+        "end_time": "2201-10-15 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2135-04-19 23:45:00",
+        "discharge_time": "2135-04-21",
+        "event_time": "2135-04-20 09:37:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.7,C (98.1,   HR: 57 (55 - 65) bpm,   BP: 166/40(73) {116/33(66) - 177/93(99)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2135-4-19**] 10:40 PM, MULTI LUMEN - START [**2135-4-20**] 02:02 AM,   History obtained from [**Hospital 31**] Medical records,   "
+    },
+    {
+        "admit_time": "2135-04-19 23:45:00",
+        "discharge_time": "2135-04-21",
+        "event_time": "2135-04-20 07:41:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.2,C (99,   HR: 57 (55 - 65) bpm,   BP: 167/37(69) {116/33(66) - 177/93(99)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2135-4-19**] 10:40 PM, MULTI LUMEN - START [**2135-4-20**] 02:02 AM,   "
+    },
+    {
+        "admit_time": "2135-04-19 23:45:00",
+        "discharge_time": "2135-04-21",
+        "event_time": "2135-04-21 07:36:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 36.6,C (97.9,   HR: 57 (47 - 63) bpm,   BP: 176/33(71) {103/29(54) - 176/85(89)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2135-4-20**] 08:00 PM,   Right single lumen PICC placed in IR, DIALYSIS CATHETER - START [**2135-4-20**] 08:00 PM,   DL IJ cath in place @ cavoatrial junction per procedure note., MULTI LUMEN - STOP [**2135-4-20**] 09:38 PM,   - HD line not working well during HD, line looks too short -> IR,   swapped new HD and placed PICC.,   - Family amenable to having IJ switched to PICC with IR,   - Vasc [**Doctor First Name **] recs: nothing to do currently,   - Regarding hx of clots, daughter (RN) and husband have no knowledge of,   pt ever have clots. Records at [**Name (NI) 246**] unclear as patient had been,   transferred to several other hospitals,   - stopped meropenam as it appears she had completed a 10 day course,   "
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-15 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-16 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Fluticasone Propionate 110mcg, IH",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "2 PUFF, 0.02 INH"
+    },
+    {
+        "medication": "Timolol Maleate 0.5%, BOTH EYES",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "1 DROP, 0.0167 DBTL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2100-10-15 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-16 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-16 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PO",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-16 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "OxycoDONE (Immediate Release) , PO",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-16 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Ondansetron ODT, PO",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "4 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2100-10-16 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "750 mg, 3 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2100-10-17 00:00:00",
+        "end_time": "2100-10-18 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2100-10-17 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "GlipiZIDE, PO",
+        "start_time": "2100-10-18 00:00:00",
+        "end_time": "2100-10-19 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    }
+]

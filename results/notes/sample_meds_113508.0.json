@@ -1,0 +1,158 @@
+[
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "30 UNIT, 0.03 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "20 UNIT, 0.02 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-04 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-04 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "BuPROPion (Sustained Release), PO",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "150 mg, 1 TAB"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "20 UNIT, 0.02 VIAL"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "20 mEq, 10 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL D5LR, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2189-08-04 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "20 mEq, 1 PKT"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2189-08-05 00:00:00",
+        "end_time": "2189-08-05 00:00:00",
+        "dosage": "20 mEq, 1 TAB"
+    }
+]

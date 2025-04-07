@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2175-12-12 00:03:00",
+        "discharge_time": "2175-12-23",
+        "event_time": "2175-12-13 07:04:00",
+        "vitals": "Tmax: 37.7,C (99.9,   Tcurrent: 36.6,C (97.9,   HR: 104 (82 - 129) bpm,   BP: 94/44(55) {62/30(41) - 104/57(67)} mmHg,   ",
+        "events": "24 Hour Events:,   - met I/O goal; furosemide gtt decreased to 5 mg/hr,   - back on dopamine gtt for hypotension,   - Viagra started,   - urine lytes: FEBUN ~ 33%; consistent with prerenal azotemia,   - echo: EF 55%, dilated RV, severe LV diastolic dysfunction,   "
+    },
+    {
+        "admit_time": "2175-12-12 00:03:00",
+        "discharge_time": "2175-12-23",
+        "event_time": "2175-12-16 05:44:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.3,C (99.2,   HR: 102 (94 - 110) bpm,   BP: 101/45(57) {90/33(48) - 113/55(67)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    },
+    {
+        "admit_time": "2175-12-12 00:03:00",
+        "discharge_time": "2175-12-23",
+        "event_time": "2175-12-14 06:40:00",
+        "vitals": "Tmax: 38.4,C (101.2,   Tcurrent: 35.3,C (95.5,   HR: 87 (80 - 112) bpm,   BP: 88/48(58) {68/28(38) - 95/49(59)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2175-12-13**] 09:00 PM, URINE CULTURE - At [**2175-12-13**] 09:00 PM, FEVER - 101.2,F - [**2175-12-13**] 08:00 PM,   Chest CT without PE. large PA, large RV, large RA, b/l effusions,   stayed on lasix drip, negative 1L over 24hrs,   discontinued sildenafil, SBP stayed in mid 80's for majority of the day,   "
+    },
+    {
+        "admit_time": "2175-12-12 00:03:00",
+        "discharge_time": "2175-12-23",
+        "event_time": "2175-12-22 06:56:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.9,C (98.4,   HR: 118 (92 - 121) bpm,   BP: 95/51(65) {76/43(54) - 97/73(77)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2175-12-21**] 09:00 PM, ARTERIAL LINE - START [**2175-12-22**] 01:59 AM,   -L Art line placed with difficulty and multiple attempts on both right,   and L arms,   -Lasix drip titrated to 100 cc/hour, but held overnight due to,   pressures, consider restarting in AM,   -Fluid restricted to 1.2 L,   "
+    },
+    {
+        "admit_time": "2175-12-12 00:03:00",
+        "discharge_time": "2175-12-23",
+        "event_time": "2175-12-23 05:11:00",
+        "vitals": "Tmax: 36.6,C (97.8,   Tcurrent: 36.6,C (97.8,   HR: 95 (95 - 130) bpm,   BP: 58/36(46) {58/36(46) - 109/57(77)} mmHg,   ",
+        "events": "24 Hour Events:, TRANSTHORACIC ECHO - At [**2175-12-22**] 11:20 AM,   "
+    }
+]

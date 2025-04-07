@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2115-02-20 00:45:00",
+        "discharge_time": "2115-02-26",
+        "event_time": "2115-02-22 07:01:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 36.9,C (98.4,   HR: 58 (57 - 81) bpm,   BP: 131/66(84) {111/40(63) - 150/111(90)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2115-2-21**] 09:51 AM, ENDOSCOPY - At [**2115-2-21**] 11:14 AM, ENDOSCOPY - At [**2115-2-21**] 12:15 PM,   - EGD showed large ulcer, transfusion goal HCT>25, transfused 1unit,   pRBCs,   - bradycardic to 26, seen by EP who states no need for pacer unless pt,   symptomatic from bradycardia or has pause >5s.  pt subsequenlty had,   pause lasting more than 6 seconds and feels short of breath with,   bradycardia,   - pt refused bipap,   - LENI - showed right popliteal clot, age undetermined, scheduled fir,   IVC filter placement [**2-22**] am,   "
+    },
+    {
+        "admit_time": "2115-02-20 00:45:00",
+        "discharge_time": "2115-02-26",
+        "event_time": "2115-02-23 06:46:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.7,C (98,   HR: 60 (59 - 69) bpm,   BP: 140/71(89) {128/47(68) - 158/93(102)} mmHg,   ",
+        "events": "24 Hour Events:,   - abd CT showed no e/o retroperitoneal bleed,   - had large melanotic stool & hct has been bumping approp to,   transfusions,   - noted to have worsened RLE swelling/tenseness concerning for hematoma,   - RLE CT showed no hematoma, ?air c/w infection vs post surgical,   changes,   - EP consulted, no plan for pacemaker placment currently, prefer to,   treat Apnea first,   - had nasal cpap on overnight,   - receivied 1U PRBC at 10am,   "
+    },
+    {
+        "admit_time": "2115-02-20 00:45:00",
+        "discharge_time": "2115-02-26",
+        "event_time": "2115-02-23 12:24:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.4,C (97.6,   HR: 57 (57 - 69) bpm,   BP: 127/48(69) {122/47(68) - 158/102(116)} mmHg,   ",
+        "events": "24 Hour Events:,   CT [**Last Name (un) 499**] - no RP bleed,   Last transfusion, 2 units PRBC [**2-22**] at 10 am,   Tolerated nasal CPAP 8 cmH2O,   No >5 sec pauses last night,   ROS - no N/V, denies SOB, chest pain.,   "
+    }
+]

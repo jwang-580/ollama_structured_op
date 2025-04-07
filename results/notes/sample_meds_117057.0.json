@@ -1,0 +1,302 @@
+[
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Azithromycin , IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "9000 UNIT, 1.8 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "2300-4500 UNIT, 0.46-0.9 mL"
+    },
+    {
+        "medication": "Naloxone, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "0.4 mg, 1 mL"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-03 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "2 mg, 2 TAB"
+    },
+    {
+        "medication": "Methadone, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Quetiapine Fumarate, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "2 mg, 2 TAB"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "2 mg, 2 TAB"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-02 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-03 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Methadone, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "120 mg, 3 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Methadone, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Quetiapine Fumarate, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, PO",
+        "start_time": "2109-09-02 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-03 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-04 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-04 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "1-2 PUFF, 0.01-0.02 INH"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "2 TAB, 2 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Duloxetine, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "30 mg, 1 CAP"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2109-09-03 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "2 mg, 2 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2109-09-04 00:00:00",
+        "end_time": "2109-09-05 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2109-09-05 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2109-09-05 00:00:00",
+        "end_time": "2109-09-06 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "125 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Naloxone, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "0.4 mg, 1 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "1200-3000 UNIT, 0.24-0.6 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2109-09-01 00:00:00",
+        "end_time": "2109-09-01 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2116-08-08 16:45:00",
+        "discharge_time": "2116-08-10",
+        "event_time": "2116-08-09 05:34:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 35.9,C (96.7,   HR: 99 (95 - 107) bpm,   BP: 122/59(74) {111/39(59) - 157/91(96)} mmHg,   ",
+        "events": "24 Hour Events:,   CE negative ([**2116-8-8**]),   Pt required multiple neb treatments since admission.,   "
+    }
+]

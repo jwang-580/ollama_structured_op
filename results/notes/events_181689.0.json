@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2110-11-18 20:32:00",
+        "discharge_time": "2110-11-21",
+        "event_time": "2110-11-19 06:56:00",
+        "vitals": "Tmax: 38.7,C (101.7,   Tcurrent: 37.4,C (99.3,   HR: 90 (90 - 110) bpm,   BP: 103/69(77) {90/61(71) - 120/78(87)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2110-11-19**] 05:00 AM, URINE CULTURE - At [**2110-11-19**] 05:00 AM, FEVER - 101.7,F - [**2110-11-19**] 01:54 AM,   Requested pain medication and received toradol and naproxen in addition,   to dilaudid through epidural.  Fell asleep and had no apneic events or,   desaturations; did not require CPAP.,   Fever to 101.7 at 2 am.  Cultures sent.,   This AM, patient reports,   "
+    }
+]

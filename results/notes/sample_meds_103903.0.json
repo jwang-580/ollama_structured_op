@@ -1,0 +1,434 @@
+[
+    {
+        "medication": "Morphine Sulfate (Concentrated Oral Soln), PO",
+        "start_time": "2163-06-14 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "20-30 mg, 1-1.5 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-08 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-08 00:00:00",
+        "dosage": "325-650 mg, 0.5-1 SUPP"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Oxycodone SR (OxyconTIN), PO",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Polyethylene Glycol, PO",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "17 g, 1 PKT"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2163-06-08 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-09 00:00:00",
+        "dosage": "12 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "25 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "Collagenase Ointment, TP",
+        "start_time": "2163-06-09 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "1 Appl, 0.01 TUBE"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "OxycoDONE Liquid, PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "5 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "650 mg, 1 SUPP"
+    },
+    {
+        "medication": "OxycoDONE Liquid, PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "10-15 mg, 2-3 UDCUP"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-11 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-11 00:00:00",
+        "dosage": "325-650 mg, 0.5-1 SUPP"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-11 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Morphine Sulfate (Concentrated Oral Soln), PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "5-10 mg, 0.25-0.5 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "1-4 mg, 0.5-2 SYR"
+    },
+    {
+        "medication": "Cefpodoxime Proxetil, PO",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-14 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2163-06-10 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "0.25 mg, 0.05 VIAL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2163-06-11 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "0.25 mg, 0.125 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-13 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate (Concentrated Oral Soln), PO",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-14 00:00:00",
+        "dosage": "5-20 mg, 0.25-1 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-14 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "50 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2163-06-13 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2163-06-14 00:00:00",
+        "end_time": "2163-06-14 00:00:00",
+        "dosage": "2-6 mg, 1-3 SYR"
+    },
+    {
+        "medication": "Hyoscyamine, SL",
+        "start_time": "2163-06-14 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "0.125 mg, 1 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2163-06-14 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "0.5 mg, 0.25 SYR"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-07 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-08 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Oxycodone SR (OxyconTIN), PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-08 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Oxazepam, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "10 mg, 1 CAP"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "1 gm, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-10 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-11 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Latanoprost 0.005% Ophth. Soln., BOTH EYES",
+        "start_time": "2163-06-07 00:00:00",
+        "end_time": "2163-06-15 00:00:00",
+        "dosage": "1 DROP, 0.01 DBTL"
+    }
+]

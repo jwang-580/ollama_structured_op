@@ -1,0 +1,386 @@
+[
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "300 mL, 150 mL"
+    },
+    {
+        "medication": "Labetalol, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "1200 mg, 12 VIAL"
+    },
+    {
+        "medication": "Labetalol, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "600 mg, 6 VIAL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    },
+    {
+        "medication": "Prochlorperazine, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Prochlorperazine, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "90 mg, 1 TAB"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "30 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "30 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "10-20 mg, 0.1-0.2 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "1300 mg, 2 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "LeVETiracetam, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Guaifenesin, PO",
+        "start_time": "2141-06-12 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "5-10 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "60 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "30 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "HydrALAzine, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2141-06-13 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "300 mg, 1.5 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "60 mg, 1 TAB"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "600 mg, 3 TAB"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "300 mg, 1.5 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "30 mg, 0.3 VIAL"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "900 mg, 4.5 TAB"
+    },
+    {
+        "medication": "HydrALAzine, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Aliskiren, ORAL",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "150 mg, 1 TAB"
+    },
+    {
+        "medication": "Clonidine Patch 0.3 mg/24 hr, TD",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "1 PTCH, 1 PTCH"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "90 mg, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2141-06-14 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2141-06-15 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "20 mg, 0.2 VIAL"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2141-06-15 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "7 mL, 0.7 VIAL"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2141-06-15 00:00:00",
+        "end_time": "2141-06-15 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2141-06-15 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "2.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Bicarbonate, PO",
+        "start_time": "2141-06-15 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "1300 mg, 2 TAB"
+    },
+    {
+        "medication": "Alteplase, IV",
+        "start_time": "2141-06-16 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "6 mg, 6 SYR"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "200 mL, 150 mL"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "200 mL, 150 mL"
+    },
+    {
+        "medication": "Labetalol, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-11 00:00:00",
+        "dosage": "600 mg, 6 VIAL"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "20 mg, 0.2 VIAL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "30 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-12 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "200 mg, 1 BAG"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PO",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-13 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "Labetalol, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "1200 mg, 12 VIAL"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-14 00:00:00",
+        "dosage": "300 mL, 150 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2141-06-11 00:00:00",
+        "end_time": "2141-06-17 00:00:00",
+        "dosage": "2-4 mg, 0.5-1 SYR"
+    }
+]

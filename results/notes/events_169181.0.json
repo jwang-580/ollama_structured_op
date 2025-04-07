@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2181-01-02 23:07:00",
+        "discharge_time": "2181-01-05",
+        "event_time": "2181-01-03 06:46:00",
+        "vitals": "Tmax: 37.7,C (99.9,   Tcurrent: 36.6,C (97.8,   HR: 68 (54 - 87) bpm,   BP: 150/71(90) {95/36(51) - 150/71(90)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2181-1-3**] 02:20 AM,   - Patient agitated & delirious, attempting to climb out of bed, not,   cooperative with staff.  Required Haldol IM 0.5mg x 1, with resolution,   of agitation. EKG unchanged, vital signs stable.  Currently, resting,   comfortably.,   History obtained from Family / Friend, Interpreter,   "
+    }
+]

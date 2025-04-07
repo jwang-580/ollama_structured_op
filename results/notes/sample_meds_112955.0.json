@@ -1,0 +1,362 @@
+[
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Phenytoin Sodium, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "500 mg, 2 VIAL"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Phenytoin, PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Acetaminophen, NG",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "325-650 mg, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "25 gm, 1 SYR"
+    },
+    {
+        "medication": "Phenytoin Sodium, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "500 mg, 2 VIAL"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "150 mL, 150 mL"
+    },
+    {
+        "medication": "Lactulose, NG",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-22 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-23 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-23 00:00:00",
+        "dosage": "5 UNIT, 0.005 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2173-01-21 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2173-01-22 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2173-01-22 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2173-01-22 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2173-01-23 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-23 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-23 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "10 UNIT, 0.01 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-24 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-01-24 00:00:00",
+        "end_time": "2173-01-24 00:00:00",
+        "dosage": "10 UNIT, 0.01 VIAL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2173-01-19 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Influenza Virus Vaccine, IM",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "0.5 mL, 1 SYR"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "80 mEq, 4 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "80 mEq, 4 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL NS, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-20 00:00:00",
+        "dosage": "80 mEq, 8 CAP"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin Sodium, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "2 g, 1 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Potassium Chloride, NG",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "150 mL, 150 mL"
+    },
+    {
+        "medication": "Potassium Chloride, NG",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, NG",
+        "start_time": "2173-01-20 00:00:00",
+        "end_time": "2173-01-21 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    }
+]

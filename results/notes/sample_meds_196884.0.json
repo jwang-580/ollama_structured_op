@@ -1,0 +1,158 @@
+[
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Midazolam, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-01 00:00:00",
+        "dosage": "2-4 mg, 1-2 VIAL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-09-02 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Oxide, PO",
+        "start_time": "2125-09-01 00:00:00",
+        "end_time": "2125-09-02 00:00:00",
+        "dosage": "800 mg, 2 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2125-09-01 00:00:00",
+        "end_time": "2125-09-02 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Golytely, PO",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "4 L, 1 BTL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2125-08-31 00:00:00",
+        "end_time": "2125-08-31 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-06 00:00:00",
+        "dosage": "15 mcg, 0.3 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-07 00:00:00",
+        "dosage": "50 mcg, 1 mL"
+    },
+    {
+        "medication": "Midazolam, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-07 00:00:00",
+        "dosage": "3 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-07 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-07 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Octreotide Acetate, IV DRIP",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "0.6 mg, 6 mL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Sucralfate, PO",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1 gm, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2139-07-06 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Pamidronate, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-08 00:00:00",
+        "dosage": "90 mg, 30 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "OxycoDONE (Immediate Release) , PO",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2139-07-07 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2139-07-08 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2139-07-08 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2139-07-08 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Clindamycin, PO",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "450 mg, 3 CAP"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1 PKT, 1 PKT"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2139-07-09 00:00:00",
+        "end_time": "2139-07-09 00:00:00",
+        "dosage": "1 PKT, 1 PKT"
+    }
+]

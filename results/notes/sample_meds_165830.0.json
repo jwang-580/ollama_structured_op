@@ -1,0 +1,968 @@
+[
+    {
+        "medication": "Nephrocaps, PO",
+        "start_time": "2147-05-15 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "DiphenhydrAMINE, PO/NG",
+        "start_time": "2147-05-15 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "25 mg, 1 CAP"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-15 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "15 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "OxycoDONE (Immediate Release) , PO/NG",
+        "start_time": "2147-05-17 00:00:00",
+        "end_time": "2147-05-18 00:00:00",
+        "dosage": "2.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2147-05-18 00:00:00",
+        "end_time": "2147-05-19 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Maalox/Diphenhydramine/Lidocaine, PO",
+        "start_time": "2147-05-18 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "15-30 mL, 0.125-0.25 BTL"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2147-05-19 00:00:00",
+        "end_time": "2147-05-19 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Desmopressin Acetate, IV",
+        "start_time": "2147-05-19 00:00:00",
+        "end_time": "2147-05-20 00:00:00",
+        "dosage": "25 mcg, 6.25 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-05-19 00:00:00",
+        "end_time": "2147-05-20 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2147-05-19 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Sertraline, PO/NG",
+        "start_time": "2147-05-20 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2147-05-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2147-05-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "650 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Desmopressin Acetate, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "30 mcg, 7.5 mL"
+    },
+    {
+        "medication": "Bag, REPLACE",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "5 mg, 0.5 AMP"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-01 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-02 00:00:00",
+        "dosage": "750 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-02 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2147-05-01 00:00:00",
+        "end_time": "2147-05-02 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2147-05-01 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, REPLACE",
+        "start_time": "2147-05-01 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Citrate Dextrose 3% (ACD-A) CRRT, DIALYS",
+        "start_time": "2147-05-01 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2147-05-02 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-05-02 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Desmopressin Acetate, IV",
+        "start_time": "2147-05-02 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "30 mcg, 7.5 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-05-02 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-05-02 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-03 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Phytonadione, PO/NG",
+        "start_time": "2147-05-03 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (1000 units/mL), DWELL",
+        "start_time": "2147-05-03 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.4-1.1 VIAL"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-03 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Prismasate (B22 K4), REPLACE",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, REPLACE",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2147-05-04 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "Lidocaine 5% Ointment, TP",
+        "start_time": "2147-05-05 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-06 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "15 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-06 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "15 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2147-05-06 00:00:00",
+        "end_time": "2147-05-20 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-05-07 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-05-07 00:00:00",
+        "end_time": "2147-05-07 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-05-07 00:00:00",
+        "end_time": "2147-05-15 00:00:00",
+        "dosage": "15 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "Simethicone, PO/NG",
+        "start_time": "2147-05-07 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "40-80 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2147-05-08 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2147-05-09 00:00:00",
+        "end_time": "2147-05-10 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2147-05-10 00:00:00",
+        "end_time": "2147-05-11 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2147-05-10 00:00:00",
+        "end_time": "2147-05-19 00:00:00",
+        "dosage": "30 mg, 3 TAB"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2147-05-10 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2147-05-11 00:00:00",
+        "end_time": "2147-05-21 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Lidocaine Jelly 2% (Urojet), TP",
+        "start_time": "2147-05-12 00:00:00",
+        "end_time": "2147-05-12 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Lidocaine Viscous 2%, PO",
+        "start_time": "2147-05-12 00:00:00",
+        "end_time": "2147-05-13 00:00:00",
+        "dosage": "10 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "DiphenhydrAMINE, PO/NG",
+        "start_time": "2147-05-14 00:00:00",
+        "end_time": "2147-05-14 00:00:00",
+        "dosage": "25 mg, 1 CAP"
+    },
+    {
+        "medication": "DiphenhydrAMINE, PO/NG",
+        "start_time": "2147-05-14 00:00:00",
+        "end_time": "2147-05-15 00:00:00",
+        "dosage": "25 mg, 1 CAP"
+    },
+    {
+        "medication": "Tuberculin Protein, ID",
+        "start_time": "2147-05-15 00:00:00",
+        "end_time": "2147-05-16 00:00:00",
+        "dosage": "0.1 mL, 1 SYR"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Citrate Dextrose 3% (ACD-A) CRRT, DIALYS",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-28 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, DIALYS",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-28 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, REPLACE",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-28 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B32 K2), DIALYS",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-28 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Fluconazole, PO/NG",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "10 mEq, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "20 gm, 20 VIAL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Sodium CITRATE 4%, DWELL",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "1.5 mL, 0.5 SYR"
+    },
+    {
+        "medication": "Lactulose Enema, PR",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "1000 mL, 1 BTL"
+    },
+    {
+        "medication": "Lactulose Enema, PR",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "250 mL, 0.25 BTL"
+    },
+    {
+        "medication": "250 mL Bottle, PR",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-26 00:00:00",
+        "dosage": "250 mL, 1 BTL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "Artificial Tears, BOTH EYES",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-05-21 00:00:00",
+        "dosage": "1-2 DROP, 0.1667-0.3333 DRP"
+    },
+    {
+        "medication": "Heparin Flush (1000 units/mL), DWELL",
+        "start_time": "2147-04-26 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.4-1.1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-27 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2147-04-27 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Potassium Chloride (Powder), PO/NG",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-04-29 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-04-29 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Prismasate (B22 K4), REPLACE",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, REPLACE",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Bag, DIALYS",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Prismasate (B22 K4), DIALYS",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-05-05 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-28 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "1 BAG, 1 BAG"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Desmopressin Acetate, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "30 mcg, 7.5 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "4.5 gm, 1 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin Oral Liquid, PO/NG",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "250 mg, 1 SYR"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-29 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-30 00:00:00",
+        "end_time": "2147-04-30 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Phytonadione, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Midodrine, PO",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "12.5 mg, 2.5 TAB"
+    },
+    {
+        "medication": "Syringe, SC",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "0.4 mL, 1 mL"
+    },
+    {
+        "medication": "Octreotide Acetate, SC",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "200 mcg, 0.4 mL"
+    },
+    {
+        "medication": "Lactulose, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-03 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "FoLIC Acid, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-19 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-19 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Sarna Lotion, TP",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-21 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Miconazole Powder 2%, TP",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-21 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Thiamine, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Rifaximin, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "400 mg, 2 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Albumin 25% (12.5g / 50mL), IV",
+        "start_time": "2147-04-22 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "100 g, 8 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Lidocaine Jelly 2% (Urojet), TP",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Albumin 5% (25g / 500mL), IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "50 g, 2 VIAL"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-04-27 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Pantoprazole, IV",
+        "start_time": "2147-04-23 00:00:00",
+        "end_time": "2147-05-06 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Fluconazole, PO/NG",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-24 00:00:00",
+        "dosage": "100 mEq, 2 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "120 mg, 1.2 VIAL"
+    },
+    {
+        "medication": "Phytonadione, PO",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Albumin 25% (12.5g / 50mL), IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "50 g, 4 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Propofol, IV BOLUS",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-04 00:00:00",
+        "dosage": "10 mg, 0.05 VIAL"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-09 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-21 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Glucagon, IM",
+        "start_time": "2147-04-24 00:00:00",
+        "end_time": "2147-05-22 00:00:00",
+        "dosage": "1 mg, 1 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2147-04-25 00:00:00",
+        "end_time": "2147-04-25 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Albumin 25% (12.5g / 50mL), IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-22 00:00:00",
+        "dosage": "50 g, 4 VIAL"
+    },
+    {
+        "medication": "Lorazepam, PO/NG",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "2-4 mg, 0.5-1 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2147-04-21 00:00:00",
+        "end_time": "2147-04-23 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2181-09-09 05:51:00",
+        "discharge_time": "2181-09-14",
+        "event_time": "2181-09-10 07:54:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.9,C (98.4,   HR: 102 (64 - 132) bpm,   BP: 125/58(73) {86/35(48) - 182/78(100)} mmHg,   ",
+        "events": "24 Hour Events:,   - Patient hypotensive with MAP 50s, hct 23.5. Transfused 1u PRBC.,   During transfusion, O2 sat dropped and had to increase her O2 to 4l nc,   from 2l nc with incrased bibasilar crackles (R>L). O2 sats continued to,   drop over the course of the afternoon ~88% on 4L nc with rales 1/2 up,   on right and a little lower on left. BP 179/79 (102). Repeat hct 29.3,,   gave 10 mg IV lasix and 1 mg iv morphine x2.,   - O2 sats continued to be at 90% on 6L nc. Additional 5 mg iv lasix,   given.,   - TTE ordered,   - Tachycardic, normo to hypertensive this AM.  VS otherwise stable.,   Restarted metoprolol.,   - Pt complaining of leg pain this AM,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2181-09-09 05:51:00",
+        "discharge_time": "2181-09-14",
+        "event_time": "2181-09-10 11:20:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.7,C (98.1,   HR: 115 (64 - 132) bpm,   BP: 144/78(95) {95/35(50) - 182/78(100)} mmHg,   ",
+        "events": "24 Hour Events:,   Hypotensive yesterday with corresponding decrease in HCT, responded to,   fluids and blood, but again had worsening evidence of volume overload.,   Given gentle diuresis following HD stability and developing worsening,   oxygenation.  She was stable overnight following this epsidose in the,   afternoon, but continues to have poor rate control.,   "
+    },
+    {
+        "admit_time": "2181-09-09 05:51:00",
+        "discharge_time": "2181-09-14",
+        "event_time": "2181-09-11 06:58:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36.3,C (97.4,   HR: 111 (96 - 120) bpm,   BP: 130/78(91) {89/42(54) - 144/108(112)} mmHg,   ",
+        "events": "24 Hour Events:,   - CXR PM - \"Significant improvement in pulmonary edema is demonstrated,   up to almost complete resolution.\",   - Lopressor dose increased to 50mg PO TID for better rate control,   - Hematocrit stable,   - TTE ordered but not done,   - Fluid balance: -1.6L at 20:00,   - 250cc NS bolus at 22:00 for MAP 50s, low UOP,   "
+    }
+]

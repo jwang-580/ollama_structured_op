@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2118-05-20 13:08:00",
+        "discharge_time": "2118-05-26",
+        "event_time": "2118-05-22 07:16:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.7,C (98.1,   HR: 78 (65 - 88) bpm,   BP: 122/60(69) {89/43(55) - 127/99(104)} mmHg,   ",
+        "events": "24 Hour Events:, TRANSTHORACIC ECHO - At [**2118-5-21**] 10:30 AM, BLOOD CULTURED - At [**2118-5-21**] 05:08 PM,   from HD line prior to IR MD [**First Name (Titles) 9511**] [**Last Name (Titles) 9512**] line, DIALYSIS CATHETER - STOP [**2118-5-21**] 05:35 PM,   -Talked with renal; agree that dialysis catheter is likely source of,   pt's bacteremia - agreed to pulling dialysis catheter but asked that we,   minimize fluid boluses,   -Dialysis catheter pulled by IR,   "
+    },
+    {
+        "admit_time": "2118-05-20 13:08:00",
+        "discharge_time": "2118-05-26",
+        "event_time": "2118-05-21 05:46:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 36.7,C (98.1,   HR: 65 (58 - 78) bpm,   BP: 84/32(45) {81/32(45) - 125/62(77)} mmHg,   ",
+        "events": "24 Hour Events:, NON-INVASIVE VENTILATION - START [**2118-5-20**] 10:35 AM, DIALYSIS CATHETER - START [**2118-5-20**] 08:02 PM,   [**5-20**],   - Notified by Micro Lab 1 of 2 aerobic bottles grew gm+ cocci in pairs,   and clusters from peripheral puncture,   - Pt hypotensive 80's/40's.  Bolused 250 and responded.  Started,   another 250 and will monitor.,   "
+    }
+]

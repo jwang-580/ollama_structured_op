@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2175-08-09 01:46:00",
+        "discharge_time": "2175-08-17",
+        "event_time": "2175-08-09 06:28:00",
+        "vitals": "Tmax: 39.3,C (102.7,   Tcurrent: 38.3,C (101,   HR: 83 (79 - 137) bpm,   BP: 108/55(71) {66/35(45) - 240/115(154)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - START [**2175-8-8**] 12:07 PM, BLOOD CULTURED - At [**2175-8-8**] 02:00 PM, ERCP - At [**2175-8-8**] 04:30 PM, ARTERIAL LINE - START [**2175-8-8**] 07:40 PM, BLOOD CULTURED - At [**2175-8-9**] 02:24 AM, FEVER - 102.7,F - [**2175-8-9**] 12:45 AM,   "
+    },
+    {
+        "admit_time": "2175-08-09 01:46:00",
+        "discharge_time": "2175-08-17",
+        "event_time": "2175-08-12 06:26:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.9,C (98.4,   HR: 62 (58 - 80) bpm,   BP: 141/79(102) {110/65(81) - 200/102(139)} mmHg,   ",
+        "events": "24 Hour Events:,   - HD yesterdat,   - NG tube out; patient does not want it put in so meds needed to be,   changed to IV. Will hold TF in AM for potential extubation.,   - IV lopressor for SBPs 170s, has come down to 130s,   "
+    },
+    {
+        "admit_time": "2175-08-09 01:46:00",
+        "discharge_time": "2175-08-17",
+        "event_time": "2175-08-13 07:05:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.7,C (98.1,   HR: 62 (57 - 84) bpm,   BP: 120/63(82) {94/53(69) - 157/84(106)} mmHg,   ",
+        "events": "24 Hour Events:,   -CT scan of abdomen: no evidence of stent obstruction or dilation; no,   evidence of cholecystitis.,   -HD today,   "
+    },
+    {
+        "admit_time": "2175-08-09 01:46:00",
+        "discharge_time": "2175-08-17",
+        "event_time": "2175-08-11 10:25:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 36.6,C (97.9,   HR: 73 (72 - 84) bpm,   BP: 145/75(100) {91/53(66) - 187/94(124)} mmHg,   ",
+        "events": "24 Hour Events:,                   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2175-08-09 01:46:00",
+        "discharge_time": "2175-08-17",
+        "event_time": "2175-08-14 11:44:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.9,C (98.4,   HR: 74 (63 - 79) bpm,   BP: 124/66(85) {94/54(69) - 173/119(131)} mmHg,   ",
+        "events": "24 Hour Events:,   ERCP--completed, stent changed, \"pus\" visualized and drained this,   morning,   "
+    }
+]

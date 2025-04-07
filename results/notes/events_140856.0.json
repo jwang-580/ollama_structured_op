@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2137-03-29 18:09:00",
+        "discharge_time": "2137-04-08",
+        "event_time": "2137-03-31 12:06:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 37.4,C (99.4,   HR: 109 (105 - 140) bpm,   BP: 151/93(106) {113/53(68) - 168/93(106)} mmHg,   ",
+        "events": "24 Hour Events:, Remained tachycardic, unclear etiology. Dilaudid/ativan with no,   change in HR. Prior CT negative for PE, though not a spiral protocol.,   LENI negative for dvt,   History obtained from Medical records,   Patient unable to provide history: severe MR,   "
+    },
+    {
+        "admit_time": "2137-03-29 18:09:00",
+        "discharge_time": "2137-04-08",
+        "event_time": "2137-04-01 07:54:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.8,C (98.3,   HR: 106 (104 - 126) bpm,   BP: 143/96(105) {116/61(75) - 177/103(118)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    },
+    {
+        "admit_time": "2137-03-29 18:09:00",
+        "discharge_time": "2137-04-08",
+        "event_time": "2137-04-02 06:49:00",
+        "vitals": "Tmax: 38.2,C (100.7,   Tcurrent: 36.3,C (97.4,   HR: 99 (82 - 106) bpm,   BP: 158/96(121) {151/76(96) - 169/106(121)} mmHg,   ",
+        "events": "24 Hour Events:,   - Unable to get CTA to rule out PE as no peripheral access ([**Doctor First Name 458**] tried,   with US as well),   - Amylase/Lipase not elevated,   - TF increased to 30cc/hr per [**Doctor First Name 458**] recs,   - PM Hct stable at 33.4,   - Ordered for TTE, done this morning,   - Portable abd xray to eval for ileus, poor study, non-specific bowel,   gas pattern,   - CVP around 20 in am, rec'd one dose IV Lasix with good response;,   patient with increased RR later, CVP down to 10 in the evening, around,   1L negative, lungs sounded clear, patient appeared comfortable with HR,   less than 100 so no acute intervention,   - HR improved, has remained hypertensive, RR in the 30s but satting,   well on 1-2L NC to RA, no apparent distress,   "
+    }
+]

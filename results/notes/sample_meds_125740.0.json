@@ -1,0 +1,236 @@
+[
+    {
+        "medication": "SW, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "1 mg, 0.1 AMP"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-16 00:00:00",
+        "dosage": "1 mL, 0.2 SYR"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-16 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "100 mcg, 2 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2112-10-13 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "SW, IV DRIP",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Eptifibatide, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Eptifibatide, IV DRIP",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "75 mg, 1 BTL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-14 00:00:00",
+        "dosage": "3300 UNIT, 0.66 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-15 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-15 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-15 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-15 00:00:00",
+        "dosage": "300 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "800 UNIT, 0.16 mL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-17 00:00:00",
+        "dosage": "800 UNIT, 0.16 mL"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Calcium Acetate, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "2001 mg, 3 CAP"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2112-10-14 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "500-1000 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Sodium Chloride Nasal, NU",
+        "start_time": "2112-10-15 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "1-2 SPRY, 1-2 SPRY"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2112-10-15 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Phytonadione, PO",
+        "start_time": "2112-10-17 00:00:00",
+        "end_time": "2112-10-18 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2112-10-17 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2112-10-17 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2112-10-18 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Atropine Sulfate, IV",
+        "start_time": "2112-10-18 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "0.5 mg, 0.5 SYR"
+    },
+    {
+        "medication": "Verapamil, PO",
+        "start_time": "2112-10-18 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2112-10-19 00:00:00",
+        "end_time": "2112-10-19 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2112-10-20 00:00:00",
+        "end_time": "2112-10-20 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    }
+]

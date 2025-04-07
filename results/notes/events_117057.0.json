@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2109-09-01 07:23:00",
+        "discharge_time": "2109-09-06",
+        "event_time": "2109-09-02 07:08:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.9,C (98.5,   HR: 71 (53 - 74) bpm,   BP: 123/72(84) {87/50(61) - 137/91(102)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2109-9-1**] 12:15 PM,   -s/p another dose of narcan with good effect on HR and BP,   -ROMI,   -states he \"took too much atenolol\",   "
+    },
+    {
+        "admit_time": "2109-09-01 07:23:00",
+        "discharge_time": "2109-09-06",
+        "event_time": "2109-09-02 10:38:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.9,C (98.5,   HR: 71 (53 - 79) bpm,   BP: 114/62(72) {87/50(61) - 142/91(102)} mmHg,   ",
+        "events": "24 Hour Events:,   -woke up at night,   -treated with clonazepam and seroquel for anxiety,   -asking for methadone this am,   -picc line, treated with heparin gtt,   History obtained from [**Hospital 85**] Medical records,   "
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2127-05-17 15:26:00",
+        "discharge_time": "2127-05-20",
+        "event_time": "2127-05-18 07:24:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 35.7,C (96.3,   HR: 64 (59 - 80) bpm,   BP: 114/53(70) {91/41(55) - 129/67(81)} mmHg,   ",
+        "events": "24 Hour Events:, NASAL SWAB - At [**2127-5-17**] 02:02 PM, EKG - At [**2127-5-18**] 05:46 AM,   - Rec,d Zyprexa for agitation,   "
+    }
+]

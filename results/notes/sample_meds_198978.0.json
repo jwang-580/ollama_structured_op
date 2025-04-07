@@ -1,0 +1,524 @@
+[
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Citalopram Hydrobromide, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "LaMIVudine, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "150 mg, 1 TAB"
+    },
+    {
+        "medication": "RiTONAvir, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Indinavir Sulfate, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "800 mg, 2 CAP"
+    },
+    {
+        "medication": "Stavudine, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Nystatin Ointment, TP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Sodium CITRATE 4%, DWELL",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "2 mL, 0.6667 SYR"
+    },
+    {
+        "medication": "Hydrocortisone Na Succ., IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "50 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "60 mg, 6 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Prismasate (B32 K2), REPLACE",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 UNIT, 5 mL"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.8-2.2 mL"
+    },
+    {
+        "medication": "Artificial Tear Ointment, BOTH EYES",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "1 Appl, 0.0333 TUBE"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "120 mg, 12 VIAL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2127-01-23 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "16 mg, 4 AMP"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-01-24 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV DRIP",
+        "start_time": "2127-01-24 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mg, 1 BTL"
+    },
+    {
+        "medication": "D5W, IV DRIP",
+        "start_time": "2127-01-24 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 1 BTL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "30 mg, 3 CAP"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "75 mg, 3 TAB"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "240 mg, 24 VIAL"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "100 UNIT, 5 mL"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "60 mg, 6 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "100 UNIT, 5 mL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "16 mg, 4 AMP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Tobramycin Sulfate, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "120 mg, 3 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Prismasate (B22 K4), REPLACE",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "120 mg, 12 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "150 mL, 150 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-23 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Prismasate (B22 K4), DIALYS",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "5000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "100 mL, 50 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Midazolam, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "0.5-2 mg, 0.1-0.4 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "20 gm, 20 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "10 mEq, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-24 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2127-01-22 00:00:00",
+        "end_time": "2127-01-22 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    }
+]

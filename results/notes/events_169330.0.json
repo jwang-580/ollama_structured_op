@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2191-12-15 04:44:00",
+        "discharge_time": "2191-12-19",
+        "event_time": "2191-12-15 07:19:00",
+        "vitals": "Tmax: 35.2,C (95.3,   Tcurrent: 35.2,C (95.3,   HR: 77 (62 - 84) bpm,   BP: 122/63(77) {108/59(72) - 127/92(99)} mmHg,   ",
+        "events": "24 Hour Events:,   Patient comfortable on floor,   "
+    }
+]

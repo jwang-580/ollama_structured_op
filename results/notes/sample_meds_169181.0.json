@@ -1,0 +1,146 @@
+[
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Latanoprost 0.005% Ophth. Soln., BOTH EYES",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 DROP, 0.01 DBTL"
+    },
+    {
+        "medication": "Artificial Tear Ointment, BOTH EYES",
+        "start_time": "2181-01-04 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 Appl, 0.0333 TUBE"
+    },
+    {
+        "medication": "Fluticasone-Salmeterol Diskus (100/50), IH",
+        "start_time": "2181-01-04 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 INH, 0.0357 DEV"
+    },
+    {
+        "medication": "Atorvastatin, PO/NG",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-02 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-03 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Brimonidine Tartrate 0.15% Ophth., BOTH EYES",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 DROP, 0.01 DBTL"
+    },
+    {
+        "medication": "Aspirin, PO/NG",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Glucagon, IM",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 mg, 1 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2181-01-02 00:00:00",
+        "end_time": "2181-01-05 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-03 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-04 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Haloperidol, IM",
+        "start_time": "2181-01-03 00:00:00",
+        "end_time": "2181-01-04 00:00:00",
+        "dosage": "0.5 mg, 0.1 VIAL"
+    }
+]

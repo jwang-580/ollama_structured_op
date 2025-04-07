@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2163-06-07 00:27:00",
+        "discharge_time": "2163-06-14",
+        "event_time": "2163-06-07 07:33:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 37.2,C (99,   HR: 70 (62 - 90) bpm,   BP: 139/45(68) {139/45(68) - 181/114(121)} mmHg,   ",
+        "events": "24 Hour Events:, NASAL SWAB - At [**2163-6-6**] 11:45 PM, EKG - At [**2163-6-7**] 01:52 AM,   Lost IV access o/n.,   "
+    }
+]

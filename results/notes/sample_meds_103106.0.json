@@ -1,0 +1,326 @@
+[
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Gabapentin, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "600 mg, 2 CAP"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "15 UNIT, 0.15 mL"
+    },
+    {
+        "medication": "Testosterone 2.5mg Patch, TD",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "0.5 PTCH, 0.5 PTCH"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-01 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "15 UNIT, 0.015 VIAL"
+    },
+    {
+        "medication": "Lidocaine Jelly 2% (Urojet), TP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Lidocaine 0.5%, SC",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "2 mL, 0.04 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "Heparin Flush PICC (100 units/ml), IV",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Cyanocobalamin, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "2000 mcg, 4 TAB"
+    },
+    {
+        "medication": "Latanoprost 0.005% Ophth. Soln., BOTH EYES",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "1 DROP, 0.01 DBTL"
+    },
+    {
+        "medication": "Oxcarbazepine, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "300 mg, 2 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "200 mg, 4 TAB"
+    },
+    {
+        "medication": "Calcitriol, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "0.25 mcg, 1 CAP"
+    },
+    {
+        "medication": "Aspirin EC, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Amitriptyline HCl, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2155-03-01 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "D5NS, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-02 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "15 mmol, 5 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "25 UNIT, 0.025 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-03 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Heparin Flush PICC (100 units/ml), IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2155-03-02 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "100 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2155-03-03 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "20 mEq, 1 TAB"
+    },
+    {
+        "medication": "Nystatin Oral Suspension, PO",
+        "start_time": "2155-03-03 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "5 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-03 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-03 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "30 UNIT, 0.03 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-04 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "40 UNIT, 0.04 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2155-03-04 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2155-03-04 00:00:00",
+        "end_time": "2155-03-04 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    }
+]

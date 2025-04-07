@@ -1,0 +1,44 @@
+[
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-01-11 06:12:00",
+        "vitals": "Tmax: 36.2,C (97.1,   Tcurrent: 35.6,C (96,   HR: 68 (65 - 85) bpm,   BP: 149/90(114) {122/70(88) - 161/93(122)} mmHg,   ",
+        "events": "24 Hour Events:,   Transfused 1 unit platelets with increase from 26 to 89,   BMT recs: 20 methylprednisone in AM, 15 in PM,   Thoracic recs: keep on suction,   Increased fentanyl patch to 150 for better pain control,   Implimented nutrition recs for tube feeds yesterday am,   "
+    },
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-01-05 06:00:00",
+        "vitals": "Tmax: 36.3,C (97.3,   Tcurrent: 35.3,C (95.6,   HR: 123 (60 - 185) bpm,   BP: 110/80(90) {77/50(59) - 135/99(112)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2132-1-4**] 10:40 AM, ULTRASOUND - At [**2132-1-4**] 02:15 PM, CARDIOVERSION/DEFIBRILLATION - At [**2132-1-4**] 03:14 PM,   200 Joules, EKG - At [**2132-1-4**] 03:17 PM,   - Esmolol drip slowed and d/c'd, pt HR stable for approx 3 hours, then,   went back into Afib at 170s, esmolol drip restarted with HR returning,   back to 120s,   "
+    },
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-01-06 06:28:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.7,C (98,   HR: 74 (60 - 110) bpm,   BP: 151/86(113) {90/56(67) - 165/100(120)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2132-1-5**] 06:00 PM, BLOOD CULTURED - At [**2132-1-5**] 06:15 PM,   -started lopressor [**Hospital1 **] to treat afib,   -derm consult: likely skin changes [**2-17**] IV extravasation (unlikely to be,   GVHD or pemphigus),   -episode of hypothermia in evening, drew blood cx and put on low bear,   hugger,   -per ID: d/c linezolid, tobramycin and continue meropenem,   "
+    },
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-01-10 05:16:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.7,C (98,   HR: 79 (72 - 90) bpm,   BP: 139/80(101) {96/57(70) - 147/85(107)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2132-1-9**] 11:30 AM,   Dobhoff placed, started TFs,   Onc recs: Cont Cellcept [**Pager number **] [**Hospital1 **], Solumedrol 20 [**Hospital1 **]. If increased LFts,   tomorrow ([**1-10**]), increase cellcept to 1000mg [**Hospital1 **]; check prealbumin,,   TFs ok,   Had RUQ US: No biliary ductal dilatation. No e/o cholecystitis,   "
+    },
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-01-08 05:51:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.6,C (97.8,   HR: 78 (74 - 166) bpm,   BP: 136/82(104) {98/62(75) - 170/105(128)} mmHg,   ",
+        "events": "24 Hour Events:, TRANSTHORACIC ECHO - At [**2132-1-7**] 11:32 AM,   - changed IV steroids to Solumedrol 20mg [**Hospital1 **] in attempt to wean,   - tachycardic/hypertensive at night, increased metoprolol to 37.5mg TID,   with good effect,   - started tube feeds,   - holding amiodarone for now,   "
+    },
+    {
+        "admit_time": "2132-01-05 01:40:00",
+        "discharge_time": "2132-02-11",
+        "event_time": "2132-02-10 08:53:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.3,C (97.4,   HR: 94 (67 - 94) bpm,   BP: 104/70(77) {104/67(77) - 180/118(132)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - START [**2132-2-9**] 05:08 PM, EEG - At [**2132-2-9**] 07:58 PM, EKG - At [**2132-2-9**] 08:00 PM, MAGNETIC RESONANCE IMAGING - At [**2132-2-9**] 09:00 PM, BLOOD CULTURED - At [**2132-2-9**] 11:12 PM, URINE CULTURE - At [**2132-2-9**] 11:12 PM, TRANSTHORACIC ECHO - At [**2132-2-10**] 12:19 AM, EKG - At [**2132-2-10**] 01:25 AM,   Monitored overnight with q1h neuro checks. Some subtle neuro,   improvement.,   Hemodynamically stable; protecting airway.,   Troponin leak noted.,   Increased episodes of apnea this AM,   Loaded with Dilantin,   History obtained from Medical records,   Patient unable to provide history: Encephalopathy,   "
+    }
+]

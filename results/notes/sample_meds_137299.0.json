@@ -1,0 +1,350 @@
+[
+    {
+        "medication": "Nystatin Oral Suspension, PO",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "5 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-02 00:00:00",
+        "end_time": "2173-04-03 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-03 00:00:00",
+        "end_time": "2173-04-04 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2173-04-03 00:00:00",
+        "end_time": "2173-04-04 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Nystatin Cream, TP",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "1 Appl, 0.01 TUBE"
+    },
+    {
+        "medication": "Lidocaine Jelly 2% (Urojet), TP",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Cholestyramine, PO",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "4 gm, 1 PKT"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "60 mEq, 3 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-04-04 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "60 mEq, 3 PKT"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-05 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2173-04-05 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-06 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2173-04-06 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2173-04-07 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-04-07 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Miconazole Powder 2%, TP",
+        "start_time": "2173-04-07 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-07 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Aspirin, PO/NG",
+        "start_time": "2173-04-07 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-03-30 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-03-30 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-03-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-03-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Pantoprazole, IV",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-04 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Lidocaine Jelly 2% (Urojet), TP",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Acyclovir, PO",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-06 00:00:00",
+        "dosage": "800 mg, 2 TAB"
+    },
+    {
+        "medication": "Glucagon, IM",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1 mg, 1 VIAL"
+    },
+    {
+        "medication": "Artificial Tears, BOTH EYES",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1-2 DROP, 0.1667-0.3333 DRP"
+    },
+    {
+        "medication": "Sertraline, PO/NG",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO/NG",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "20 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Nitroglycerin SL, SL",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "0.3 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "650 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2173-03-30 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-03-31 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2173-03-31 00:00:00",
+        "end_time": "2173-04-01 00:00:00",
+        "dosage": "30 mmol, 10 mL"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2173-03-31 00:00:00",
+        "end_time": "2173-04-05 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "30 mmol, 10 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-02 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Pantoprazole, IV",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-06 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-06 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2173-04-01 00:00:00",
+        "end_time": "2173-04-07 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    }
+]

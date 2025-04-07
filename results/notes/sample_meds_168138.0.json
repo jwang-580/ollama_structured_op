@@ -1,0 +1,296 @@
+[
+    {
+        "medication": "Levofloxacin, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-20 00:00:00",
+        "dosage": "250 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-20 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-20 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "2.25 g, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Azithromycin , IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Digoxin, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "0.125 mg, 1 TAB"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-23 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-23 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Rifaximin, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "400 mg, 2 TAB"
+    },
+    {
+        "medication": "Nadolol, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "10 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "100 mcg, 1 TAB"
+    },
+    {
+        "medication": "Latanoprost 0.005% Ophth. Soln., BOTH EYES",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 DROP, 0.01 DBTL"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Nephrocaps, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2118-05-20 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-21 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Phytonadione, PO",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2118-05-21 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2118-05-22 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2118-05-22 00:00:00",
+        "end_time": "2118-05-22 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2118-05-22 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2118-05-22 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2118-05-22 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Sarna Lotion, TP",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-23 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Sarna Lotion, TP",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-23 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Hydrocerin, TP",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 Appl, 1 Appl"
+    },
+    {
+        "medication": "Sarna Lotion, TP",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Capsaicin 0.025%, TP",
+        "start_time": "2118-05-23 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "1 Appl, 0.1 TUBE"
+    },
+    {
+        "medication": "Digoxin, PO",
+        "start_time": "2118-05-24 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "0.125 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2118-05-25 00:00:00",
+        "end_time": "2118-05-26 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.8-2.2 mL"
+    }
+]

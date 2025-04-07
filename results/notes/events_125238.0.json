@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2166-05-23 00:53:00",
+        "discharge_time": "2166-05-25",
+        "event_time": "2166-05-23 12:02:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.7,C (98.1,   HR: 107 (94 - 191) bpm,   BP: 125/72(87) {99/38(65) - 137/116(120)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2166-5-22**] 11:43 PM, NASAL SWAB - At [**2166-5-23**] 12:37 AM,   "
+    }
+]

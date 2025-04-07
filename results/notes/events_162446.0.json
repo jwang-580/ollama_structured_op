@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2178-09-18 14:28:00",
+        "discharge_time": "2178-10-01",
+        "event_time": "2178-09-30 07:07:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.1,C (97,   HR: 60 (53 - 70) bpm,   BP: 79/37(45) {69/27(38) - 101/52(63)} mmHg,   ",
+        "events": "24 Hour Events:,   No CP, no SOB, feels well, keen to go home.,   "
+    },
+    {
+        "admit_time": "2178-09-18 14:28:00",
+        "discharge_time": "2178-10-01",
+        "event_time": "2178-09-21 06:48:00",
+        "vitals": "Tmax: 36.1,C (97,   Tcurrent: 36.1,C (97,   HR: 65 (48 - 94) bpm,   BP: 88/46(57) {88/46(57) - 169/98(114)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2178-9-20**] 09:09 PM, PICC LINE - START [**2178-9-20**] 09:38 PM,   "
+    },
+    {
+        "admit_time": "2178-09-18 14:28:00",
+        "discharge_time": "2178-10-01",
+        "event_time": "2178-09-19 07:42:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 36.1,C (97,   HR: 68 (68 - 89) bpm,   BP: 102/54(68) {88/31(44) - 129/62(73)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2178-9-18**] 01:06 PM,   History obtained from [**Hospital 85**] Medical records,   "
+    },
+    {
+        "admit_time": "2178-09-18 14:28:00",
+        "discharge_time": "2178-10-01",
+        "event_time": "2178-09-22 06:25:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.3,C (99.1,   HR: 77 (56 - 85) bpm,   BP: 88/46(57) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - STOP [**2178-9-21**] 11:36 AM,   Denies shortness of breath, abdominal pain, headache.,   Right foot sore.,   Sharp intermittent non-pleuritic pain comes & goes (relieved by,   percocet) at leftmost inferior rib region.,   Keen to go home.,   "
+    },
+    {
+        "admit_time": "2178-09-18 14:28:00",
+        "discharge_time": "2178-10-01",
+        "event_time": "2178-09-29 06:31:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 35.9,C (96.6,   HR: 58 (57 - 86) bpm,   BP: 83/46(55) {71/33(43) - 111/59(71)} mmHg,   ",
+        "events": "24 Hour Events:,   met I&O goal at approx 1am, and SBP in high 70s w/map ~50, so d/c'd,   lasix temporarily,   "
+    }
+]

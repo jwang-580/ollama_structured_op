@@ -1,0 +1,44 @@
+[
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Sucralfate, PO",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "1 gm, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2179-07-04 00:00:00",
+        "end_time": "2179-07-04 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    }
+]

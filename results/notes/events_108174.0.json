@@ -1,0 +1,156 @@
+[
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-15 06:56:00",
+        "vitals": "Tmax: 38.3,C (101,   Tcurrent: 37.2,C (98.9,   HR: 92 (89 - 120) bpm,   BP: 103/65(74) {84/26(64) - 114/82(89)} mmHg,   ",
+        "events": "24 Hour Events:,   Derm pathology results consistent with thrombotic microangiopathy.,   Rheuamtology feels patient has no evidence of vasculitis.  They are,   reccomending considering systemic anticoagulation.,   Renal feels she has TTP and needs ADAMTS tested and should get,   plasmapharesis.  They recommended renal ultrasound to evaluate for,   arterial or venous thrombus, which was non-diagnostic due to limited,   study.,   Heme/onc feeels she has early DIC and recommended checking serial DIC,   labs.  Another possibility is an embolic source, so recommending repeat,   TEE.,   Neurology feels that is is okay to get systemic anticoagulation and do,   not feel she needs further imaging.,   Patient was tachypneic overnight with increased bloody pulmonary,   secretions.  Patient was tachypneic to 40s.  PTT initially elevated,   after dialsysi (with heparin) but then trended down and pulmonary,   bleeding resolved.  Patient placed on vent due to concern for tiring.,   Patient seemed aware and anxious during this episode, so 1 mg of ativan,   given.,   Echo performed which showed increased MR and no valvular vegetations., EKG - At [**2193-8-14**] 01:30 PM, EEG - At [**2193-8-14**] 03:00 PM, ULTRASOUND - At [**2193-8-14**] 04:00 PM,   Renal U/S, INVASIVE VENTILATION - START [**2193-8-15**] 12:01 AM,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-24 12:01:00",
+        "vitals": "Tmax: 37.8,C (100,   Tcurrent: 35.9,C (96.7,   HR: 97 (81 - 102) bpm,   BP: 85/50(62) {81/49(60) - 107/70(83)} mmHg,   ",
+        "events": "24 Hour Events:,   persistent tachypnea with alkalosis, adjusted PS but no change,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-24 07:32:00",
+        "vitals": "Tmax: 37.8,C (100,   Tcurrent: 35.6,C (96.1,   HR: 99 (81 - 102) bpm,   BP: 92/57(68) {82/48(61) - 107/70(83)} mmHg,   ",
+        "events": "24 Hour Events:,   -          Decreased PS given alkalosis,   -          Continues on CVVH,   -          Back on levophed,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-21 10:38:00",
+        "vitals": "Tmax: 38.7,C (101.6,   Tcurrent: 38,C (100.4,   HR: 94 (92 - 112) bpm,   BP: 90/56(67) {84/50(61) - 127/72(88)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - START [**2193-8-20**] 06:48 PM, FEVER - 101.1,F - [**2193-8-21**] 06:30 AM (while CVVH off),   CVVH line noted to be cracked.  Repaired this AM.,   Hct fell to 20, heparin stopped, transfused 1 unit PRBCs.  Had some,   bloody secretions and minimal vaginal bleeding.,   GNR in sputum so started on meropenem, ciprofloxacin, vancomycin.,   Lactate continuing to rise.  Levophed now off.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-16 11:04:00",
+        "vitals": "Tmax: 38.4,C (101.1,   Tcurrent: 37.3,C (99.1,   HR: 97 (86 - 98) bpm,   BP: 98/69(76) {86/52(61) - 117/84(90)} mmHg,   ",
+        "events": "24 Hour Events:, BRONCHOSCOPY - At [**2193-8-15**] 12:30 PM, MAGNETIC RESONANCE IMAGING - At [**2193-8-15**] 08:30 PM, FEVER - 101.1,F - [**2193-8-15**] 08:00 PM,   Bronchoscopy yesterday did not show any active bleeding.  Minimal,   secretions.,   Started heparin gtt for DIC.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-26 07:41:00",
+        "vitals": "Tmax: 36.8,C (98.3,   Tcurrent: 36.2,C (97.2,   HR: 100 (77 - 126) bpm,   BP: 94/52(67) {83/50(62) - 104/68(79)} mmHg,   ",
+        "events": "24 Hour Events:,   - cortisol 40,   - intermittent periods of apnea, started on AC 40%, 600, 12, 5 ABG,   7.52/29/174 --> reduced TV to 500 ABG 7.48/31/151,   - has been off pressors since the AM. MAPS >60,   - intermittent SVT to 140s, comes down sponeteously vs with,   stimulation.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-18 08:55:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.6,C (97.8,   HR: 106 (90 - 111) bpm,   BP: 105/70(79) {80/22(35) - 113/87(92)} mmHg,   ",
+        "events": "24 Hour Events:,   Empiric hydrocortisone strated yesterday.,   Progressive limb ischemia.  Heparin gtt being started this am.,   Increased levophed requiremen to 0.18 overnight secondary to HoTN.,   Discussed case with hematology who did not recommend empiric trial of,   plamapheresis because of concerns about patient being able to tolerate,   procedure.,   Got 1 U cryo overnight.,   Vanco course completed.,   CMV serologies sent.,   History obtained from Medical records,   Patient unable to provide history: Sedated, Encephalopathy,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-30 11:16:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36,C (96.8,   HR: 94 (79 - 113) bpm,   BP: 85/56(67) {81/52(61) - 98/65(76)} mmHg,   ",
+        "events": "24 Hour Events:,   --Received 1U PRBCs yesterday for borderline BP, anemia.,   --Reported to have mouth words \"ice\",   History obtained from Medical records,   Patient unable to provide history: Encephalopathy,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-01 09:22:00",
+        "vitals": "Tmax: 37.4,C (99.3,   Tcurrent: 35.2,C (95.4,   HR: 112 (89 - 133) bpm,   BP: 98/68(78) {80/53(62) - 105/72(84)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2193-8-31**] 01:00 PM,   Dialysis catheter clotted but was resumed.,   Received one unit PRBCs for low CvO2 without improvement.,   Tolereted TM for 2 hours but then was having periods of apnea so put,   back on AC.,   History obtained from Medical records,   Patient unable to provide history: Encephalopathy,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-31 12:08:00",
+        "vitals": "Tmax: 37.4,C (99.3,   Tcurrent: 37.4,C (99.3,   HR: 108 (95 - 127) bpm,   BP: 87/56(66) {81/51(61) - 113/73(85)} mmHg,   ",
+        "events": "24 Hour Events:, TRANSTHORACIC ECHO - At [**2193-8-30**] 05:15 PM,   Received FFP yesterday for plasma replacement.,   History obtained from Medical records,   Patient unable to provide history: Encephalopathy,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-25 08:23:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36.1,C (96.9,   HR: 101 (90 - 108) bpm,   BP: 93/58(70) {80/49(60) - 105/64(77)} mmHg,   RR: 13 (13 - 28) insp/min,   SpO2: 71%,   Heart rhythm: ST (Sinus Tachycardia),   Wgt (current): 80.9 kg (admission): 92 kg,   Height: 66 Inch,   CVP: 19 (13 - 20)mmHg,   Total In:,                                                                  6,977 mL,                                                                  2,166 mL,   PO:,   TF:,                                                                    720 mL,                                                                    242 mL,   IVF:,                                                                  5,818 mL,                                                                  1,834 mL,   Blood products:,                                                                    289 mL,   Total out:,                                                                  7,009 mL,                                                                  1,807 mL,   Urine:,                                                                     25 mL,                                                                     40 mL,   NG:,   Stool:,   Drains:,                                                                     75 mL,   Balance:,                                                                    -32 mL,                                                                    359 mL,   Respiratory support,   O2 Delivery Device: Endotracheal tube,   Ventilator mode: CPAP/PSV,   Vt (Spontaneous): 555 (489 - 704) mL,   PS : 5 cmH2O,   RR (Spontaneous): 19,   PEEP: 5 cmH2O,   FiO2: 40%,   RSBI: 36,   PIP: 11 cmH2O,   SpO2: 71%,   ABG: 7.46/32/144/22/0,   Ve: 5 L/min,   PaO2 / FiO2: 360,   Physical Examination,   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial,   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:,   Not assessed),   Skin:  Not assessed,   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:,   Not assessed,   Labs / Radiology,   8.4 g/dL,   123 K/uL,   120 mg/dL,   0.6 mg/dL,   22 mEq/L,   3.9 mEq/L,   18 mg/dL,   99 mEq/L,   136 mEq/L,   25.4 %,   16.7 K/uL,        [image002.jpg],                             [**2193-8-24**]  09:55 AM,                             [**2193-8-24**]  10:16 AM,                             [**2193-8-24**]  03:40 PM,                             [**2193-8-24**]  03:56 PM,                             [**2193-8-24**]  09:55 PM,                             [**2193-8-24**]  10:06 PM,                             [**2193-8-24**]  11:58 PM,                             [**2193-8-25**]  12:05 AM,                             [**2193-8-25**]  04:05 AM,                             [**2193-8-25**]  04:22 AM,   WBC,   18.1,   16.7,   Hct,   21.0,   25.4,   25.4,   Plt,   109,   123,   Cr,   0.7,   0.6,   0.6,   TCO2,   23,   25,   24,   24,   23,   Glucose,   127,   129,   130,   120,   Other labs: PT / PTT / INR:15.4/41.5/1.4, CK / CKMB /,   Troponin-T:2685/123/1.50, ALT / AST:214/64, Alk Phos / T Bili:231/1.5,,   Amylase / Lipase:189/38, Differential-Neuts:80.0 %, Band:5.0 %,,   Lymph:6.0 %, Mono:3.0 %, Eos:2.0 %, D-dimer:6112 ng/mL, Fibrinogen:322,   mg/dL, Lactic Acid:2.9 mmol/L, Albumin:2.8 g/dL, LDH:973 IU/L, Ca++:8.6,   mg/dL, Mg++:1.8 mg/dL, PO4:1.8 mg/dL,   Imaging: CXR unchanged from [**8-25**],   Assessment and Plan,   Ms. [**Known lastname 479**] is a 44 yo female with h/o asthma, gastric bypass surgery,,   admitted with NSTEMI, with complicated and long hospital course and now,   with worsening multiorgan system failure with DIC and digital ischemia.,   DIC/Anemia: patient in resolving DIC. Pt may have with underlying,   coagulopathy as possible etiology for initial MI, CVA, microangiopathy,   in kidney, LE ischemia.,   - Continue heparin gtt , goal PTT 50-60, it was stopped when Hct,   dropped, but back on now, will continue given limb ischemia,   - Heme following, agree with probable DIC, do not disagree with heparin,   tx as options limited.,   - trend DIC labs daily now, cryo for fibrinogen <100, platelets for <50,   if bleeding or <30 overall,   - Hg electrophoresis to r/o sickle cell: negative,   - ADAMST13: 17 which is low, but can be falsley low in DIC and,   hemolysis, although unlikely with low fibrinogen,   Altered MS: Continues to have poor mental status. Likely secondary to,   strokes and toxic-metabolic.,   - Fentanyl and ativan boluses for comfort, use sparingly,   ID: patient with VAP, CMV viremia, on Cipro & gancyclovir,   - ID recommendations appreciated,   - Cipro (Day 1 [**8-20**], plan for 8 d course, stop [**8-27**]),   - CMV viremia: Viral load elevated, unclear as pt immunocompetant.,   - continue Ganciclovir (Day 1: [**8-20**]), for presumed 14 day course but,   source unknown, and has not had dilated eye exam,   - check q week viral loads (due [**8-29**]),   -VAP: Sputum from [**8-19**] growing pansensitive Actinobacter and,   Enterobacter: abx changed to Cipro.,   Shock: Currently in distributive shock, intermittently on levophed.,   Shock possibly septic etiology; lactate vascilating, WBC has been,   increasing, but no new + culture data, had temp to 101 on [**8-23**] but,   afebrile since. Possible pulm source as sputum with acinetobacter and,   enterobacter. CXR with RLL infiltrate, improved.,   - Try to discontinue levophed as limb ischemia worsened by pressors.,   Goal MAP >60,   - Per discussion at family meeting, will not escalate pressor beyond,   dose at time of meeting (ie, no greater than 0.06 mg/kg/hr),   - IR-guided a-line placed,   - On abx as above:  Cipro, consider broadening coverage if BP worsens,   Renal Failure: ARF, anuric, cvvh  dependent.,   -Patient on CVVH since [**8-18**], will run even today,   - Renal following,   - CVVH line repaired [**8-21**],   - Renal had recommended trying to cool pt and d/c pressors in order to,   take off fluid; given poor peripheral perfusion, we will defer cooling,   pt, no emergent indication for fluid removal at present,   - iron studies demonstrate low Iron,nl TIBC, got t/f on [**8-24**] so Iron,   likely replete, will give iron supplementation and start epo.,   Hypoglycemia: Resolved. Unclear etiology. [**Month (only) 8**] have been secondary to FS,   from ischemic finger. Will now check FS from ear or venous.,   - Endocrine consult appreciated: will send plasma insulin, c-peptide,,   proinsulin, sulfonylurea, and BHB if pt becomes hypoglycemic again,   Hyponatremia: Na 136 now and stabilizing.,   - will follow for now,   Transaminitis: LFT,s trending down. AP up, Tbili down.,   - Continue to follow labs,   Rhabdo: CK improving from peak of 16K. No movement of any extremity.,   -trend CK.,   Respiratory Failure: much improved, PS 5/5 however maintain vent while,   on CVVH,   ICU Care,   Nutrition:,   Nutren Renal (Full) - [**2193-8-24**] 06:14 AM 30 mL/hour,   Glycemic Control:  Regular insulin sliding scale,   Lines:,   Multi Lumen - [**2193-8-11**] 07:09 PM,   Dialysis Catheter - [**2193-8-13**] 06:08 PM,   Arterial Line - [**2193-8-20**] 06:48 PM,   Prophylaxis:,   DVT: (Systemic anticoagulation: Heparin gtt),   Stress ulcer:,   VAP: HOB elevation, Mouth care, Daily wake up,   Comments:,   Communication: Patient discussed on interdisciplinary rounds  Comments:,   Code status: Full code,   Disposition :ICU,   Total time spent: 30 minutes,   Patient is critically ill,   ------ Protected Section ------,   I saw and examined the patient and was present for key portions of the,   service provided.  I agree with the above note including the assessment,   and plan.  In addition, I would add/emphasize: 44 yo female with h/o,   asthma, gastric bypass surgery, admitted with NSTEMI, with complicated,   and long hospital course and now with worsening multiorgan system,   failure with DIC and digital ischemia.  Events, transfused 1u pRBCs,   [**8-24**], episode of SVT on responding to vagal maneuvers when leveophed,   restarted.,   On exam:,   Tmax: 36.7,C (98.1,   Tcurrent: 36.1,C (96.9,   HR: 101 (90 - 108) bpm,   BP: 93/58(70) {80/49(60) - 105/64(77)} mmHg,   ",
+        "events": "24 Hour Events:,    - transfused 1u pRBCs [**8-24**],    - episodes of SVT on [**8-24**] responding to vagal maneuvers, started when,   leveophed restarted,    - PS decreased to [**4-1**],   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-04 10:10:00",
+        "vitals": "Tmax: 38.8,C (101.9,   Tcurrent: 38.1,C (100.5,   HR: 93 (84 - 101) bpm,   BP: 116/77(90) {106/68(81) - 126/83(95)} mmHg,   ",
+        "events": "24 Hour Events:, STOOL CULTURE - At [**2193-8-3**] 11:00 AM,   c-diff, MAGNETIC RESONANCE IMAGING - At [**2193-8-3**] 11:20 AM,   Head MRI, FEVER - 101.9,F - [**2193-8-4**] 12:00 AM,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-07 09:50:00",
+        "vitals": "Tmax: 38.8,C (101.9,   Tcurrent: 37.4,C (99.3,   HR: 84 (83 - 99) bpm,   BP: 109/70(82) {103/64(77) - 136/82(100)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2193-8-6**] 10:30 AM,   bc x2, URINE CULTURE - At [**2193-8-6**] 10:30 AM, SPUTUM CULTURE - At [**2193-8-6**] 11:00 AM, FEVER - 101.9,F - [**2193-8-6**] 04:00 PM,   Tachypneic to 40s this AM, increased peep and PSV.,   Worsening hypernatremia, started on D5.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-10 10:33:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.5,C (99.5,   HR: 84 (83 - 90) bpm,   BP: 94/58(66) {77/57(62) - 109/79(85)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2193-8-10**] 04:43 AM (off vent most of,   the time last few days).,   Lasix 120 IV given for volume overload (assessed by IJ ultrasound).,   Renal considering HD.,   Awaiting PICC,   History obtained from Medical records,   Patient unable to provide history: Unresponsive,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-03 09:33:00",
+        "vitals": "Tmax: 38.8,C (101.8,   Tcurrent: 37.3,C (99.1,   HR: 97 (85 - 101) bpm,   BP: 125/84(97) {99/63(75) - 146/92(107)} mmHg,   ",
+        "events": "24 Hour Events:, URINE CULTURE - At [**2193-8-2**] 11:00 AM, ULTRASOUND - At [**2193-8-2**] 11:30 AM,   RENAL  U/S, EKG - At [**2193-8-2**] 12:00 PM, TRANS ESOPHAGEAL ECHO - At [**2193-8-2**] 03:30 PM, BLOOD CULTURED - At [**2193-8-3**] 12:22 AM, FEVER - 101.8,F - [**2193-8-2**] 12:00 PM,   PSV attempted but developed her respiratory alkalosis worsened so back,   on AC.,   Renal biopsy yesterday.,   TEE negative for vegetations.  2+ MR.,   Neuro has evaluated and feel that encephalopathy is toxic-metabolic,,   recommended EEG and MRI.  Felt LP is low-yield.,   History obtained from Medical records,   Patient unable to provide history: Sedated, Unresponsive,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-21 07:26:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.3,C (99.1,   HR: 91 (71 - 136) bpm,   BP: 85/56(66) {68/47(54) - 116/83(94)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2193-9-20**] 12:00 PM,   off CVl and Aline- unable to get peripheral. Dr. [**Last Name (STitle) 1806**] notified.,   1. Called Thoracics to downsize trach, has original 8.0 trach, no recs,   yet,   2. Cardiology recs: consider dobutamine vs. IABP during surgery. Ok to,   resume ASA as needed.,   3. Renal to HD today, had 2L removed.,   4. Patient hypotensive to 70s, given 2.5L and placed on Levophed with,   good response. Titrated to ___ by rounds.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-18 07:30:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 36.8,C (98.2,   HR: 96 (96 - 105) bpm,   BP: 92/57(68) {80/48(59) - 97/61(73)} mmHg,   ",
+        "events": "24 Hour Events:,   1.       Total Fentanyl dose: 200ucg,   2.       Dobutamine weaned to 2.5,   3.       Lactate trend: 1.7,1.1.4, 1.4,   4.       Mixed venous sat: 49%,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-19 07:58:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 36.1,C (96.9,   HR: 88 (87 - 142) bpm,   BP: 89/59(69) {79/51(61) - 103/71(81)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2193-9-18**] 01:08 PM, EKG - At [**2193-9-18**] 03:09 PM,   1.Vanc discontinued,   2. discontinued heparin gtt,   3.Had SVT to 140's during HD. Transiently responsive to fluids,,   essentially bolused back all fluid which was removed during HD. BP,   marginally low. increased dobutamine. HR decreased to 90's, SBP in 90s.,   4.Weaned dobutamine overnight to 1.5,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-21 12:22:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 35.2,C (95.4,   HR: 89 (71 - 136) bpm,   BP: 90/58(69) {68/47(54) - 103/69(77)} mmHg,   ",
+        "events": "24 Hour Events:,   -2L taken off with HD. MAPs in 60s.,   -became hypotensive after HD, given 2L IVF back.,   -went into MAT and BP dropped, started on levophed and converted.,   -levophed weaned off, starting CVVH this am,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-15 08:33:00",
+        "vitals": "Tmax: 38.6,C (101.4,   Tcurrent: 38.6,C (101.4,   HR: 107 (103 - 119) bpm,   BP: 80/50(56) {72/34(42) - 88/56(62)} mmHg,   ",
+        "events": "24 Hour Events: Dobutamine transiently up to 4 and received 1L NS.  PO,   vanc and IV added for line infection concern.  VRE screen done.  Sputum,   acinetobacter +.  Blood cx + gram+ cocci from fem line yesterday.  Hct,   21 getting unit of blood., URINE CULTURE - At [**2193-9-14**] 10:46 AM, BLOOD CULTURED - At [**2193-9-14**] 11:00 AM HD line, ARTERIAL LINE - STOP [**2193-9-15**] 12:12 AM, FEVER - 101.7,F - [**2193-9-14**] 08:00 AM,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-09-12 07:22:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.4,C (99.3,   HR: 98 (90 - 103) bpm,   BP: 88/57(67) {80/47(58) - 99/66(77)} mmHg,   ",
+        "events": "24 Hour Events:,   - Renal recs: consider warfarin rather than heparin to decrease fluid,   intake.  UF will be done later this week.,   - A-line reinspected and was without erythema, fluctuance or,   purulence.  Heparin gtt restarted and a-line not resited.,   - Captopril discontinued,   - Dobutamine weaned to 1.5 @ 10pm, repeat 4am lactate 1.7.  Continues @,   1.5.,   "
+    },
+    {
+        "admit_time": "2193-07-31 07:30:00",
+        "discharge_time": "2193-09-22",
+        "event_time": "2193-08-06 07:13:00",
+        "vitals": "Tmax: 38.2,C (100.8,   Tcurrent: 37.8,C (100,   HR: 93 (84 - 96) bpm,   BP: 121/82(94) {108/69(82) - 135/96(109)} mmHg,   ",
+        "events": "24 Hour Events:,   Patient evaluated by Thoracics who will perform bronchoscopy on,   Wednesday.  Patient will not get PEG at that time due to difficult,   anatomy as a result of her h/o gastric bypass.,   Continues to have daily fevers.,   Her Hct remains stable.,   "
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2154-12-28 00:07:00",
+        "discharge_time": "2154-12-29",
+        "event_time": "2154-12-28 07:12:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 36.7,C (98.1,   HR: 87 (87 - 115) bpm,   BP: 122/67(81) {117/60(74) - 160/87(104)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2154-12-28**] 02:35 AM,   Pt c/o [**8-1**] CP, at rest. Dr [**Last Name (STitle) 3079**] notified and examined pt. Pt given,   325mg ASA and EKG obtained. No chnages from previous EKG., CHEST PAIN - At [**2154-12-28**] 02:36 AM,   "
+    },
+    {
+        "admit_time": "2154-12-28 00:07:00",
+        "discharge_time": "2154-12-29",
+        "event_time": "2154-12-28 10:37:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.9,C (98.4,   HR: 93 (83 - 115) bpm,   BP: 131/77(87) {117/60(74) - 160/87(104)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2154-12-28**] 02:35 AM,   Pt c/o [**8-1**] CP, at rest. Dr [**Last Name (STitle) 3079**] notified and examined pt. Pt given,   325mg ASA and EKG obtained. No chnages from previous EKG., CHEST PAIN - At [**2154-12-28**] 02:36 AM, CALLED OUT,   History obtained from [**Hospital 19**] Medical records, icu housestaff,   "
+    }
+]

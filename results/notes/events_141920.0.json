@@ -1,0 +1,65 @@
+[
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-04 07:08:00",
+        "vitals": "Tmax: 38.8,C (101.9,   Tcurrent: 36.6,C (97.9,   HR: 70 (70 - 108) bpm,   BP: 148/86(100) {140/81(94) - 153/93(105)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2151-11-3**] 09:04 PM,   arrythmias, FEVER - 101.9,F - [**2151-11-3**] 06:00 PM,   - Plan through yesterday had been to decrease NO, try to diurese the pt,   with lasix, then increase the PEEP in an attempt to wean FiO2.,   - Diuresed well,   - In the evening, shut off NO --> sats from 94 to 90, Ppeak 37,,   Pplateau 34 increased PEEP to 15. Plan was: if better, then go down on,   FiO2. If worse, back on NO --> repeat O2 slightly lower, so getting,   repeat and then will decide,   Otherwise:,   - stopped Flagyl,   - ? TPN - no access at present,   - Family meeting: still want everything done, but perhaps starting to,   understand how sick she is?,   - Ulytes: FeNa 2.7,   - Febrile through most of the day,   - Getting hypertense in the evening.,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-04 09:26:00",
+        "vitals": "Tmax: 38.8,C (101.9,   Tcurrent: 36.6,C (97.9,   HR: 100 (70 - 108) bpm,   BP: 148/86(100) {140/81(94) - 153/93(105)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2151-11-3**] 09:04 PM,   arrythmias, FEVER - 101.9,F - [**2151-11-3**] 06:00 PM,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-09 06:56:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 37.1,C (98.8,   HR: 100 (74 - 101) bpm,   BP: 148/86(100) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:,   - 60 IV lasix given with a goal of 1L off,   - weaned to PSV 12 and 12- let rest at this,   - kept insulin drip because much better controlled with drip and still,   critically ill,   - ID recs: no abio changes, UA and Ucx b/c of yeast, renal u/s,   - Had to go back on CMV because hypertensive and low sats.  Went back,   to pressure support in the morning (5am).  Can recheck gas in the am.,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-03 06:59:00",
+        "vitals": "Tmax: 38.4,C (101.2,   Tcurrent: 37.3,C (99.2,   HR: 109 (82 - 152) bpm,   BP: 159/88(104) {88/50(55) - 161/90(104)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2151-11-2**] 05:00 PM,   central line, URINE CULTURE - At [**2151-11-2**] 05:00 PM, BLOOD CULTURED - At [**2151-11-2**] 05:15 PM,   arterial line, CARDIOVERSION/DEFIBRILLATION - At [**2151-11-2**] 08:00 PM,   200j 300j, CARDIAC ARREST - At [**2151-11-2**] 08:00 PM,   .25mg epi given, EKG - At [**2151-11-2**] 08:27 PM, FEVER - 101.2,F - [**2151-11-3**] 12:00 AM,   - Steroids cut in half,   - Paralytics off at 1730 --> not initiating own breaths off paralytic,   - 8pm Desat on vent --> bradycardia and hypoTN --> bag mask ventilation,   and norepi --> then developed HTN, tachy to 250's and sbp 300's --> 200,   J shock. Lopressor 2.5mg x1 given. Normalized, then began to desat,,   then bradycardic and hypoTN. Levo restarted, up to 0.3 without much,   response.  Epi 0.25mg given, pt again tachy to 250's and sbp 250's.,   Shocked at 300J with slowing of rate to 150 bpm and normalization of,   HR. Stabilized on vent with just Levo.,   - Family [**Name (NI) 161**], they still want all measures.,   - Temp curve continues upward, without any relief from PR Tylenol,   - Continues currently on Levo, Cisatra,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-16 06:20:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 37.9,C (100.2,   HR: 84 (69 - 95) bpm,   BP: 148/86(100) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:,   - pt doing well post-extubation (day 2 off vent),   - advanced diet to soft-mechanical; pt taking PO meds,   - diuresed w. Lasix 60mg IV am w. -- output in the pm.,   - Received Lasix 60mg again in PM to keep up with goal -1-,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-14 10:56:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 37.7,C (99.8,   HR: 69 (64 - 85) bpm,   BP: 148/86(100) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:,   Uneventful night,   Tolerated SBT this AM,   Minimal secretions,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-15 16:09:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 37.7,C (99.8,   HR: 79 (71 - 101) bpm,   BP: 148/86(100) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-10-31 09:24:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.3,C (99.2,   HR: 85 (82 - 115) bpm,   BP: 89/45(59) {78/35(55) - 130/68(83)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2151-10-30**] 08:45 AM,   abd,   Changed to ARDSnet with Vt 280 f22 PEEP unchanged at 12, FiO2 1.0.,   7.28/54/70,   Dropped sats to mid80s. Increased Vt to 350, increased I:E.,   AC 1.0/350/25/12,   Remains on levophed, insulin drip.,   Lasix at 10cc/h.,   Abx ctx, vanco, levofloxacin,   Patient unable to provide history: Sedated, Unresponsive,   "
+    },
+    {
+        "admit_time": "2151-10-30 01:28:00",
+        "discharge_time": "2151-11-16",
+        "event_time": "2151-11-06 09:48:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.1,C (98.8,   HR: 124 (81 - 132) bpm,   BP: 148/86(100) {0/0(0) - 0/0(0)} mmHg,   ",
+        "events": "24 Hour Events:,   History obtained from Medical records,   Patient unable to provide history: Intubated,   "
+    }
+]

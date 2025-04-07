@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2155-11-15 16:10:00",
+        "discharge_time": "2155-11-27",
+        "event_time": "2155-11-16 06:07:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 36.3,C (97.4,   HR: 99 (91 - 110) bpm,   BP: 119/55(70) {100/52(62) - 124/69(83)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2155-11-15**] 03:00 PM, ULTRASOUND - At [**2155-11-15**] 03:30 PM,   Abd and legs, PARACENTESIS - At [**2155-11-15**] 10:50 PM,   - paracentesis - 3 liters off,   - fluid positive for SBP (1390 WBCS, 90% polys) - cx/gram stain pend,   - no other issues overnight, breathing improved with paracentesis,   "
+    },
+    {
+        "admit_time": "2155-11-15 16:10:00",
+        "discharge_time": "2155-11-27",
+        "event_time": "2155-11-23 06:33:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.2,C (98.9,   HR: 111 (96 - 112) bpm,   BP: 117/85(91) {113/47(62) - 142/95(105)} mmHg,   ",
+        "events": "24 Hour Events:,   -per ID caspofungin for 5 day course,   -checked bladder pressure: 13,   "
+    },
+    {
+        "admit_time": "2155-11-15 16:10:00",
+        "discharge_time": "2155-11-27",
+        "event_time": "2155-11-19 05:18:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.5,C (97.7,   HR: 110 (104 - 114) bpm,   BP: 128/76(87) {117/57(60) - 162/76(91)} mmHg,   ",
+        "events": "24 Hour Events:,   - pt confused overnight, but directable,   - underwent CT abd/pelvis, read pends,   - bcx, urine pend,   - likely will need paracentesis this AM,   "
+    },
+    {
+        "admit_time": "2155-11-15 16:10:00",
+        "discharge_time": "2155-11-27",
+        "event_time": "2155-11-27 05:32:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.4,C (97.5,   HR: 109 (81 - 111) bpm,   BP: 46/42(45) {46/32(42) - 121/67(83)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - STOP [**2155-11-26**] 03:25 PM,   Made CMO, Extubated,   "
+    }
+]

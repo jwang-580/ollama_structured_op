@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2148-02-24 21:08:00",
+        "discharge_time": "2148-03-01",
+        "event_time": "2148-02-25 07:39:00",
+        "vitals": "Tmax: 36.6,C (97.9,   Tcurrent: 36.6,C (97.9,   HR: 79 (79 - 115) bpm,   BP: 93/60(68) {82/48(56) - 111/74(83)} mmHg,   ",
+        "events": "24 Hour Events:,   -bolused 1 liter for systolics in the 80's, good response,   "
+    },
+    {
+        "admit_time": "2148-02-24 21:08:00",
+        "discharge_time": "2148-03-01",
+        "event_time": "2148-02-25 07:59:00",
+        "vitals": "Tmax: 36.6,C (97.9,   Tcurrent: 36.6,C (97.9,   HR: 79 (79 - 115) bpm,   BP: 93/60(68) {82/48(56) - 111/74(83)} mmHg,   ",
+        "events": "24 Hour Events:,   "
+    }
+]

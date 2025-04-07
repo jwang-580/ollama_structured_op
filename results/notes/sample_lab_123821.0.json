@@ -1,0 +1,332 @@
+[
+    {
+        "lab_name": "C-Reactive Protein, Blood",
+        "lab_value": "5.2 mg/L",
+        "lab_time": "2100-09-15 16:10:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.5 mg/dL",
+        "lab_time": "2100-09-15 16:10:00"
+    },
+    {
+        "lab_name": "Albumin/Creatinine, Urine, Urine",
+        "lab_value": "1794.7 mg/g",
+        "lab_time": "2100-09-15 16:10:00"
+    },
+    {
+        "lab_name": "% Hemoglobin A1c, Blood",
+        "lab_value": "8.7 %",
+        "lab_time": "2100-09-17 13:15:00"
+    },
+    {
+        "lab_name": "Triglycerides, Blood",
+        "lab_value": "226.0 mg/dL",
+        "lab_time": "2100-09-17 13:15:00"
+    },
+    {
+        "lab_name": "Albumin/Creatinine, Urine, Urine",
+        "lab_value": "170.8 mg/g",
+        "lab_time": "2100-09-17 13:15:00"
+    },
+    {
+        "lab_name": "Alanine Aminotransferase (ALT), Blood",
+        "lab_value": "70.0 IU/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Anion Gap, Blood",
+        "lab_value": "23.0 mEq/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "111.0 IU/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "21.0 mEq/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.1 mg/dL",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "394.0 mg/dL",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Lactate Dehydrogenase (LD), Blood",
+        "lab_value": "336.0 IU/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Phosphate, Blood",
+        "lab_value": "5.4 mg/dL",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Potassium, Blood",
+        "lab_value": "5.9 mEq/L",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Troponin T, Blood",
+        "lab_value": "0.16 ng/mL",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "35.0 mg/dL",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "14.0 %",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "83.1 %",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "PTT, Blood",
+        "lab_value": "19.6 sec",
+        "lab_time": "2100-10-15 15:00:00"
+    },
+    {
+        "lab_name": "Lactate, Blood",
+        "lab_value": "5.5 mmol/L",
+        "lab_time": "2100-10-15 15:11:00"
+    },
+    {
+        "lab_name": "Lactate, Blood",
+        "lab_value": "2.1 mmol/L",
+        "lab_time": "2100-10-15 18:02:00"
+    },
+    {
+        "lab_name": "Alanine Aminotransferase (ALT), Blood",
+        "lab_value": "77.0 IU/L",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "109.0 IU/L",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.8 mg/dL",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "120.0 mg/dL",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Lactate Dehydrogenase (LD), Blood",
+        "lab_value": "313.0 IU/L",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Potassium, Blood",
+        "lab_value": "6.8 mEq/L",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Troponin T, Blood",
+        "lab_value": "0.11 ng/mL",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "32.0 mg/dL",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "INR(PT), Blood",
+        "lab_value": "1.2",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "14.1 %",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "79.4 %",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "PT, Blood",
+        "lab_value": "13.6 sec",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "White Blood Cells, Blood",
+        "lab_value": "11.1 K/uL",
+        "lab_time": "2100-10-16 02:30:00"
+    },
+    {
+        "lab_name": "pCO2, Blood",
+        "lab_value": "50.0 mm Hg",
+        "lab_time": "2100-10-16 02:39:00"
+    },
+    {
+        "lab_name": "pH, Blood",
+        "lab_value": "7.29 units",
+        "lab_time": "2100-10-16 02:39:00"
+    },
+    {
+        "lab_name": "Potassium, Blood",
+        "lab_value": "5.5 mEq/L",
+        "lab_time": "2100-10-16 03:31:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.7 mg/dL",
+        "lab_time": "2100-10-16 08:10:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "112.0 mg/dL",
+        "lab_time": "2100-10-16 08:10:00"
+    },
+    {
+        "lab_name": "NTproBNP, Blood",
+        "lab_value": "1756.0 pg/mL",
+        "lab_time": "2100-10-16 08:10:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "29.0 mg/dL",
+        "lab_time": "2100-10-16 08:10:00"
+    },
+    {
+        "lab_name": "Alanine Aminotransferase (ALT), Blood",
+        "lab_value": "73.0 IU/L",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "78.0 IU/L",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.6 mg/dL",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "28.0 mg/dL",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "INR(PT), Blood",
+        "lab_value": "1.2",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "71.7 %",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "PT, Blood",
+        "lab_value": "13.5 sec",
+        "lab_time": "2100-10-16 09:58:00"
+    },
+    {
+        "lab_name": "Alanine Aminotransferase (ALT), Blood",
+        "lab_value": "82.0 IU/L",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "79.0 IU/L",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.4 mg/dL",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "144.0 mg/dL",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Lactate Dehydrogenase (LD), Blood",
+        "lab_value": "284.0 IU/L",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Troponin T, Blood",
+        "lab_value": "0.08 ng/mL",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "25.0 mg/dL",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "11.7 g/dL",
+        "lab_time": "2100-10-17 06:20:00"
+    },
+    {
+        "lab_name": "% Hemoglobin A1c, Blood",
+        "lab_value": "8.6 %",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.4 mg/dL",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "137.0 mg/dL",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "24.0 mg/dL",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "35.9 %",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "11.8 g/dL",
+        "lab_time": "2100-10-18 04:45:00"
+    },
+    {
+        "lab_name": "Alanine Aminotransferase (ALT), Blood",
+        "lab_value": "55.0 IU/L",
+        "lab_time": "2100-10-19 05:00:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.2 mg/dL",
+        "lab_time": "2100-10-19 05:00:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "138.0 mg/dL",
+        "lab_time": "2100-10-19 05:00:00"
+    }
+]

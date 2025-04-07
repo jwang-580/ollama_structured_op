@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2104-02-04 15:50:00",
+        "discharge_time": "2104-02-19",
+        "event_time": "2104-02-07 10:08:00",
+        "vitals": "Tmax: 39.1,C (102.4,   Tcurrent: 36.8,C (98.3,   HR: 109 (97 - 135) bpm,   BP: 100/75(82) {94/52(69) - 144/83(100)} mmHg,   ",
+        "events": "24 Hour Events:,   Febrile to [**Age over 90 1287**] yest and started on broad ABX for poss asp pna.,   "
+    },
+    {
+        "admit_time": "2104-02-04 15:50:00",
+        "discharge_time": "2104-02-19",
+        "event_time": "2104-02-07 06:02:00",
+        "vitals": "Tmax: 39.1,C (102.4,   Tcurrent: 37.9,C (100.3,   HR: 106 (97 - 135) bpm,   BP: 105/73(80) {90/52(69) - 144/83(100)} mmHg,   ",
+        "events": "24 Hour Events:,   - Patient was seen to aspirate in the am during rounds.  During the,   afternoon he spiked to 102.4 and was cultured.  Also started on,   aztreonam (given PCN allergy), flagyl, and vancomycin.  Made NPO and,   given 1 L D5NS IVF.,   - Due to concerns about decreased protection of his airway and,   continuing to give benzos vs his continued [**Last Name (LF) 5043**], [**First Name8 (NamePattern2) 780**],   [**Last Name (NamePattern1) 820**] was called and thought he looked benzo intoxicated - recommended,   stopping valium and giving haldol for agitation.  Also recommended,   possibly getting a psych consult.,   - Patient was tachypneic in the 30's, ABG showed respiratory alkalosis,   7.47/31/100 on 100% NRB.,   - PICC was ordered.,   - Patient was given 1 L NS bolus for lowish UOP.,   "
+    },
+    {
+        "admit_time": "2104-02-04 15:50:00",
+        "discharge_time": "2104-02-19",
+        "event_time": "2104-02-06 06:23:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.4,C (99.4,   HR: 124 (84 - 124) bpm,   BP: 107/81(86) {84/48(65) - 137/98(102)} mmHg,   ",
+        "events": "24 Hour Events:,   - During day pt very sleepy did not require much Diazepam,   - PM pt noted to be very tremulous, tachy required 220mmg Diazepam,   total for PM shift,   "
+    },
+    {
+        "admit_time": "2104-02-04 15:50:00",
+        "discharge_time": "2104-02-19",
+        "event_time": "2104-02-05 06:55:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 105 (86 - 134) bpm,   BP: 114/88(94) {107/72(30) - 139/96(146)} mmHg,   ",
+        "events": "24 Hour Events:, NASAL SWAB - At [**2104-2-4**] 07:40 PM,   - stable overnight, continued to be very tremulous requiring q1 hour,   dosing of valium,   - s/sw ordered for h/o esophageal stricture,   Patient unable to provide history: Unresponsive,   "
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-10 08:09:00",
+        "vitals": "Tmax: 37.4,C (99.3,   Tcurrent: 36.8,C (98.3,   HR: 70 (69 - 92) bpm,   BP: 124/66(87) {106/60(77) - 188/105(138)} mmHg,   ",
+        "events": "24 Hour Events:,   - PICC line coiled, to be replaced on monday,   - hyperkalemic, received kayexalate,   - required increased sedation to minimize overbreathing and breath,   stacking from dysynchrony.  O2 sat consistently ~ 90%.,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-09 11:29:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.7,C (98,   HR: 69 (66 - 74) bpm,   BP: 116/66(84) {94/58(73) - 139/86(106)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2132-2-8**] 08:00 PM,   History obtained from Medical records,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-11 07:52:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.5,C (97.7,   HR: 77 (69 - 82) bpm,   BP: 136/68(91) {110/61(79) - 136/73(94)} mmHg,   ",
+        "events": "24 Hour Events:,   [**2-10**]:,   - Started free water boluses via NGT and D5W x 2 liters for,   hypernatremia,   - Vent requirements stable; no improvement,   - [**First Name4 (NamePattern1) 4652**] [**Known firstname **] spoke to his Pulmonologist at [**Hospital1 966**]; he will be sending,   records to [**Doctor First Name 1643**],   - Mini-BAL performed -> gram stain negative; sent fungal culture & PCP,   smear,   [**Name Initial (PRE) **] LDH checked: 195,   - IgE, beta-glucan, and galactomannan sent,   - K up to 5.4 in PM -> gave Kayexalate,   History obtained from Medical records,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-19 10:14:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 36.8,C (98.2,   HR: 82 (73 - 100) bpm,   BP: 132/79(100) {102/63(81) - 172/122(136)} mmHg,   ",
+        "events": "24 Hour Events:,   Hct has been stable. Resp status stable without NIPPV., NON-INVASIVE VENTILATION - STOP [**2132-2-18**] 08:05 PM,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-13 07:40:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.9,C (98.4,   HR: 78 (77 - 112) bpm,   BP: 134/70(91) {115/59(79) - 207/103(140)} mmHg,   ",
+        "events": "24 Hour Events:,   - CT Chest: preliminary read; significant interval improvement in,   diffuse centrilobular nodules and tree-in-[**Male First Name (un) **] opacities in the upper,   lungs as well as in the lower lobes. Still present bibasal atelectasis,   that has slightly increased in the interim. No pneumothorax. No,   pneumomediastinum.,   - Mini-BAL: +Pseudomonas, awaiting sensitivities,   - Goal even fluid balance; grossly positive,   - Tried to wean PEEP overnight,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-14 07:38:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.9,C (98.5,   HR: 82 (77 - 106) bpm,   BP: 117/60(77) {105/51(68) - 191/93(126)} mmHg,   ",
+        "events": "24 Hour Events:,   - PS [**9-11**] 40% with ABG 7.42/63/83/42,   - Changed Zosyn to q6 dosing for pseudomonas per Pharm,   - Lasix gtt with good response,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-13 10:36:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37.3,C (99.1,   HR: 106 (77 - 112) bpm,   BP: 191/93(126) {115/59(79) - 207/103(140)} mmHg,   RR: 15 (9 - 16) insp/min,   SpO2: 98%,   Heart rhythm: ST (Sinus Tachycardia),   Wgt (current): 94.1 kg (admission): 92.3 kg,   Height: 70 Inch,             Total In:,                                                                  6,246 mL,                                                                  2,111 mL,   PO:,             TF:,                                                                    904 mL,                                                                    242 mL,   IVF:,                                                                  3,512 mL,                                                                  1,249 mL,   Blood products:,   Total out:,                                                                  3,165 mL,                                                                  1,950 mL,   Urine:,                                                                  3,165 mL,                                                                  1,950 mL,   NG:,   Stool:,   Drains:,   Balance:,                                                                  3,081 mL,                                                                    161 mL,   Respiratory support,   O2 Delivery Device: Endotracheal tube,   Ventilator mode: CPAP/PSV,   Vt (Spontaneous): 702 (418 - 761) mL,   PS : 10 cmH2O,   RR (Spontaneous): 12,   PEEP: 8 cmH2O,   FiO2: 40%,   RSBI: 17,   PIP: 19 cmH2O,   SpO2: 98%,   ABG: 7.34/81.[**Numeric Identifier **]/82.[**Numeric Identifier **]/40/13,   Ve: 7.5 L/min,   PaO2 / FiO2: 207,   Physical Examination,   General Appearance: Well nourished, Diaphoretic,   Eyes / Conjunctiva: PERRL,   Head, Ears, Nose, Throat: Normocephalic, Endotracheal tube, OG tube,   Lymphatic: Cervical WNL,   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal),   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:,   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed),   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:,   Diminished: diffusely, but improved from yesterday),   Abdominal: Soft, Non-tender, Bowel sounds present,   Extremities: Right: 2+, Left: 2+,   Skin:  Warm,   Neurologic: Responds to: Not assessed, Movement: Not assessed, Sedated,,   Tone: Not assessed,   Labs / Radiology,   10.9 g/dL,   229 K/uL,   114 mg/dL,   0.6 mg/dL,   40 mEq/L,   4.9 mEq/L,   25 mg/dL,   98 mEq/L,   142 mEq/L,   32.3 %,   12.6 K/uL,        [image002.jpg],                             [**2132-2-11**]  01:15 PM,                             [**2132-2-11**]  03:27 PM,                             [**2132-2-11**]  06:06 PM,                             [**2132-2-12**]  03:19 AM,                             [**2132-2-12**]  03:40 AM,                             [**2132-2-12**]  06:14 AM,                             [**2132-2-12**]  09:24 AM,                             [**2132-2-12**]  12:35 PM,                             [**2132-2-13**]  03:51 AM,                             [**2132-2-13**]  05:29 AM,   WBC,   10.7,   12.6,   Hct,   30.7,   32.3,   Plt,   235,   229,   Cr,   0.7,   0.6,   TCO2,   44,   42,   42,   44,   43,   43,   39,   46,   Glucose,   123,   123,   114,   Other labs: PT / PTT / INR:12.8/25.7/1.1, CK / CKMB /,   Troponin-T:119/7/0.04, Differential-Neuts:79.0 %, Band:1.0 %,,   Lymph:10.0 %, Mono:5.0 %, Eos:0.0 %, Lactic Acid:1.0 mmol/L,,   Albumin:3.8 g/dL, LDH:195 IU/L, Ca++:7.7 mg/dL, Mg++:2.1 mg/dL, PO4:3.8,   mg/dL,   Assessment and Plan, ELECTROLYTE & FLUID DISORDER, OTHER, HYPERKALEMIA (HIGH POTASSIUM, HYPERPOTASSEMIA), GASTROINTESTINAL BLEED, UPPER (MELENA, GI BLEED, GIB), MYOCARDIAL INFARCTION, ACUTE (AMI, STEMI, NSTEMI), RESPIRATORY FAILURE, ACUTE (NOT ARDS/[**Doctor Last Name 2**]),   Plan:,   1. Asthma attack, PNA:,   -change to po theophylline, change steroid to prednisone 60 mg daily,   -lasix gtt for goal 1.5 neg,   -cont. singulair and albuterol,   -cont. zosyn and levofloxacin,   2. htn:,   -restart cardizem,   3. FEN: On TF,   ICU Care,   Nutrition:,   Replete (Full) - [**2132-2-12**] 02:23 PM 20 mL/hour,   Glycemic Control:  Regular insulin sliding scale,   Lines:,   Arterial Line - [**2132-2-6**] 06:45 AM,   PICC Line - [**2132-2-8**] 08:00 PM,   20 Gauge - [**2132-2-13**] 04:00 AM,   Prophylaxis:,   DVT: SQ UF Heparin,   Stress ulcer: PPI,   VAP: HOB elevation, Mouth care, Daily wake up, RSBI,   Need for restraints reviewed,   Comments:,   Communication: Patient discussed on interdisciplinary rounds  Comments:,   Code status: Full code,   Disposition :ICU,   Total time spent: 35 minutes,   Patient is critically ill,   ------ Protected Section ------,   I have reviewed and agree with the assessment and plan as described,   above by the fellow with the following modifications and emphasis:,    64 year male with history of asthma presented to OSH with SOB and,   ultimately found to be in respiratory failure requiring intubation.,   Was difficult intubation and also having difficulty ventilating in ED,   and therefore paralyzed pt. with some improvement and transferred to,   the ICU.,   Has been persistently difficult to wean and found that he has severe,   underlying pulmonary disease,   On exam: 37.2   P: 106   BP: 191/93  ",
+        "events": "24 Hour Events:,   CT chest looks improved. Continued on [**9-11**].,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-10 10:39:00",
+        "vitals": "Tmax: 37.4,C (99.3,   Tcurrent: 36.8,C (98.3,   HR: 69 (69 - 92) bpm,   BP: 114/63(82) {106/60(77) - 188/105(138)} mmHg,   ",
+        "events": "24 Hour Events:,   Increased sedation for overbreathing.,   History obtained from Medical records,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-07 07:41:00",
+        "vitals": "Tmax: 37.6,C (99.7,   Tcurrent: 37.6,C (99.6,   HR: 103 (71 - 103) bpm,   BP: 139/76(96) {94/64(75) - 148/92(113)} mmHg,   ",
+        "events": "24 Hour Events:,   - RR weaned with permissive hypercapnea,   - nasal aspirate viral culture negative, dopplet precautions,   discontinued,   - CEs negative x 3,   - GNRs in sputum,   "
+    },
+    {
+        "admit_time": "2132-02-06 06:49:00",
+        "discharge_time": "2132-02-21",
+        "event_time": "2132-02-19 07:37:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.5,C (99.5,   HR: 88 (73 - 100) bpm,   BP: 165/119(135) {102/63(81) - 172/122(136)} mmHg,   ",
+        "events": "24 Hour Events:, NON-INVASIVE VENTILATION - STOP [**2132-2-18**] 08:05 PM,   History obtained from Patient,   "
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "medication": "Topiramate (Topamax), PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "300 mg, 3 TAB"
+    },
+    {
+        "medication": "Topiramate (Topamax), PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "200 mg, 2 TAB"
+    },
+    {
+        "medication": "Metoprolol Succinate XL, PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Citalopram Hydrobromide, PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Hydrochlorothiazide, PO",
+        "start_time": "2154-12-27 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2154-12-28 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2154-12-28 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "2 mg, 2 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2154-12-28 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2154-12-28 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2154-12-28 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "2 mg, 1 mL"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2154-12-29 00:00:00",
+        "end_time": "2154-12-29 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    }
+]

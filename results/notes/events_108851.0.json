@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2134-04-03 03:27:00",
+        "discharge_time": "2134-04-12",
+        "event_time": "2134-04-03 11:31:00",
+        "vitals": "Tmax: 37.6,C (99.7,   Tcurrent: 37.1,C (98.8,   HR: 80 (75 - 87) bpm,   BP: 115/49(65) {100/40(56) - 133/63(75)} mmHg,   ",
+        "events": "24 Hour Events:,   -stable overnight,   -started on po vanco for confirmed cdiff,   -chest pain this am,   History obtained from Patient, Family / [**Hospital 216**] Medical records,   "
+    },
+    {
+        "admit_time": "2134-04-03 03:27:00",
+        "discharge_time": "2134-04-12",
+        "event_time": "2134-04-04 10:20:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 35.5,C (95.9,   HR: 77 (76 - 84) bpm,   BP: 116/52(68) {90/40(52) - 134/89(96)} mmHg,   ",
+        "events": "24 Hour Events:,   - nose bleeding overnight,   - no arrhythmias,   History obtained from [**Hospital 19**] Medical records,   "
+    },
+    {
+        "admit_time": "2134-04-03 03:27:00",
+        "discharge_time": "2134-04-12",
+        "event_time": "2134-04-05 07:14:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.4,C (97.5,   HR: 76 (75 - 85) bpm,   BP: 117/42(60) {98/42(60) - 130/74(80)} mmHg,   ",
+        "events": "24 Hour Events:,   - stable, called out,   "
+    },
+    {
+        "admit_time": "2134-04-03 03:27:00",
+        "discharge_time": "2134-04-12",
+        "event_time": "2134-04-05 10:56:00",
+        "vitals": "Tmax: 36.5,C (97.7,   Tcurrent: 36.5,C (97.7,   HR: 79 (75 - 85) bpm,   BP: 130/50(70) {98/42(60) - 133/74(81)} mmHg,   ",
+        "events": "24 Hour Events:,   no evnets,   "
+    }
+]

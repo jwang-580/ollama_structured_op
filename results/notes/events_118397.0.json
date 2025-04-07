@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2139-02-15 16:58:00",
+        "discharge_time": "2139-03-08",
+        "event_time": "2139-02-16 07:38:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 36.8,C (98.2,   HR: 100 (90 - 151) bpm,   BP: 147/108(114) {114/63(81) - 230/127(150)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2139-2-15**] 12:28 PM, NON-INVASIVE VENTILATION - START [**2139-2-15**] 12:35 PM, ULTRASOUND - At [**2139-2-15**] 03:06 PM,   LENIs, EKG - At [**2139-2-15**] 04:06 PM, URINE CULTURE - At [**2139-2-15**] 05:20 PM, EKG - At [**2139-2-15**] 09:26 PM,   [**2139-2-15**]:,   -Pt was weaned off of Bipap,   -Became somnolent, stat ABG completely normal,   -Mental status cleared up on his own,   -Made good urine,   -Received ultrafiltration today net 3L negative,   .,   [**2139-2-16**]:,   -Renal (Sush) would like to know if and when BMT wants to start MTX,   because they would then have to do HD x 4 consecutive days.,   History obtained from Patient,   Patient unable to provide history: Encephalopathy,   "
+    }
+]

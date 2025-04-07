@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2184-04-21 01:48:00",
+        "discharge_time": "2184-04-23",
+        "event_time": "2184-04-22 06:08:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 35.2,C (95.3,   HR: 69 (61 - 115) bpm,   BP: 86/44(54) {79/44(54) - 126/84(101)} mmHg,   ",
+        "events": "24 Hour Events:,   - intubated on assist control ventilation overnight,   - CTA (prelim): no PE; LLL pna vs aspiration pneumonitis; emphysematous,   changes,   - A-line: could not be placed,   - blood/sputum cx: NGTD,   - CXR (and shoulder film): Left PICC line terminating at the level of,   the left proximal humeral shaft. It enters in the antecubital fossa,,   and there is no evidence of coiling or kinking along the course.,   - continued vanc/Zosyn,   - bolused with 4L IVF d/t hypotension SBP 80s--> SBP up to 90s,   - changed propofol to fent/midaz d/t hypotension,   - [**Hospital 858**] rehab: bcx [**4-19**]- no growth; spucx [**4-19**]- nl resp flora,   "
+    },
+    {
+        "admit_time": "2184-04-21 01:48:00",
+        "discharge_time": "2184-04-23",
+        "event_time": "2184-04-22 10:38:00",
+        "vitals": "Tmax: 36.4,C (97.6,   Tcurrent: 35.8,C (96.5,   HR: 72 (61 - 115) bpm,   BP: 85/41(51) {64/39(44) - 122/84(101)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - START [**2184-4-21**] 11:08 AM,   -Patient with persistent hypoxmia and worsening hypercarbid failure,   History obtained from [**Hospital 19**] Medical records,   "
+    },
+    {
+        "admit_time": "2184-04-21 01:48:00",
+        "discharge_time": "2184-04-23",
+        "event_time": "2184-04-23 09:05:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 37,C (98.6,   HR: 94 (74 - 142) bpm,   BP: 96/58(72) {81/47(65) - 115/77(90)} mmHg,   ",
+        "events": "24 Hour Events:,   [**4-22**]:,   - R Brachial A-line placed, started on levophed,   - CT chest with large R air-fluid cavity -> PEEP decreased to 4,,   Thoracics consulted. Chest tube placed with 1L drained of exudative,   fluid. Bronch'd with thick secretions from L side (?PNA), no evidence,   of large hole or chest tube leak with positive pressure. Lavage (sent,   for micro). Hypoxia after lavage to 88%, improved to 98% with left side,   down. Vent settings adjustments: Vt and FiO2 increased, PEEP decreased,   to 3.,   - Hypotensive s/p bronch; levophed increased to 0.4 w/ stabilization of,   BP. Able to titrate down to 0.3 as MAPs in 60s-70s.,   - Subsegmental PE in LUL, started on heparin gtt.,   - Family meeting: confirmed full code,   [- LFTs elevated: ?shock liver,   - Urine eos negative, no hydro on prelim renal US],   -----------------,   [**4-23**],   - Recheck Vanc trough,   - Tube feeds started,   - Hct drop,   - F/u ABG,   - F/u renal US final read,   "
+    }
+]

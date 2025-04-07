@@ -1,0 +1,380 @@
+[
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-18 00:00:00",
+        "end_time": "2189-11-19 00:00:00",
+        "dosage": "12 UNIT, 0.012 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-18 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-18 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "10 UNIT, 0.1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-18 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "14 UNIT, 0.14 mL"
+    },
+    {
+        "medication": "Dextromethorphan Poly Complex, PO",
+        "start_time": "2189-11-19 00:00:00",
+        "end_time": "2189-11-19 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Guaifenesin-Dextromethorphan, PO",
+        "start_time": "2189-11-19 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "5 mL, 0.5 UDCUP"
+    },
+    {
+        "medication": "Guaifenesin, PO",
+        "start_time": "2189-11-19 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "5-10 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "1800-3000 UNIT, 0.36-0.6 mL"
+    },
+    {
+        "medication": "Metolazone, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "2.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "15 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "BuPROPion, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "37.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Tiotropium Bromide, IH",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Bicalutamide, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Influenza Virus Vaccine, IM",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "0.5 mL, 1 SYR"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "500 mg, 2 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "12 UNIT, 0.012 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "8 UNIT, 0.08 mL"
+    },
+    {
+        "medication": "Lidocaine 5% Patch, TD",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "1 PTCH, 1 PTCH"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "4 UNIT, 0.04 mL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-18 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2189-11-16 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "1800-3000 UNIT, 0.36-0.6 mL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-18 00:00:00",
+        "dosage": "12 UNIT, 0.12 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-18 00:00:00",
+        "dosage": "8 UNIT, 0.08 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-18 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-18 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Metolazone, PO",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "2.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "15 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Clopidogrel, PO",
+        "start_time": "2189-11-17 00:00:00",
+        "end_time": "2189-11-20 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-18 00:00:00",
+        "end_time": "2189-11-19 00:00:00",
+        "dosage": "12 UNIT, 0.12 mL"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-14 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-15 00:00:00",
+        "dosage": "15 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-15 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-15 00:00:00",
+        "dosage": "60 mEq, 3 PKT"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "8 UNIT, 0.08 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2189-11-15 00:00:00",
+        "end_time": "2189-11-16 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    }
+]

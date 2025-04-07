@@ -1,0 +1,260 @@
+[
+    {
+        "medication": "Ibuprofen, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "600 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "500-1000 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Milk of Magnesia, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Dibucaine, TP",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "1 Appl, 0.1 TUBE"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Albumin 5% (12.5g / 250mL), IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "25 g, 2 VIAL"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Metoclopramide, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ketorolac, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "15-30 mg, 0.5-1 VIAL"
+    },
+    {
+        "medication": "Naloxone, IV DRIP",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Ketorolac, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "15-30 mg, 1-2 VIAL"
+    },
+    {
+        "medication": "Ketorolac, IM",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "15-30 mg, 0.5-1 VIAL"
+    },
+    {
+        "medication": "Ketorolac, IM",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "15-30 mg, 1-2 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Naloxone, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-28 00:00:00",
+        "dosage": "40-80 mcg, 1 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "25-50 mcg, 0.5-1 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2100-08-28 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "1-3 mg, 0.5-1.5 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "1-3 mg, 0.25-0.75 SYR"
+    },
+    {
+        "medication": "Acetaminophen w/Codeine, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-29 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-08-30 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Milk of Magnesia, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Ibuprofen, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "600 mg, 1 TAB"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2100-08-29 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Chloraseptic Throat Spray, PO",
+        "start_time": "2100-08-30 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "1 SPRY, 0.01 BTL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2100-08-31 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2100-08-31 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2100-08-31 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "200 mg, 1 TAB"
+    },
+    {
+        "medication": "Codeine Sulfate, PO",
+        "start_time": "2100-09-02 00:00:00",
+        "end_time": "2100-09-02 00:00:00",
+        "dosage": "15-30 mg, 0.5-1 TAB"
+    }
+]

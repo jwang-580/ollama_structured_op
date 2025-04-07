@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2193-01-10 11:03:00",
+        "discharge_time": "2193-01-15",
+        "event_time": "2193-01-11 05:21:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.6,C (97.8,   HR: 76 (71 - 99) bpm,   BP: 122/78(79) {90/42(52) - 129/81(89)} mmHg,   ",
+        "events": "24 Hour Events:,     * talked to pulmonary outpatient phys about baseline - patient poorly,       compliant, needs mask fitting and outpatient sleep study,     * cm aware we want to d/c to pulm rehab,   "
+    },
+    {
+        "admit_time": "2193-01-10 11:03:00",
+        "discharge_time": "2193-01-15",
+        "event_time": "2193-01-12 06:28:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.5,C (97.7,   HR: 89 (67 - 93) bpm,   BP: 103/45(58) {84/45(56) - 151/91(103)} mmHg,   ",
+        "events": "24 Hour Events:,   -diuresed well to 20mg po lasix- over 4L total,   "
+    },
+    {
+        "admit_time": "2193-01-10 11:03:00",
+        "discharge_time": "2193-01-15",
+        "event_time": "2193-01-10 11:39:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 35.8,C (96.5,   HR: 78 (67 - 100) bpm,   BP: 103/60(70) {82/50(58) - 118/74(81)} mmHg,   ",
+        "events": "24 Hour Events:, NON-INVASIVE VENTILATION - STOP [**2193-1-9**] 09:18 AM, TRANSTHORACIC ECHO - At [**2193-1-9**] 10:08 AM,   "
+    },
+    {
+        "admit_time": "2193-01-10 11:03:00",
+        "discharge_time": "2193-01-15",
+        "event_time": "2193-01-10 05:58:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 36.7,C (98,   HR: 83 (71 - 100) bpm,   BP: 89/57(63) {82/50(58) - 120/78(87)} mmHg,   ",
+        "events": "24 Hour Events:, NON-INVASIVE VENTILATION - STOP [**2193-1-9**] 09:18 AM, TRANSTHORACIC ECHO - At [**2193-1-9**] 10:08 AM,   -echo RV dilated and hypokinectic NL LV fxn, NL valves, mild PA HTN,   similar to [**1-12**] echo,   -lipids NL,   -1.5 L negative I/O with lasix,   - overnight on BIPAP 12/7 on 3L desat to 70s, o2 increased to 10 L,   without change,   - put on non-invasive on vent at 12/0 and improved,   "
+    }
+]

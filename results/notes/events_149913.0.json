@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2145-05-14 01:55:00",
+        "discharge_time": "2145-05-17",
+        "event_time": "2145-05-17 06:46:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.2,C (97.1,   HR: 75 (65 - 83) bpm,   BP: 144/70(84) {127/47(67) - 163/119(124)} mmHg,   ",
+        "events": "24 Hour Events:,   - Patient's Hct was stable,   - After discussion with HCP and PCP, [**Name10 (NameIs) 6928**] of care focused on comfort.,   They want her to return to [**Location (un) 4369**] with hospice.,   "
+    },
+    {
+        "admit_time": "2145-05-14 01:55:00",
+        "discharge_time": "2145-05-17",
+        "event_time": "2145-05-16 12:35:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 36.1,C (96.9,   HR: 77 (75 - 88) bpm,   BP: 158/57(123) {91/41(58) - 158/74(123)} mmHg,   ",
+        "events": "24 Hour Events:, MULTI LUMEN - START [**2145-5-15**] 08:09 PM, MULTI LUMEN - STOP [**2145-5-15**] 08:14 PM,   -Patient with embolization procedure attempted but unable to localize,   source.,   -Patient with recurrent melena over past 24 hours,   History obtained from [**Hospital 19**] Medical records,   "
+    }
+]

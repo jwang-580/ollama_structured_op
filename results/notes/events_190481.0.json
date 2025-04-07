@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2127-03-07 09:33:00",
+        "discharge_time": "2127-03-12",
+        "event_time": "2127-03-09 11:13:00",
+        "vitals": "Tmax: 38.3,C (100.9,   Tcurrent: 38.3,C (100.9,   HR: 102 (84 - 105) bpm,   BP: 133/64(91) {100/47(67) - 171/78(115)} mmHg,   ",
+        "events": "24 Hour Events:,   - hypertensive overnight,                                     History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2127-03-07 09:33:00",
+        "discharge_time": "2127-03-12",
+        "event_time": "2127-03-09 07:50:00",
+        "vitals": "Tmax: 38.1,C (100.5,   Tcurrent: 37,C (98.6,   HR: 85 (84 - 105) bpm,   BP: 126/53(79) {100/47(67) - 171/78(115)} mmHg,   ",
+        "events": "24 Hour Events:,   - Episode of hypotension mid-day, fluid responsive,   - Hypertensive o/n,   - Continuing diarrhea,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2127-03-07 09:33:00",
+        "discharge_time": "2127-03-12",
+        "event_time": "2127-03-08 12:24:00",
+        "vitals": "Tmax: 38.9,C (102.1,   Tcurrent: 37.8,C (100.1,   HR: 96 (85 - 103) bpm,   BP: 144/64(92) {78/38(52) - 144/64(93)} mmHg,   ",
+        "events": "24 Hour Events:,   -hypotensive, fluid responsive,   -lines place on norepi for 2 hours,   History obtained from [**Hospital 31**] Medical records,   Patient unable to provide history: Encephalopathy,   "
+    },
+    {
+        "admit_time": "2127-03-07 09:33:00",
+        "discharge_time": "2127-03-12",
+        "event_time": "2127-03-08 08:00:00",
+        "vitals": "Tmax: 38.9,C (102.1,   Tcurrent: 37.3,C (99.1,   HR: 97 (85 - 109) bpm,   BP: 137/56(85) {78/38(52) - 144/64(93)} mmHg,   ",
+        "events": "24 Hour Events:, NASAL SWAB - At [**2127-3-7**] 09:00 AM,   MRSA swab on admission, ARTERIAL LINE - START [**2127-3-7**] 11:57 AM, MULTI LUMEN - START [**2127-3-7**] 07:05 PM, FEVER - 102.1,F - [**2127-3-7**] 05:00 PM,   - hypotensive all day, aline placed getting NS boluses, dipped into low,   70s persistently in PM -->started peripheral levophed, placed RIJ,   - only required levophed for ~2 hours.  IVF x 3.5 L over the day.,   Lactate normalized.,   History obtained from [**Hospital 31**] Medical records,   "
+    }
+]

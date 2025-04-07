@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2149-09-12 21:34:00",
+        "discharge_time": "2149-09-23",
+        "event_time": "2149-09-13 05:55:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 35.5,C (95.9,   HR: 64 (53 - 75) bpm,   BP: 113/47(64) {84/26(47) - 121/56(67)} mmHg,   ",
+        "events": "24 Hour Events:,   pt admitted from ED in setting of sepsis/severe sepsis,   received 2.5 L NS plus maintenance fluids overnight,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2149-09-12 21:34:00",
+        "discharge_time": "2149-09-23",
+        "event_time": "2149-09-14 07:08:00",
+        "vitals": "Tmax: 36.7,C (98,   Tcurrent: 35.7,C (96.2,   HR: 59 (53 - 72) bpm,   BP: 125/44(64) {90/36(51) - 133/64(81)} mmHg,   ",
+        "events": "24 Hour Events:,   CT of abdomen showed small pneumoperitoneum (still wet read).,   Blood cx x1 positive for gram negative organism (at [**Hospital1 7**]), Bcx from [**9-12**],   at HD [**2-12**] positive for GNR: will have [**Last Name (un) 270**] and species on monday.,   (micro lab at [**Hospital3 9869**]),   "
+    }
+]

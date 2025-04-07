@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2161-04-20 00:14:00",
+        "discharge_time": "2161-04-29",
+        "event_time": "2161-04-20 08:57:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.4,C (99.3,   HR: 85 (71 - 100) bpm,   BP: 103/69(76) {103/69(76) - 146/89(101)} mmHg,   ",
+        "events": "24 Hour Events:,   No overnight events.  On low-dose heparin gtt for presumptive rx of SVC,   syndrome.,   History obtained from [**Hospital 15**] Medical records,   "
+    },
+    {
+        "admit_time": "2161-04-20 00:14:00",
+        "discharge_time": "2161-04-29",
+        "event_time": "2161-04-22 07:41:00",
+        "vitals": "Tmax: 38.1,C (100.5,   Tcurrent: 37.9,C (100.2,   HR: 95 (75 - 116) bpm,   BP: 136/66(78) {83/50(58) - 176/97(185)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - STOP [**2161-4-21**] 11:00 AM, INVASIVE VENTILATION - START [**2161-4-21**] 12:30 PM, ARTERIAL LINE - STOP [**2161-4-21**] 01:00 PM, EKG - At [**2161-4-21**] 08:39 PM,   - Decreased decadron to 2mg IV q6,   - Sedation weaned and patient extubated,   - s/p extubation, patietnt did well but decompensated becoming,   tachycardic and hypertensive, complaining of anxiety.  Subsequently was,   re-intubated,   - Hypotensive post intubation in the 90s requiring 3L NS boluses.,   - Echo performed with severe global hypokinesis EF<20% with preserved,   baso-lateral/inferior wall,   - EKG with STE in V2 -> Cards: start ASA, BB, statin (held due to,   LFTs), and ACE-I (held due to BP), trend CEs (Trop 0.51->0.47),   - CTA Chest performed: SVC completely occluded.  Worsening stenosis of,   RML/RUL with collapse.  Per IR, will address in AM, but would recommend,   stent,   "
+    }
+]

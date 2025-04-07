@@ -1,0 +1,102 @@
+[
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "28.8 %",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "9.2 g/dL",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "8.7 %",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "MCH, Blood",
+        "lab_value": "24.0 pg",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "MCV, Blood",
+        "lab_value": "75.0 fL",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Monocytes, Blood",
+        "lab_value": "1.6 %",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "88.3 %",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "RDW, Blood",
+        "lab_value": "16.9 %",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.85 m/uL",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "269.0 mg/dL",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "27.3 %",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.5 g/dL",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "MCH, Blood",
+        "lab_value": "23.8 pg",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "MCV, Blood",
+        "lab_value": "77.0 fL",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "RDW, Blood",
+        "lab_value": "16.2 %",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.56 m/uL",
+        "lab_time": "2105-02-22 03:00:00"
+    },
+    {
+        "lab_name": "Alkaline Phosphatase, Blood",
+        "lab_value": "186.0 IU/L",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "50.0 IU/L",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.2 mg/dL",
+        "lab_time": "2105-02-21 15:25:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "120.0 mg/dL",
+        "lab_time": "2105-02-21 15:25:00"
+    }
+]

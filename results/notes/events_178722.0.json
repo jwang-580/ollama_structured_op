@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2200-11-24 23:56:00",
+        "discharge_time": "2200-12-02",
+        "event_time": "2200-11-26 07:10:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 36.7,C (98.1,   HR: 76 (75 - 88) bpm,   BP: 130/69(82) {97/41(68) - 149/78(87)} mmHg,   ",
+        "events": "24 Hour Events:, ULTRASOUND - At [**2200-11-25**] 12:45 PM, URINE CULTURE - At [**2200-11-25**] 04:50 PM, EKG - At [**2200-11-25**] 10:00 PM,   -Identified patient and obtained collateral information,   -Seen by renal, who will place dialysis line in a.m.,   -Gave Kayexalate PR for hyperkalemia,   -Attempted lumbar puncture but needed to get longer needle -> obtained,   longer needle but did not do LP overnight,   - Now w/ new serosanguinous drainage from posterior occiput,   "
+    },
+    {
+        "admit_time": "2200-11-24 23:56:00",
+        "discharge_time": "2200-12-02",
+        "event_time": "2200-11-27 07:31:00",
+        "vitals": "Tmax: 37.4,C (99.3,   Tcurrent: 37.4,C (99.3,   HR: 99 (68 - 125) bpm,   BP: 138/70(85) {123/70(84) - 178/95(115)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - START [**2200-11-26**] 02:03 PM, CALLED OUT,   - pt alot more alert this AM, responding to name, speaking short,   sentences,   - renal placed HD line today, got dialysis today,   - call out to floor as crash beds low,   "
+    },
+    {
+        "admit_time": "2200-11-24 23:56:00",
+        "discharge_time": "2200-12-02",
+        "event_time": "2200-11-25 06:45:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.2,C (98.9,   HR: 91 (89 - 100) bpm,   BP: 125/61(78) {121/53(75) - 147/62(98)} mmHg,   ",
+        "events": "24 Hour Events:,   CC: unresponsive,   .,   HPI: This is a middle aged man who was found unresponsive. Per EMS, the,   patient was found by his superintendant sitting in a chair,   unresponsive. EMS found him unresposive, non-verbal, gave narcan 0.4mg,   x1 with no response. He had a small amount of vomiting enroute.,   .,   In the ED: He was unresponsive but moving his head around. His vitals,   were 98.8, HR 88, 124/66, resp 11, 97% RA. He had a neg CT head and,   spine. CXR WNL. Urine tox positive for opiates, serum tox neg.  UA w/o,   leuks or nitrites, but WBC [**11-28**], large blood, RBC neg.  WBC 22 but,   afebrile, given Vanc. Cr 8.9, K 6.3 with peaked T waves. Bicarb,,   insulin, glucose given, K down to 5.1. No kayaxelate given mental,   status. Nephrology was consulted and found no osmolar gap. They,   recommended rehydration at 125cc/hr, recheck K, renal U/S w/ doppler,,   check PTH. 2L NS given in ED.,   .,   ROS: unable to obtain,   .,   PMH: unable to obtain,   .,   Home Medications: unkown,   .,   Allergies: unkown,   .,   Social History:unkown,   .,   Family History: unkown,   .,   Physical Exam:,   Vitals: T: P: BP: R: SaO2:,   General: easily awaked and startled, non-verbal,   HEENT: NC/AT, will not allow me to open eyes well but pupils appear 2mm,   and symmetric,   Neck: supple, no JVD or carotid bruits appreciated,   Pulmonary: Lungs CTA bilaterally but difficult to assess with,   rhonchorous upper airway sounds,   Cardiac: RRR, nl. S1S2, no M/R/G noted,   Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or,   organomegaly noted.,   Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses b/l.,   Skin: no rashes or lesions noted, no fistula, no medical patches,   Neurologic:  limited exam,   -mental status: drowsy but arousable with follow a few commands: smiled,   symmetrically once, squeezed right hand but then would not follow,   further commands, when arm raised above head patient does not allow arm,   to fall on his face, when turned patient grabbed out to stabalize,   himself,   -cranial nerves: unassessable but symmetric smile,   -motor: normal bulk, strength and tone throughout. not moving,   extremeties,   -DTRs:1+ biceps, brachioradialis, 2+ patellar and 1+ ankle jerks,   bilaterally. Plantar response was flexor bilaterally.   +myoclonus,   .,   Laboratory Data: see below,   .,   Micro:,   UA: WBC [**11-28**], neg WBC, neg nitrite,   .,   EKG: HR 98, RRR, IVCD, peaked T waves, no ischemic changes,   .,   Radiologic Data:,   Head CT neg,   C Spine CT neg,   CXR neg no infiltrate,   .,   No events O/N.  This AM, the patient is,   "
+    },
+    {
+        "admit_time": "2200-11-24 23:56:00",
+        "discharge_time": "2200-12-02",
+        "event_time": "2200-11-25 09:33:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.3,C (99.1,   HR: 91 (89 - 100) bpm,   BP: 119/60(74) {119/53(74) - 147/62(98)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2200-11-25**] 04:48 AM,   Lying in bed, groaning, eyes open,   Patient unable to provide history: noncommunicative,   "
+    }
+]

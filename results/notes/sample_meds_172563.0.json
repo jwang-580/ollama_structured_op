@@ -1,0 +1,218 @@
+[
+    {
+        "medication": "Vancomycin Oral Liquid, PO/NG",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "125 mg, 1 SYR"
+    },
+    {
+        "medication": "Warfarin, PO/NG",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-27 00:00:00",
+        "dosage": "4 mg, 2 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "LeVETiracetam, PO/NG",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Ranitidine, PO/NG",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "150 mg, 1 TAB"
+    },
+    {
+        "medication": "Phenytoin Sodium Extended, PO",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Aspirin, PO/NG",
+        "start_time": "2138-03-25 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-26 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-28 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-29 00:00:00",
+        "dosage": "1 gm, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-29 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Vancomycin Oral Liquid, PO/NG",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "125 mg, 1 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2138-03-26 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2138-03-27 00:00:00",
+        "end_time": "2138-03-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Warfarin, PO/NG",
+        "start_time": "2138-03-27 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Tamsulosin, PO",
+        "start_time": "2138-03-27 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "0.4 mg, 1 CAP"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2138-03-28 00:00:00",
+        "end_time": "2138-03-28 00:00:00",
+        "dosage": "37.5 mg, 1.5 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-28 00:00:00",
+        "end_time": "2138-03-29 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-28 00:00:00",
+        "end_time": "2138-03-29 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2138-03-28 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO/NG",
+        "start_time": "2138-03-29 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO/NG",
+        "start_time": "2138-03-29 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2138-03-30 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-30 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Amlodipine, PO/NG",
+        "start_time": "2138-03-30 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2138-03-30 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO/NG",
+        "start_time": "2138-03-31 00:00:00",
+        "end_time": "2138-03-30 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    }
+]

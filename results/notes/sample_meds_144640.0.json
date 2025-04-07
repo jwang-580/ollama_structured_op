@@ -1,0 +1,242 @@
+[
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "8 UNIT, 0.008 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2154-07-30 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "40 mg, 2 CAP"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2154-07-30 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Polyethylene Glycol, PO",
+        "start_time": "2154-07-31 00:00:00",
+        "end_time": "2154-08-01 00:00:00",
+        "dosage": "17 g, 1 PKT"
+    },
+    {
+        "medication": "Dexamethasone, PO",
+        "start_time": "2154-07-31 00:00:00",
+        "end_time": "2154-08-01 00:00:00",
+        "dosage": "4 mg, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2154-08-01 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Dexamethasone, PO",
+        "start_time": "2154-08-02 00:00:00",
+        "end_time": "2154-08-01 00:00:00",
+        "dosage": "2 mg, 1 TAB"
+    },
+    {
+        "medication": "Dexamethasone, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-28 00:00:00",
+        "dosage": "6 mg, 1.5 VIAL"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-28 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-28 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Albuterol-Ipratropium, IH",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "1-2 PUFF, 0.01-0.02 CAN"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-29 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-30 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-30 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Dexamethasone, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-07-30 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-01 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Lyrica, ORAL",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "100 mg, 4 CAP"
+    },
+    {
+        "medication": "Budesonide, IH",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "0.5 mg, 1 AMP"
+    },
+    {
+        "medication": "Hydrocerin, TP",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "1 Appl, 1 Appl"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Montelukast Sodium, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Valsartan, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "320 mg, 2 TAB"
+    },
+    {
+        "medication": "Atorvastatin, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Fluphenazine, PO",
+        "start_time": "2154-07-28 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2154-07-29 00:00:00",
+        "end_time": "2154-08-02 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    }
+]

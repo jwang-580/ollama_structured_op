@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2100-10-16 01:10:00",
+        "discharge_time": "2100-10-19",
+        "event_time": "2100-10-16 14:16:00",
+        "vitals": null,
+        "events": null
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2146-05-22 00:54:00",
+        "discharge_time": "2146-05-26",
+        "event_time": "2146-05-24 07:39:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 38.1,C (100.6,   HR: 52 (52 - 71) bpm,   BP: 85/49(60) {85/49(60) - 183/93(121)} mmHg,   ",
+        "events": "24 Hour Events:,   - Completed cooling protocol,   - Febrile to 101. Started tylenol. Cultured.,   - Neuro - EEG with diffuse slowing. Pappiledema noted. Request Head Ct.,   Poor prognosis. Cold calorics negative.,   - Cardiac arrest c/s - f/u eeg, goal pCO2 35-40, avoid high sugars, HOB,   greater than 30 degrees, avoid fever,   - Head CT - Prelim - No intracranial hemorrhage. Bilateral ethmoidal,   and sphenoidal maxillary sinus mucosal thickening.,   - Updated family,   - 1000 cc bolus for low uop at MN. Minimal response.,   - Added motrin and tylenol to help control temperature,   - ABG 5 am on [**5-24**] 7.3/47/101/24 --> increased RR to 20,   - ECHO: suboptimal quality. Mild global biventricular hypokinesis. EF,   35-40%, TRANSTHORACIC ECHO - At [**2146-5-23**] 09:00 AM, EKG - At [**2146-5-23**] 09:49 AM, URINE CULTURE - At [**2146-5-23**] 04:00 PM, BLOOD CULTURED - At [**2146-5-23**] 08:40 PM, BLOOD CULTURED - At [**2146-5-23**] 08:55 PM, SPUTUM CULTURE - At [**2146-5-23**] 09:00 PM,   "
+    },
+    {
+        "admit_time": "2146-05-22 00:54:00",
+        "discharge_time": "2146-05-26",
+        "event_time": "2146-05-23 17:21:00",
+        "vitals": "Tmax: 38.1,C (100.6,   Tcurrent: 38.1,C (100.6,   HR: 71 (42 - 71) bpm,   BP: 141/91(108) {99/62(72) - 183/93(121)} mmHg,   ",
+        "events": "24 Hour Events:,   - Completed Therapeutic Hypothermia Protocol, now rewarmed,   - Continuous EEG in progress,   - Febrile 100.6 T max,   History obtained from Medical records, Primary team,   Patient unable to provide history: Unresponsive,   "
+    },
+    {
+        "admit_time": "2146-05-22 00:54:00",
+        "discharge_time": "2146-05-26",
+        "event_time": "2146-05-25 07:26:00",
+        "vitals": "Tmax: 37.2,C (99,   Tcurrent: 37.2,C (99,   HR: 57 (51 - 63) bpm,   BP: 165/85(111) {89/58(69) - 182/96(125)} mmHg,   ",
+        "events": "24 Hour Events:, URINE CULTURE - At [**2146-5-24**] 12:00 PM,   [**2146-5-24**]:,    - Having elev BP's 170's-190's likely response to inc intra-cranial,   pressure,   -Neuro Recs: No repeat Head CT unless he has a blown pupil,   -Running even,   -Holding TF due to high residuals,   - Maintenance fluids initiated,   -Re: asp pneumonia holding off on starting ABX unless he spikes (would,   start Levoflox),   - IV Heparin stopped,   - Social work c/s for end of life coping issues,   -Fam will be here at 11am tomorrow for mtg,   "
+    }
+]

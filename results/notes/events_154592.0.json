@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2204-12-24 22:28:00",
+        "discharge_time": "2205-01-03",
+        "event_time": "2205-01-03 10:49:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 36.7,C (98,   HR: 62 (52 - 71) bpm,   BP: 116/47(64){96/42(55) - 142/81(95)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2205-1-2**] 09:44 AM, URINE CULTURE - At [**2205-1-2**] 02:11 PM,   History obtained from [**Hospital 85**] Medical records,   "
+    },
+    {
+        "admit_time": "2204-12-24 22:28:00",
+        "discharge_time": "2205-01-03",
+        "event_time": "2205-01-03 07:40:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 36.9,C (98.4,   HR: 62 (52 - 73) bpm,   BP: 116/47(64){96/42(55) - 142/81(95)} mmHg,   ",
+        "events": "24 Hour Events:,   Hematuria improving despite keeping Foley in,   Continued to improve and become more oriented,   EKG showed QTc of 480,   Sliding scale insulin and BP med doses decreased,   Continues to be screened for rehab (has been accepted at one place,,   waiting to see if daughters agree and if bed available)., EKG - At [**2205-1-2**] 09:44 AM, URINE CULTURE - At [**2205-1-2**] 02:11 PM,   "
+    },
+    {
+        "admit_time": "2204-12-24 22:28:00",
+        "discharge_time": "2205-01-03",
+        "event_time": "2204-12-29 08:06:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36,C (96.8,   HR: 70 (69 - 102) bpm,   BP: 151/81(96){134/66(82) - 202/102(121)} mmHg,   ",
+        "events": "24 Hour Events:,   confused, she thought it was due to steroids (she has had similar,   problems with steroids in past),   changed from IV to PO steroids,   nutrition saw her, recommened following intake and supplements if <60%,   SUBJ:,   Feels that breathing is improved but still not at baseline,   "
+    },
+    {
+        "admit_time": "2204-12-24 22:28:00",
+        "discharge_time": "2205-01-03",
+        "event_time": "2204-12-29 11:11:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 37,C (98.6,   HR: 73 (69 - 102) bpm,   BP: 139/66(83){134/66(82) - 202/102(121)} mmHg,   ",
+        "events": "24 Hour Events:,   Yesterday got confused and tearful, steroids reduced.,   Otherwise respiratory status has been stable.  Feels better, but not,   back to baseline.,   "
+    }
+]

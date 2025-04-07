@@ -1,0 +1,326 @@
+[
+    {
+        "medication": "D5W, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Sodium Phosphate, IV",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-22 00:00:00",
+        "dosage": "15 mmol, 5 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-22 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-24 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2152-05-21 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoclopramide, IV",
+        "start_time": "2152-05-22 00:00:00",
+        "end_time": "2152-05-22 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-22 00:00:00",
+        "end_time": "2152-05-22 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Golytely, PO",
+        "start_time": "2152-05-22 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "4 L, 1 BTL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-22 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2152-05-22 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "8 mg, 2 VIAL"
+    },
+    {
+        "medication": "Magnesium Citrate, PO",
+        "start_time": "2152-05-23 00:00:00",
+        "end_time": "2152-05-24 00:00:00",
+        "dosage": "300 mL, 1 BTL"
+    },
+    {
+        "medication": "Magnesium Citrate, PO",
+        "start_time": "2152-05-24 00:00:00",
+        "end_time": "2152-05-24 00:00:00",
+        "dosage": "150 mL, 0.5 BTL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-24 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-24 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2152-05-24 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2152-05-24 00:00:00",
+        "end_time": "2152-05-25 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2152-05-25 00:00:00",
+        "end_time": "2152-05-26 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2152-05-25 00:00:00",
+        "end_time": "2152-05-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2152-05-25 00:00:00",
+        "end_time": "2152-05-26 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2152-05-25 00:00:00",
+        "end_time": "2152-05-26 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-25 00:00:00",
+        "end_time": "2152-05-26 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "20 mEq, 10 mL"
+    },
+    {
+        "medication": "Sodium Phosphate, IV",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "30 mmol, 10 mL"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-26 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2152-05-27 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride Replacement (Oncology), PO",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "60 mEq, 3 PKT"
+    },
+    {
+        "medication": "Potassium Chloride Replacement (Oncology), PO",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-21 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "80 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2152-05-19 00:00:00",
+        "end_time": "2152-05-27 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Cosyntropin, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "250 mcg, 1 VIAL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2152-05-20 00:00:00",
+        "end_time": "2152-05-20 00:00:00",
+        "dosage": "200 mg, 1 BAG"
+    }
+]

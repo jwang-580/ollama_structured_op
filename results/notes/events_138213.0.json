@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2120-04-22 20:15:00",
+        "discharge_time": "2120-04-30",
+        "event_time": "2120-04-23 06:51:00",
+        "vitals": "Tmax: 36.3,C (97.4,   Tcurrent: 36.3,C (97.4,   HR: 72 (67 - 78) bpm,   BP: 101/46 (60) {86/33(46) - 111/59(71)} mmHg,   ",
+        "events": "24 Hour Events:, ENDOSCOPY - At [**2120-4-22**] 08:20 PM,   EGD performed with no active bleeding, but grade III varices.,   Hepatology recommending no further anticoagulation as risk of variceal,   bleeding is markedly elevated.,   "
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "medication": "FoLIC Acid, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-09 00:00:00",
+        "dosage": "1 mg, 0.2 mL"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-09 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-09 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Multivitamin IV, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-09 00:00:00",
+        "dosage": "10 mL, 1 VIAL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "15 mmol, 5 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "TraMADOL (Ultram), PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Spironolactone, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Gabapentin, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "200 mg, 2 CAP"
+    },
+    {
+        "medication": "Citalopram Hydrobromide, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Nadolol, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "43 UNIT, 0.043 VIAL"
+    },
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-11 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "14 UNIT, 0.014 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Octreotide Acetate, IV DRIP",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "0.6 mg, 6 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "22 UNIT, 0.022 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "200 mg, 1 BAG"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "1 mg, 0.1 AMP"
+    },
+    {
+        "medication": "Nicotine Patch, TD",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "14 mg, 1 PTCH"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2125-05-09 00:00:00",
+        "end_time": "2125-05-11 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "44 UNIT, 0.044 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Potassium Phosphate, IV",
+        "start_time": "2125-05-10 00:00:00",
+        "end_time": "2125-05-10 00:00:00",
+        "dosage": "30 mmol, 10 mL"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2127-12-23 06:24:00",
+        "discharge_time": "2127-12-28",
+        "event_time": "2127-12-27 08:12:00",
+        "vitals": "Tmax: 37.8,C (100.1,   Tcurrent: 37.8,C (100.1,   HR: 86 (58 - 86) bpm,   BP: 110/79(95) {85/45(61) - 158/86(114)} mmHg,   ",
+        "events": "24 Hour Events:, PERCUTANEOUS TRACHEOSTOMY - At [**2127-12-26**] 08:50 AM, ENDOSCOPY - At [**2127-12-26**] 09:25 AM, PEG INSERTION - At [**2127-12-26**] 09:45 AM,   bedside    trach/peg,   "
+    },
+    {
+        "admit_time": "2127-12-23 06:24:00",
+        "discharge_time": "2127-12-28",
+        "event_time": "2127-12-25 12:12:00",
+        "vitals": "Tmax: 37.3,C (99.2,   Tcurrent: 37,C (98.6,   HR: 66 (47 - 70) bpm,   BP: 129/57(77) {101/52(68) - 141/70(92)} mmHg,   ",
+        "events": "24 Hour Events:,   EEG w/ evidence of sz activity yest. MRI done o/n. 24hr EEG started.,   Vasopressin weaned off yest pm but w/ persistent refractory,   hypotension- levophed started and a line placed. Hypoxemia transiently,   resolved spontaneously. Levophed weaned off o/n.,   History obtained from Medical records,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2127-12-23 06:24:00",
+        "discharge_time": "2127-12-28",
+        "event_time": "2127-12-26 07:55:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 36.5,C (97.7,   HR: 62 (58 - 73) bpm,   BP: 129/60(82) {104/52(71) - 152/83(100)} mmHg,   ",
+        "events": "24 Hour Events:,   -Neuro:check B12, folate, (normal) and RPR (pending),   -Final MRI: No anoxic brain injury,   -LENIS: negative,   -NPO for Trach via IP today,   -7pm Hct 28.6; stable,   -Goal -500cc negative; 10mg IV lasix given at 1pm-->300cc @ MN, add'l,   10mg IV Lasix given this AM,   "
+    }
+]

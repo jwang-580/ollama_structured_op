@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2175-03-24 23:36:00",
+        "discharge_time": "2175-03-30",
+        "event_time": "2175-03-25 07:02:00",
+        "vitals": "Tmax: 36.4,C (97.5,   Tcurrent: 36.1,C (96.9,   HR: 54 (54 - 68) bpm,   BP: 170/50(80) {122/40(62) - 170/74(84)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - START [**2175-3-24**] 08:00 PM,   - Patient received vanc/zosyn overnight,   - Received non-contrast CT abd/pelvis showing no obvious fluid,   collections, unchanged cholelithiasis from previous,   - Afebrile overnight,   "
+    },
+    {
+        "admit_time": "2175-03-24 23:36:00",
+        "discharge_time": "2175-03-30",
+        "event_time": "2175-03-25 09:03:00",
+        "vitals": "Tmax: 36.4,C (97.5,   Tcurrent: 35.9,C (96.6,   HR: 58 (54 - 68) bpm,   BP: 183/42(80) {122/40(62) - 183/74(84)} mmHg,   ",
+        "events": "24 Hour Events:, DIALYSIS CATHETER - START [**2175-3-24**] 08:00 PM,   Started on heparin drip and got non contrast CT,   "
+    }
+]

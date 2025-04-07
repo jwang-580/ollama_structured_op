@@ -1,0 +1,428 @@
+[
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-23 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-23 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-23 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "2-4 g, 1-2 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "4 g, 2 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "2 BAG, 2 BAG"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Levothyroxine Sodium, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "25 mcg, 0.125 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-27 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Influenza Virus Vaccine, IM",
+        "start_time": "2159-10-23 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "0.5 mL, 1 SYR"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Meperidine, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "12.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "14 UNIT, 0.014 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-27 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-10-24 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-25 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "1 PKT, 1 PKT"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "60 mEq, 3 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-27 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Carvedilol, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "12.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Donepezil, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "50 mcg, 1 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "81 mg, 1 TAB"
+    },
+    {
+        "medication": "Memantine, ORAL",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "14 UNIT, 0.014 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2159-10-25 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-26 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-27 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-27 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Ampicillin-Sulbactam, IV",
+        "start_time": "2159-10-26 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "3 g, 1 VIAL"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2159-10-27 00:00:00",
+        "end_time": "2159-10-28 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2159-10-27 00:00:00",
+        "end_time": "2159-10-28 00:00:00",
+        "dosage": "20 mEq, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-27 00:00:00",
+        "end_time": "2159-10-28 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2159-10-28 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2159-10-28 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Furosemide, PO",
+        "start_time": "2159-10-28 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-10-28 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2159-10-28 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2159-10-29 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Oxide, PO",
+        "start_time": "2159-10-29 00:00:00",
+        "end_time": "2159-10-29 00:00:00",
+        "dosage": "400 mg, 1 TAB"
+    }
+]

@@ -1,0 +1,812 @@
+[
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-24 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-24 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-24 00:00:00",
+        "dosage": "400 UNIT, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-24 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "500 mg, 2 TAB"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "125 mg, 1 VIAL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "traZODONE, PO",
+        "start_time": "2205-01-01 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "25 mg, 0.5 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-01 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "0.5 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "Captopril, PO",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "12.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chl 40 mEq / 1000 mL D5W, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "60 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2205-01-02 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mEq, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mEq, 1 BAG"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Tiotropium Bromide, IH",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2205-01-03 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 mEq, 0.1 BAG"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-04 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-08 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "30 mg, 3 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-09 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-13 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-18 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2205-01-23 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Levalbuterol HCl, IN",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Pantoprazole, PO",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "40 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Captopril, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Nitroglycerin Ointment  2%, TP",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "0.5 in, 0.5 PKT"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol, IV",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "20 mEq, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "20 mEq, 1 PKT"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-29 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "37.5 mg, 1.5 TAB"
+    },
+    {
+        "medication": "Captopril, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2204-12-31 00:00:00",
+        "dosage": "37.5 mg, 3 TAB"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "90 mg, 1 TAB"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Nitroglycerin Ointment  2%, TP",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 in, 1 PKT"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO",
+        "start_time": "2204-12-28 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2204-12-29 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2204-12-30 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Metoprolol, PO",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Olanzapine, PO",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-30 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Olanzapine (Disintegrating Tablet), PO",
+        "start_time": "2204-12-31 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2204-12-31 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "0.5 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "Olanzapine, PO",
+        "start_time": "2204-12-31 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "2.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Captopril, PO",
+        "start_time": "2204-12-31 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "50 mg, 2 TAB"
+    },
+    {
+        "medication": "Lidocaine 5% Patch, TD",
+        "start_time": "2204-12-31 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 PTCH, 1 PTCH"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2205-01-01 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "0.5 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "Haloperidol, IV",
+        "start_time": "2205-01-01 00:00:00",
+        "end_time": "2205-01-01 00:00:00",
+        "dosage": "0.5 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "CeftriaXONE, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-31 00:00:00",
+        "dosage": "1 gm, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2204-12-31 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Nortriptyline, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-02 00:00:00",
+        "dosage": "25 mg, 1 CAP"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Clopidogrel Bisulfate, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "75 mg, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Montelukast Sodium, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Paroxetine, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Fluticasone Propionate NASAL, NU",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "2 SPRY, 0.02 AERO"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "400 UNIT, 1 TAB"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2204-12-24 00:00:00",
+        "end_time": "2205-01-03 00:00:00",
+        "dosage": "25 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-25 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Fluticasone-Salmeterol (250/50) , IH",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "1 INH, 0.0357 DEV"
+    },
+    {
+        "medication": "Diltiazem, IV",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "10 mg, 0.2 VIAL"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-25 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Levalbuterol HCl, IH",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "0.63 mg, 1 NEB"
+    },
+    {
+        "medication": "Ipratropium Bromide MDI, IH",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-26 00:00:00",
+        "dosage": "2 PUFF, 0.01 INH"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV DRIP",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Lansoprazole Oral Disintegrating Tab, PO",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Albuterol-Ipratropium, IH",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "1-2 PUFF, 0.01-0.02 CAN"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-27 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "125 mg, 1 VIAL"
+    },
+    {
+        "medication": "Diltiazem, PO",
+        "start_time": "2204-12-26 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "60 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, NG",
+        "start_time": "2204-12-27 00:00:00",
+        "end_time": "2204-12-28 00:00:00",
+        "dosage": "20 mEq, 1 PKT"
+    }
+]

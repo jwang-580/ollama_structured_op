@@ -1,0 +1,137 @@
+[
+    {
+        "lab_name": "Chloride, Blood",
+        "lab_value": "93.0 mEq/L",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "3.3 mg/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Iron, Blood",
+        "lab_value": "15.0 ug/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Iron Binding Capacity, Total, Blood",
+        "lab_value": "199.0 ug/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Sodium, Blood",
+        "lab_value": "131.0 mEq/L",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Transferrin, Blood",
+        "lab_value": "153.0 mg/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "108.0 mg/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "28.9 %",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.6 g/dL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "INR(PT), Blood",
+        "lab_value": "3.9",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "MCH, Blood",
+        "lab_value": "26.7 pg",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "29.9 %",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "PT, Blood",
+        "lab_value": "36.7 sec",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "PTT, Blood",
+        "lab_value": "40.7 sec",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "RDW, Blood",
+        "lab_value": "17.5 %",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.24 m/uL",
+        "lab_time": "2135-04-20 03:45:00"
+    },
+    {
+        "lab_name": "INR(PT), Blood",
+        "lab_value": "2.2",
+        "lab_time": "2135-04-20 15:46:00"
+    },
+    {
+        "lab_name": "PT, Blood",
+        "lab_value": "22.9 sec",
+        "lab_time": "2135-04-20 15:46:00"
+    },
+    {
+        "lab_name": "PTT, Blood",
+        "lab_value": "37.0 sec",
+        "lab_time": "2135-04-20 15:46:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.7 mg/dL",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "73.0 mg/dL",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "28.2 %",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "8.4 g/dL",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "MCH, Blood",
+        "lab_value": "26.7 pg",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "MCHC, Blood",
+        "lab_value": "29.9 %",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "RDW, Blood",
+        "lab_value": "17.1 %",
+        "lab_time": "2135-04-21 02:30:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.16 m/uL",
+        "lab_time": "2135-04-21 02:30:00"
+    }
+]

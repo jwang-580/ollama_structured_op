@@ -1,0 +1,290 @@
+[
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-09 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-09 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-09 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-09 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-09 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Fluoxetine, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "750 mg, 3 TAB"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "800 UNIT, 2 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "FoLIC Acid, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2108-07-09 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-10 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Diazepam, PO",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-11 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2108-07-10 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-12 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-12 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-12 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-12 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-15 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Fluoxetine, PO",
+        "start_time": "2108-07-11 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "10 mg, 1 CAP"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-12 00:00:00",
+        "end_time": "2108-07-13 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2108-07-12 00:00:00",
+        "end_time": "2108-07-13 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2108-07-12 00:00:00",
+        "end_time": "2108-07-13 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-13 00:00:00",
+        "end_time": "2108-07-14 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2108-07-13 00:00:00",
+        "end_time": "2108-07-14 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-14 00:00:00",
+        "end_time": "2108-07-15 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2108-07-14 00:00:00",
+        "end_time": "2108-07-15 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2108-07-14 00:00:00",
+        "end_time": "2108-07-15 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2108-07-14 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2108-07-15 00:00:00",
+        "end_time": "2108-07-16 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2108-07-15 00:00:00",
+        "end_time": "2108-07-16 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2108-07-15 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, PO",
+        "start_time": "2108-07-16 00:00:00",
+        "end_time": "2108-07-17 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    }
+]

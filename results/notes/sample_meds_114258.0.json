@@ -1,0 +1,206 @@
+[
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL NS, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Soln, IV DRIP",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "50 mL, 1 VIAL"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL NS, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-17 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Nicotine Patch, TD",
+        "start_time": "2194-08-17 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "14 mg, 1 PTCH"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "Neutra-Phos, PO",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "1 PKT, 1 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "1 BAG, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-18 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2194-08-18 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Cepacol (Menthol), PO",
+        "start_time": "2194-08-19 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "1 LOZ, 1 LOZ"
+    },
+    {
+        "medication": "Cepacol (Menthol), PO",
+        "start_time": "2194-08-19 00:00:00",
+        "end_time": "2194-08-19 00:00:00",
+        "dosage": "1 LOZ, 1 LOZ"
+    }
+]

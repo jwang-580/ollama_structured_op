@@ -1,0 +1,1574 @@
+[
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-13 00:00:00",
+        "end_time": "2190-03-13 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-13 00:00:00",
+        "end_time": "2190-03-14 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Propofol, IV BOLUS",
+        "start_time": "2190-03-13 00:00:00",
+        "end_time": "2190-03-14 00:00:00",
+        "dosage": "20 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "D5W (Glass Bottle), IV",
+        "start_time": "2190-03-14 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Hydrochloric Acid, IV",
+        "start_time": "2190-03-14 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "50 mEq, 50 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2190-03-14 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-15 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-15 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "4 g, 2 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-15 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "4 g, 2 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-16 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "1700-3400 UNIT, 0.34-0.68 mL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "6900 UNIT, 1.38 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Albumin 5% (25g / 500mL), IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-09 00:00:00",
+        "dosage": "25 g, 1 VIAL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-09 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "50-100 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "20-40 mEq, 1-2 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "40-60 mEq, 2-3 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "60 mEq, 30 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Midazolam, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "100 mg, 20 mL"
+    },
+    {
+        "medication": "Phenylephrine, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "60 mg, 6 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "100-150 mL, 50 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "4 gm, 4 VIAL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "4 gm, 4 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "4 gm, 2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "2-4 gm, 1-2 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "100 mL, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "50-100 mL, 2 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-09 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-09 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2190-03-09 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "10 mg, 1 AMP"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2190-03-09 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "50 mcg, 1 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Metoclopramide, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1 mg, 1 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1-2 mg, 1-2 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1-2 mg, 0.5-1 SYR"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-04 00:00:00",
+        "dosage": "1 gm, 1 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-04 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-04 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "2-10 mg, 0.5-2.5 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "2-10 mg, 1-5 SYR"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "2-10 mg, 0.2-1 SYR"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2190-03-03 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-04 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-04 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "20 mEq, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-04 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "25 mL, 25 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "AcetaZOLamide Sodium, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-06 00:00:00",
+        "dosage": "250 mg, 250 mg"
+    },
+    {
+        "medication": "Morphine Sulfate, IVPCA",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-07 00:00:00",
+        "dosage": "50 mg, 1 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2190-03-05 00:00:00",
+        "end_time": "2190-03-10 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2190-03-06 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "1250 mg, 2.5 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-06 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IVPCA",
+        "start_time": "2190-03-07 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "50 mg, 1 SYR"
+    },
+    {
+        "medication": "Acyclovir, PO",
+        "start_time": "2190-03-07 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "400 mg, 2 CAP"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2190-03-07 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2190-03-07 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "150 mL, 150 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Phytonadione, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "5 mg, 0.5 AMP"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Acyclovir, PO",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "400 mg, 10 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "Vecuronium Bromide, IV",
+        "start_time": "2190-03-08 00:00:00",
+        "end_time": "2190-03-08 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2190-02-27 00:00:00",
+        "end_time": "2190-02-27 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-02-27 00:00:00",
+        "end_time": "2190-02-28 00:00:00",
+        "dosage": "1 mg, 1 SYR"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2190-02-27 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2190-02-28 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-02-28 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2190-02-28 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "VALTREX, PO",
+        "start_time": "2190-02-28 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Sodium Phosphate, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "15 mmol, 5 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2190-03-01 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "25-100 mcg, 0.5-2 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IVPCA",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "50 mg, 1 SYR"
+    },
+    {
+        "medication": "sodium bicarb, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "50 mEq, 1 SYR"
+    },
+    {
+        "medication": "sodium bicarb, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "100 mEq, 2 SYR"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "25 gm, 1 SYR"
+    },
+    {
+        "medication": "Insulin, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "10 UNIT, 0.1 mL"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PO",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "4.5 g, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Bicarbonate, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "150 mEq, 3 VIAL"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "D10W, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "650 mg, 1 SUPP"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "100-200 mcg, 2-4 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-02 00:00:00",
+        "end_time": "2190-03-05 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Morphine Sulfate, IVPCA",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-02-26 00:00:00",
+        "dosage": "50 mg, 1 SYR"
+    },
+    {
+        "medication": "Metoclopramide, IV",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-02-26 00:00:00",
+        "dosage": "20 mg, 2 VIAL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-02-27 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-02-27 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-02-28 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "Ketorolac, IV",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-03-01 00:00:00",
+        "dosage": "30 mg, 1 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-03-02 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Hydrocodone-Acetaminophen, PO",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Metoclopramide, IV",
+        "start_time": "2190-02-26 00:00:00",
+        "end_time": "2190-03-03 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), PO",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "2-4 mg, 1-2 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "1 BAG, 1 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "2 g, 1 BAG"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-23 00:00:00",
+        "end_time": "2190-03-24 00:00:00",
+        "dosage": "0.25 mg, 0.25 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-25 00:00:00",
+        "end_time": "2190-03-25 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-25 00:00:00",
+        "end_time": "2190-03-26 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2190-03-25 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-26 00:00:00",
+        "end_time": "2190-03-27 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-26 00:00:00",
+        "end_time": "2190-03-28 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-27 00:00:00",
+        "end_time": "2190-03-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-27 00:00:00",
+        "end_time": "2190-03-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-28 00:00:00",
+        "end_time": "2190-03-29 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Aluminum-Magnesium Hydrox.-Simethicone, PO",
+        "start_time": "2190-03-28 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "15-30 mL, 0.5-1 UDCUP"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2190-03-28 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-29 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-29 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-29 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "0.25 mg, 0.25 SYR"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "2.5 mg, 0.01 AMP"
+    },
+    {
+        "medication": "Midazolam, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV BOLUS",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "170 mg, 0.85 VIAL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "10 mg, 2 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "5 mg, 0.05 VIAL"
+    },
+    {
+        "medication": "Labetalol, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "10 mg, 0.1 VIAL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "Acetaminophen, PR",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "650 mg, 1 SUPP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "500 mL, 0.5 BAG"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "15 mg, 3 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "300 mL, 300 mL"
+    },
+    {
+        "medication": "Labetalol, IV DRIP",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "1200 mg, 12 VIAL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "0.5-2 mg, 0.5-2 SYR"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-17 00:00:00",
+        "end_time": "2190-03-20 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Morphine Sulfate, IVPCA",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "50 mg, 1 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "1 mg, 1 SYR"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "25 mg, 1 TAB"
+    },
+    {
+        "medication": "Iso-Osmotic Sodium Chloride, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Prochlorperazine, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "10 mg, 1 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Famotidine, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "20 mg, 1 BAG"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-25 00:00:00",
+        "dosage": "15 mg, 3 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2190-03-18 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "0.5-1 mg, 0.5-1 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IVPCA",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "12.5 mg, 1 SYR"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), PO",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "2-4 mg, 1-2 TAB"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), PO",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "2-4 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-24 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2190-03-19 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-20 00:00:00",
+        "end_time": "2190-03-20 00:00:00",
+        "dosage": "0.5 mg, 0.25 mL"
+    },
+    {
+        "medication": "Quetiapine Fumarate, PO",
+        "start_time": "2190-03-21 00:00:00",
+        "end_time": "2190-03-21 00:00:00",
+        "dosage": "50 mg, 2 TAB"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-21 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Olanzapine (Disintegrating Tablet), PO",
+        "start_time": "2190-03-21 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "60 mEq, 3 TAB"
+    },
+    {
+        "medication": "Famotidine, PO",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-22 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2190-03-22 00:00:00",
+        "end_time": "2190-03-23 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "LR, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "100-150 mL, 50 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "150 mL, 50 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "50-100 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "60 mEq, 3 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "40-60 mEq, 2-3 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-19 00:00:00",
+        "dosage": "20-40 mEq, 1-2 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2190-03-10 00:00:00",
+        "end_time": "2190-03-30 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-11 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-13 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2190-03-11 00:00:00",
+        "end_time": "2190-03-14 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-12 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "4 gm, 4 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-15 00:00:00",
+        "dosage": "4 gm, 4 VIAL"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "2.5 mg, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-16 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "0.5-2 mg, 0.25-1 mL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-17 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Metoprolol Tartrate, IV",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "5 mg, 1 VIAL"
+    },
+    {
+        "medication": "Insulin Human Regular, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "100 UNIT, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV DRIP",
+        "start_time": "2190-03-12 00:00:00",
+        "end_time": "2190-03-18 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2169-03-15 00:49:00",
+        "discharge_time": "2169-03-23",
+        "event_time": "2169-03-18 08:15:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 35.2,C (95.4,   HR: 84 (84 - 133) bpm,   BP: 138/69(85) {108/60(53) - 166/101(119)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2169-3-17**] 02:22 PM,   (still not making much urine, and tachycardic),   - switched abx to CTX, later turns out that they wanted a large dose,   that requires ID approval, so will need that before can get 2gms,   tomorrow.,   - giving IVF boluses with D5bicarb, but urine output bad,   "
+    },
+    {
+        "admit_time": "2169-03-15 00:49:00",
+        "discharge_time": "2169-03-23",
+        "event_time": "2169-03-18 13:32:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 35.8,C (96.5,   HR: 91 (82 - 127) bpm,   BP: 131/75(89) {120/60(76) - 166/101(119)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2169-3-17**] 02:22 PM,   *Abx switched to CTX based on +Cx,   *Received fluid boluses for tachycardia/low uop,   History obtained from Medical records,   "
+    },
+    {
+        "admit_time": "2169-03-15 00:49:00",
+        "discharge_time": "2169-03-23",
+        "event_time": "2169-03-20 10:52:00",
+        "vitals": "Tmax: 36.4,C (97.6,   Tcurrent: 36,C (96.8,   HR: 129 (81 - 131) bpm,   BP: 126/79(91) {108/55(74) - 174/112(124)} mmHg,   ",
+        "events": "24 Hour Events:,   Lopressor increased for rate control.,   History obtained from [**Hospital 19**] Medical records,   "
+    },
+    {
+        "admit_time": "2169-03-15 00:49:00",
+        "discharge_time": "2169-03-23",
+        "event_time": "2169-03-19 14:09:00",
+        "vitals": "Tmax: 36.2,C (97.1,   Tcurrent: 36.1,C (97,   HR: 131 (92 - 131) bpm,   BP: 147/76(95) {105/41(61) - 172/105(126)} mmHg,   ",
+        "events": "24 Hour Events:,   - confirmed w/ ID pt is supposed to be on ctx 2g q24,   - in daytime pt was given metop 5 IV x1 for RVR and put on metop 12.5,   TID,   - throughout night required metop 5 IV x5.,   - UOP is unchanged, contd 10-20 cc/h,   "
+    }
+]

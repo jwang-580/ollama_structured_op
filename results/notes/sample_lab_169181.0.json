@@ -1,0 +1,242 @@
+[
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.49 m/uL",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Calcium, Total, Blood",
+        "lab_value": "8.3 mg/dL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "641.0 IU/L",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.2 mg/dL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "195.0 mg/dL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "54.0 mg/dL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "32.8 %",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "11.2 g/dL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.62 m/uL",
+        "lab_time": "2181-01-04 08:55:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "20.0 mEq/L",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "446.0 IU/L",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.0 mg/dL",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "166.0 mg/dL",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "53.0 mg/dL",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "31.7 %",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "10.5 g/dL",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.52 m/uL",
+        "lab_time": "2181-01-05 07:40:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "217.0 IU/L",
+        "lab_time": "2180-12-18 10:47:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "1.9 mg/dL",
+        "lab_time": "2180-12-18 10:47:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "41.0 mg/dL",
+        "lab_time": "2180-12-18 10:47:00"
+    },
+    {
+        "lab_name": "Albumin, Blood",
+        "lab_value": "3.4 g/dL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Asparate Aminotransferase (AST), Blood",
+        "lab_value": "79.0 IU/L",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "17.0 mEq/L",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "1492.0 IU/L",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Creatine Kinase, MB Isoenzyme, Blood",
+        "lab_value": "15.0 ng/mL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.5 mg/dL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Lactate Dehydrogenase (LD), Blood",
+        "lab_value": "333.0 IU/L",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Potassium, Blood",
+        "lab_value": "5.2 mEq/L",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Troponin T, Blood",
+        "lab_value": "1.51 ng/mL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "56.0 mg/dL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "33.4 %",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "10.9 g/dL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Lymphocytes, Blood",
+        "lab_value": "8.5 %",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Neutrophils, Blood",
+        "lab_value": "87.3 %",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "PTT, Blood",
+        "lab_value": "51.7 sec",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "Red Blood Cells, Blood",
+        "lab_value": "3.68 m/uL",
+        "lab_time": "2181-01-02 11:40:00"
+    },
+    {
+        "lab_name": "D-Dimer, Blood",
+        "lab_value": "1380.0 ng/mL",
+        "lab_time": "2181-01-02 11:57:00"
+    },
+    {
+        "lab_name": "Hyaline Casts, Urine",
+        "lab_value": "nan #/lpf",
+        "lab_time": "2181-01-02 21:06:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "1461.0 IU/L",
+        "lab_time": "2181-01-02 21:43:00"
+    },
+    {
+        "lab_name": "Troponin T, Blood",
+        "lab_value": "1.76 ng/mL",
+        "lab_time": "2181-01-02 21:43:00"
+    },
+    {
+        "lab_name": "Bicarbonate, Blood",
+        "lab_value": "20.0 mEq/L",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Calcium, Total, Blood",
+        "lab_value": "7.7 mg/dL",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Creatine Kinase (CK), Blood",
+        "lab_value": "1454.0 IU/L",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Creatinine, Blood",
+        "lab_value": "2.5 mg/dL",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Glucose, Blood",
+        "lab_value": "44.0 mg/dL",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Urea Nitrogen, Blood",
+        "lab_value": "59.0 mg/dL",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Hematocrit, Blood",
+        "lab_value": "31.1 %",
+        "lab_time": "2181-01-03 03:53:00"
+    },
+    {
+        "lab_name": "Hemoglobin, Blood",
+        "lab_value": "10.2 g/dL",
+        "lab_time": "2181-01-03 03:53:00"
+    }
+]

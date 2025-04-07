@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2146-04-11 03:16:00",
+        "discharge_time": "2146-04-23",
+        "event_time": "2146-04-11 09:27:00",
+        "vitals": "Tmax: 36.3,C (97.3,   Tcurrent: 35.3,C (95.6,   HR: 87 (87 - 113) bpm,   BP: 103/33(50) {80/33(47) - 122/62(72)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2146-4-11**] 01:20 AM,   -Patient with Levophed weaned to off,   -Dapto/ZOsyn continued overnight,   History obtained from [**Hospital 85**] Medical records,   "
+    }
+]

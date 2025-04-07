@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2140-12-04 22:36:00",
+        "discharge_time": "2140-12-14",
+        "event_time": "2140-12-05 07:02:00",
+        "vitals": "Tmax: 36.8,C (98.2,   Tcurrent: 36.4,C (97.6,   HR: 82 (73 - 83) bpm,   BP: 103/55(68) {81/41(52) - 106/64(74)} mmHg,   ",
+        "events": "24 Hour Events:,   - hypotensive with MAPS in 50s,   - IJ placed, levo started with goal MAP > 65,   - INR increased, warfarin dose reduced 2.5 -> 1,   - start azithro tomorrow,   - ECHO for tomorrow,   "
+    },
+    {
+        "admit_time": "2140-12-04 22:36:00",
+        "discharge_time": "2140-12-14",
+        "event_time": "2140-12-08 09:25:00",
+        "vitals": "Tmax: 38.1,C (100.5,   Tcurrent: 37.2,C (98.9,   HR: 105 (89 - 116) bpm,   BP: 96/58(65) {83/47(56) - 136/71(86)} mmHg,   ",
+        "events": "24 Hour Events:,   Remains intubated, mechanically ventilated.,   History obtained from [**Hospital 15**] Medical records,   Patient unable to provide history: ETT,   "
+    },
+    {
+        "admit_time": "2140-12-04 22:36:00",
+        "discharge_time": "2140-12-14",
+        "event_time": "2140-12-06 07:38:00",
+        "vitals": "Tmax: 37.1,C (98.8,   Tcurrent: 37.1,C (98.8,   HR: 86 (75 - 141) bpm,   BP: 85/48(55) {77/29(41) - 134/65(78)} mmHg,   ",
+        "events": "24 Hour Events:,   --Heme onc consulted, no transfer to OMED yet. They want to discuss,   with Path, talk with [** 119**] Onc.,   --CT abd/pelvis/head to finish staging (not ordered yet --> needs to be,   ordered in the am),   --Coumadin stopped, subQ hep started, Zosyn stopped (still on Ceftriax,,   Vanc, Azithro --> if OK tomorrow consider d/c Vanc as well),   --Nursing swallow study --> ok to advance diet,   --AFib with RVR in the pm, rate down to 90s briefly after IVP diltiazem,   however returned to rate of 130-140s AFIB, started on diltiazem drip at,   5mg then increased to10mg/hr then15mg/hr after no effect seen.  Pt,s HR,   slowly trending downward to 80s during shift.,   --[**Last Name (un) **] stim pending,   --Echo normal,   --PM lytes with Cr decreased,   --Hypotense to 70's and given 2L IVF's with maintenance started after,,   then pt c/o SOB --> IVF's stopped, given IV Lasix and nebs with some,   improvement.,   "
+    },
+    {
+        "admit_time": "2140-12-04 22:36:00",
+        "discharge_time": "2140-12-14",
+        "event_time": "2140-12-07 07:18:00",
+        "vitals": "Tmax: 37.7,C (99.9,   Tcurrent: 37.7,C (99.9,   HR: 100 (79 - 124) bpm,   BP: 127/67(80) {96/42(57) - 129/73(85)} mmHg,   ",
+        "events": "24 Hour Events:,   - Heme onc would prefer to have another biopsy as his first biopsy,   final read says \"Although the morphologic and immunophenotypic findings,   are suspicious for small cell lung carcinoma, the radiologic and,   clinical presentation are somewhat unusual. Further workup with,   additional tissue biopsies are recommended.\",   - Interventional pulmonology will do a bronchoscopic biopsy tomorrow.,   - Rad onc recs: after tissue obtained, could get radiation as soon as,   Thursday.,   - CT not done as patient uncomfortable lying flat and requested it be,   put off until tomorrow.,   - In afib with RVR at 4pm, considering Amiodarone,   - heme/onc recs: need tissue.,   - [**Last Name (un) 402**] stim adequate,   - 10am CXR looks fluid overload - put out 1L of urine to 40mg IV lasix,   at 2pm.,   - anticoagulation (for afib) dependent on path results,   - PM coags: INR 2.3. Ordered for two units of FFP for early AM prior to,   going for bronchoscopy.,   "
+    },
+    {
+        "admit_time": "2140-12-04 22:36:00",
+        "discharge_time": "2140-12-14",
+        "event_time": "2140-12-09 07:53:00",
+        "vitals": "Tmax: 37.7,C (99.9,   Tcurrent: 37.2,C (99,   HR: 122 (100 - 133) bpm,   BP: 127/67(76) {94/51(61) - 154/108(111)} mmHg,   ",
+        "events": "24 Hour Events:,   - extubated post XRT,   - mucomyst and mucinex oredered post extubation per IP recs,   - NGT placed,   - CTX was switched to zosyn for anaerobic coverage.,   S: Complains of slight,soreness, in the chest. Dyspnea much improved.,   Continues to have productive cough, no fevers. + mild palpitations,   "
+    }
+]

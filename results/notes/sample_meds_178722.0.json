@@ -1,0 +1,296 @@
+[
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-30 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-30 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "FoLIC Acid, PO/NG",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-30 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-01 00:00:00",
+        "dosage": "58 UNIT, 0.058 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-01 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Heparin Flush (5000 Units/mL), DWELL",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-01 00:00:00",
+        "dosage": "4000-11000 UNIT, 0.8-2.2 mL"
+    },
+    {
+        "medication": "Senna, PO/NG",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine, PO",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "30 mg, 3 CAP"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-28 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-28 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2200-11-28 00:00:00",
+        "end_time": "2200-11-29 00:00:00",
+        "dosage": "650 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO/NG",
+        "start_time": "2200-11-29 00:00:00",
+        "end_time": "2200-11-30 00:00:00",
+        "dosage": "1000 mg, 2 TAB"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO/NG",
+        "start_time": "2200-11-29 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Oxycodone-Acetaminophen, PO/NG",
+        "start_time": "2200-11-29 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "1-2 TAB, 1-2 TAB"
+    },
+    {
+        "medication": "Metoprolol Succinate XL, PO",
+        "start_time": "2200-11-30 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "200 mg, 2 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-12-01 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "62 UNIT, 0.062 VIAL"
+    },
+    {
+        "medication": "Bisacodyl, PR",
+        "start_time": "2200-12-01 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "10 mg, 1 SUPP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-12-01 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2200-12-01 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Lisinopril, PO/NG",
+        "start_time": "2200-12-02 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2200-11-24 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-24 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Multivitamin IV, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "10 mL, 1 VIAL"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "FoLIC Acid, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1 mg, 0.2 mL"
+    },
+    {
+        "medication": "Naloxone, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-25 00:00:00",
+        "dosage": "1 mg, 2.5 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-26 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-26 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Glucagon, IM",
+        "start_time": "2200-11-25 00:00:00",
+        "end_time": "2200-12-02 00:00:00",
+        "dosage": "1 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Polystyrene Sulfonate, PR",
+        "start_time": "2200-11-26 00:00:00",
+        "end_time": "2200-11-26 00:00:00",
+        "dosage": "30 gm, 2 BTL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2200-11-26 00:00:00",
+        "end_time": "2200-11-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Azithromycin , IV",
+        "start_time": "2200-11-26 00:00:00",
+        "end_time": "2200-11-27 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-26 00:00:00",
+        "end_time": "2200-11-27 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Azithromycin , IV",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-27 00:00:00",
+        "dosage": "250 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "58 UNIT, 0.058 VIAL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2200-11-27 00:00:00",
+        "end_time": "2200-11-28 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    }
+]

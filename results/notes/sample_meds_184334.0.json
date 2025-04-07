@@ -1,0 +1,134 @@
+[
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-30 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-30 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Famotidine, PO/NG",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Thiamine, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "100 mg, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "FoLIC Acid, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "1 mg, 0.2 mL"
+    },
+    {
+        "medication": "Multivitamin IV, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "10 mL, 1 VIAL"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Allopurinol, PO/NG",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "300 mg, 1 TAB"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "150 mL, 150 mL"
+    },
+    {
+        "medication": "LaMOTrigine, PO/NG",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "200 mg, 2 TAB"
+    },
+    {
+        "medication": "Acyclovir, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "900 mg, 18 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2197-03-30 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-03-31 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Sodium Chloride Nasal, NU",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "1-2 SPRY, 1-2 SPRY"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2197-03-31 00:00:00",
+        "end_time": "2197-04-01 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    }
+]

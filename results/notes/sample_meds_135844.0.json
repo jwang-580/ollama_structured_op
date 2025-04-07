@@ -1,0 +1,104 @@
+[
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2105-02-22 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Amlodipine, PO/NG",
+        "start_time": "2105-02-22 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2105-02-22 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Zolpidem Tartrate, PO",
+        "start_time": "2105-02-22 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Fluoxetine, PO/NG",
+        "start_time": "2105-02-22 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2105-02-23 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-21 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "PredniSONE, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-21 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Epinephrine 1:1000, SC",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "0.5 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "DiphenhydrAMINE, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "50 mg, 2 UDCUP"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "50 mcg, 1 TAB"
+    },
+    {
+        "medication": "DiphenhydrAMINE, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "50 mg, 2 CAP"
+    },
+    {
+        "medication": "Levothyroxine Sodium, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "100 mcg, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Famotidine, PO/NG",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "20 mg, 1 TAB"
+    },
+    {
+        "medication": "Racepinephrine, IH",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "0.5 mL, 1 NEB"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2105-02-21 00:00:00",
+        "end_time": "2105-02-22 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    }
+]

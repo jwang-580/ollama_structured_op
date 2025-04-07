@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2191-01-22 14:25:00",
+        "discharge_time": "2191-01-23",
+        "event_time": "2191-01-23 07:26:00",
+        "vitals": "Tmax: 36.4,C (97.6,   Tcurrent: 36.3,C (97.4,   HR: 51 (47 - 83) bpm,   BP: 98/52(62) {93/37(57) - 125/61(69)} mmHg,   ",
+        "events": "24 Hour Events:,   -insulin drip stopped.  Put back on home lantus,   -finger sticks 110s-180s during the day,   -Sugar around 480 at 2100.  Gave 8 U regular insulin; glucose 87 this,   am,   -suboxone restarted,   -[**Last Name (un) **] consult will see in AM,   "
+    }
+]

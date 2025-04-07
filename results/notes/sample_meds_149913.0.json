@@ -1,0 +1,122 @@
+[
+    {
+        "medication": "Ciprofloxacin HCl, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-15 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-15 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "400 UNIT, 1 TAB"
+    },
+    {
+        "medication": "Simvastatin, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "20 mg, 2 TAB"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "1250 mg, 1 TAB"
+    },
+    {
+        "medication": "Multivitamins, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Olanzapine, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "5 mg, 2 TAB"
+    },
+    {
+        "medication": "Paroxetine, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "40 mg, 2 TAB"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "1 mL, 0.2 SYR"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2145-05-15 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2145-05-15 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "200 mg, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2145-05-15 00:00:00",
+        "end_time": "2145-05-17 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2145-05-16 00:00:00",
+        "end_time": "2145-05-16 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-15 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2145-05-14 00:00:00",
+        "end_time": "2145-05-15 00:00:00",
+        "dosage": "10 mL, 2 SYR"
+    }
+]

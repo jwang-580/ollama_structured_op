@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2159-10-24 06:45:00",
+        "discharge_time": "2159-10-29",
+        "event_time": "2159-10-24 09:34:00",
+        "vitals": "Tmax: 39.4,C (103,   Tcurrent: 36.6,C (97.8,   HR: 77 (61 - 84) bpm,   BP: 103/49(63) {98/34(50) - 144/63(125)} mmHg,   ",
+        "events": "24 Hour Events:, NASAL SWAB - At [**2159-10-24**] 04:39 AM,   MRSA screen, URINE CULTURE - At [**2159-10-24**] 05:33 AM, FEVER - 103.0,F - [**2159-10-24**] 06:00 AM,   History obtained from [**Hospital 15**] Medical records,   "
+    }
+]

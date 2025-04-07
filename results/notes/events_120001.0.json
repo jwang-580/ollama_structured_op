@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2150-02-26 06:56:00",
+        "discharge_time": "2150-03-02",
+        "event_time": "2150-02-27 11:17:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.8,C (98.3,   HR: 102 (61 - 102) bpm,   BP: 114/70(81) {100/58(68) - 153/99(139)} mmHg,   ",
+        "events": "24 Hour Events:,   Overnight blood sugars elevated again, no gap, restarted fluids and,   ultimately insulin drip,   Insulin drip stopped at 7 am today,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2150-02-26 06:56:00",
+        "discharge_time": "2150-03-02",
+        "event_time": "2150-02-27 07:20:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.8,C (98.3,   HR: 71 (61 - 92) bpm,   BP: 118/87(94) {100/58(68) - 153/99(139)} mmHg,   ",
+        "events": "24 Hour Events:,   - Pt was to be called out to the floor, but in afternoon developed BS,   of 427 at 5pm. Pt was given 14u, and held transfer. At 8pm still 356,   given another 12u. At MN 332, and cancelled call out. At 2am started,   back on insulin gtt (AG 9 at the time). Now at 7am pt's insulin stopped,   w/ bs 99.,   - [**Last Name (un) 72**] rec to start metformin 500 [**Hospital1 **], but w/ pt's liver dz were,   going to discuss w/ [**Last Name (un) 72**], but after 5pm unable to reach them. Will,   discuss today.,   - pt complains of constipation this morning, no bm x4d,   "
+    }
+]

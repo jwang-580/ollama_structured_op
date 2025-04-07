@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2143-02-20 22:53:00",
+        "discharge_time": "2143-02-28",
+        "event_time": "2143-02-22 07:45:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.9,C (98.4,   HR: 66 (54 - 68) bpm,   BP: 138/63(80) {76/27(45) - 143/66(81)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - START [**2143-2-21**] 08:00 AM,   - started on hypertonic saline,   - was hypotensive in a.m. to SBP 80s, pulse 60.  Responded to 1L NS.,   Had three subsequent episodes of hypotension and was fluid responsive.,   However, urine osmoles still high and urine sodium low.  Talked to,   renal and outcome of boluses and urine lytes was that patient was in,   fact likely hypovolemic, as his pressures finally improved and urine,   osmolality fell, with a concurrent rise in serum sodium, after adequate,   volume ressucitation.,   - podiatry: Multipodus boots, unlikely to be infected, cont vanc,   pending cx data, will staff in a.m.,   - stopped hypertonic saline in a.m. to slow correction rate per surgery,   - put patient in for ECHO,   "
+    },
+    {
+        "admit_time": "2143-02-20 22:53:00",
+        "discharge_time": "2143-02-28",
+        "event_time": "2143-02-24 09:28:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 36.2,C (97.2,   HR: 86 (68 - 135) bpm,   BP: 141/65(82) {112/59(76) - 156/94(152)} mmHg,   ",
+        "events": "24 Hour Events:, PICC LINE - STOP [**2143-2-23**] 11:02 AM,   Overnight agitation with delusions of water pouring off the ceiling,   Afib at 130's overnight: converted with IV and po metoprolol,   "
+    },
+    {
+        "admit_time": "2143-02-20 22:53:00",
+        "discharge_time": "2143-02-28",
+        "event_time": "2143-02-21 09:21:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.7,C (98,   HR: 62 (58 - 70) bpm,   BP: 125/59(75) {112/44(60) - 148/101(110)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2143-2-21**] 06:20 AM,   Pt decline placement of central line yesterday so hypertonic  saline,   could not be started.  He was given salt tabs.  PICC line was placed,   this morning.,   History obtained from [**Hospital 31**] Medical records,   "
+    },
+    {
+        "admit_time": "2143-02-20 22:53:00",
+        "discharge_time": "2143-02-28",
+        "event_time": "2143-02-21 07:59:00",
+        "vitals": "Tmax: 37.1,C (98.7,   Tcurrent: 36.7,C (98,   HR: 62 (58 - 70) bpm,   BP: 125/59(75) {112/44(60) - 148/101(110)} mmHg,   ",
+        "events": "24 Hour Events:, EKG - At [**2143-2-21**] 06:20 AM,   Quiet night- pt slept well.,   History obtained from Patient,   "
+    }
+]

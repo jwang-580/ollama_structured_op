@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2101-02-22 07:50:00",
+        "discharge_time": "2101-02-26",
+        "event_time": "2101-02-22 08:55:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 37.7,C (99.8,   HR: 61 (61 - 72) bpm,   BP: 100/32(49) {95/29(49) - 120/47(60)} mmHg,   ",
+        "events": "24 Hour Events:,   [**2-21**]: 2 positive blood cxs: Anaerobic bottle GNR G+R, aerobic GNR,   "
+    },
+    {
+        "admit_time": "2101-02-22 07:50:00",
+        "discharge_time": "2101-02-26",
+        "event_time": "2101-02-23 07:17:00",
+        "vitals": "Tmax: 38.5,C (101.3,   Tcurrent: 38.5,C (101.3,   HR: 69 (61 - 115) bpm,   BP: 104/49(62) {100/30(49) - 157/67(79)} mmHg,   ",
+        "events": "24 Hour Events:, BLOOD CULTURED - At [**2101-2-22**] 11:30 AM, BLOOD CULTURED - At [**2101-2-22**] 01:47 PM, FEVER - 101.3,F - [**2101-2-23**] 04:00 AM,   .,   - Several 8-9 beat runs of v tach and complaining of significant back,   pain. V tach and pain improved significantly after 1 mg morphine and,   Magnesium repletion,   - Will need cantonese interpreter for ICU consent,   - Request for PICC submitted,   - Positive blood culture speciation still pending,   - Surgery recommended getting CT with gastrograffin to evaluate for,   rectovesicular fistula (has been ordered),   - Spiked temp 101.3 overnight,   "
+    }
+]

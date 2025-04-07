@@ -1,0 +1,542 @@
+[
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "25-50 mcg, 0.5-1 mL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Heparin Flush (10 units/ml), IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "2 mL, 0.4 SYR"
+    },
+    {
+        "medication": "Neutra-Phos, PO/NG",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "2 PKT, 2 PKT"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "50 mL, 1 BAG"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "25-50 mcg, 0.5-1 mL"
+    },
+    {
+        "medication": "Magnesium Sulfate, IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "2 gm, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride (Powder), NG",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2127-12-27 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "25 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "Phenytoin (Suspension), PO/NG",
+        "start_time": "2127-12-28 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Enoxaparin Sodium, SC",
+        "start_time": "2127-12-28 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "90 mg, 0.9 SYR"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2127-12-28 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride (Powder), PO/NG",
+        "start_time": "2127-12-28 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Metoprolol Tartrate, PO/NG",
+        "start_time": "2127-12-28 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Albuterol-Ipratropium, IH",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "4 PUFF, 0.04 CAN"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "40 UNIT, 0.04 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Sotalol, PO",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Lansoprazole Oral Disintegrating Tab, PO/NG",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Glucagon, IM",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "1 mg, 1 VIAL"
+    },
+    {
+        "medication": "Dextrose 50%, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "12.5 gm, 0.5 SYR"
+    },
+    {
+        "medication": "Calcium Carbonate, PO/NG",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "60 mEq, 3 TAB"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "1 BAG, 1 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "100 mL, 50 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Fosphenytoin, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "1500 mg PE, 15 VIAL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "1 g, 0.5 BAG"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Artificial Tears, BOTH EYES",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "1-2 DROP, 0.1667-0.3333 DRP"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Artificial Tear Ointment, BOTH EYES",
+        "start_time": "2127-12-24 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "1 Appl, 0.0333 TUBE"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Norepinephrine, IV DRIP",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "8 mg, 2 AMP"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Fosphenytoin, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "150 mg PE, 1.5 VIAL"
+    },
+    {
+        "medication": "Docusate Sodium (Liquid), PO/NG",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "100 mg, 1 UDCUP"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-12-25 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "50 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "40 mEq, 2 TAB"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "100 mL, 50 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "SW, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "100 mL, 50 mL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "40 mEq, 2 BAG"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "10 mg, 0.25 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "50 mcg, 1 mL"
+    },
+    {
+        "medication": "Furosemide, IV",
+        "start_time": "2127-12-26 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Heparin, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-23 00:00:00",
+        "dosage": "800-1600 UNIT, 0.16-0.32 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-23 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Vasopressin, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-23 00:00:00",
+        "dosage": "40 UNIT, 2 mL"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-23 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-23 00:00:00",
+        "dosage": "40 UNIT, 2 mL"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "4.5 gm, 1 VIAL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "0.9% Sodium Chloride (Mini Bag Plus), IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-24 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Fentanyl Patch, TP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-25 00:00:00",
+        "dosage": "50 mcg/hr, 1 PTCH"
+    },
+    {
+        "medication": "Ezetimibe, PO",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "Lorazepam, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "1 mg, 0.5 mL"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-26 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Vasopressin, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "40 UNIT, 2 mL"
+    },
+    {
+        "medication": "Heparin Sodium, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "25,000 UNIT, 1 BAG"
+    },
+    {
+        "medication": "5% Dextrose, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "200 mg, 1 VIAL"
+    },
+    {
+        "medication": "Propofol, IV DRIP",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "1000 mg, 1 VIAL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-27 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2127-12-23 00:00:00",
+        "end_time": "2127-12-28 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    }
+]

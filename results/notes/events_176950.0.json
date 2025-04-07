@@ -1,0 +1,23 @@
+[
+    {
+        "admit_time": "2143-02-04 11:50:00",
+        "discharge_time": "2143-02-11",
+        "event_time": "2143-02-05 06:45:00",
+        "vitals": "Tmax: 36.7,C (98.1,   Tcurrent: 35.4,C (95.7,   HR: 71 (58 - 104) bpm,   BP: 96/42(68) {77/42(60) - 125/76(88)} mmHg,   ",
+        "events": "24 Hour Events:, ARTERIAL LINE - START [**2143-2-4**] 08:00 AM,   Arctic Sun cooling protocol completed at 3am, re-warming started.,   Started Vanc / Levo / Flagyl for broad antibiotic coverage of likely,   aspiration pneumonia,   Started Lidocaine infusion for episodes of NSVT,   Continued Dopamine for hypotension,   Heparin gtt continued for IABP,   Insulin gtt started for hyperglycemia,   "
+    },
+    {
+        "admit_time": "2143-02-04 11:50:00",
+        "discharge_time": "2143-02-11",
+        "event_time": "2143-02-08 06:28:00",
+        "vitals": "Tmax: 36.9,C (98.4,   Tcurrent: 36.8,C (98.2,   HR: 94 (76 - 94) bpm,   BP: 122/62(82) {122/62(82) - 172/88(107)} mmHg,   ",
+        "events": "24 Hour Events:,   Changed Carvedilol to Lopressor, uptitrated dose,   Uptitrated dose of Lisinopril, given captopril overnight for,   hypertension,   Memory improving,   I/O -900cc yesterday,   "
+    },
+    {
+        "admit_time": "2143-02-04 11:50:00",
+        "discharge_time": "2143-02-11",
+        "event_time": "2143-02-06 07:08:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37,C (98.6,   HR: 85 (75 - 102) bpm,   BP: 125/59(78) {88/47(62) - 147/85(99)} mmHg,   ",
+        "events": "24 Hour Events:,   - balloon pump was d/c'ed; heparin was restarted 6 hours after balloon,   pump was pulled for apical hypokinesis; warfarin was started,   - vancomycin was d/c'ed,   "
+    }
+]

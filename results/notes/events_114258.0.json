@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2194-08-17 02:31:00",
+        "discharge_time": "2194-08-19",
+        "event_time": "2194-08-18 07:43:00",
+        "vitals": "Tmax: 39,C (102.2,   Tcurrent: 36.7,C (98,   HR: 74 (62 - 113) bpm,   BP: 110/72(82) {95/56(65) - 128/80(93)} mmHg,   ",
+        "events": "24 Hour Events:, INVASIVE VENTILATION - STOP [**2194-8-17**] 01:43 PM, BLOOD CULTURED - At [**2194-8-18**] 05:37 AM, URINE CULTURE - At [**2194-8-18**] 05:38 AM, FEVER - 102.2,F - [**2194-8-17**] 10:00 PM,   -updated mother, consent signed,   -toxicology, psych to see tomorrow,   -extubated,   -pt. wanted to leave AMA and agreed to stay after discussion,   -Ativan prn started prn for w/d,   -final head CT NL,   -Crypto final negative,   -spike fever, pan-cultured, given Tylenol and Ativan, fevers decreased,   -CKs continue to be elevated-> given 2L NS o/n,   "
+    }
+]

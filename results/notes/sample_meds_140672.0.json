@@ -1,0 +1,572 @@
+[
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-26 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-26 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-26 00:00:00",
+        "dosage": "80 mg, 2 VIAL"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-27 00:00:00",
+        "dosage": "500 mg, 2 TAB"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-27 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-27 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "60 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Gabapentin, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Fluoxetine, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Azithromycin, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "traZODONE, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "50 UNIT, 0.5 mL"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Benzonatate, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Guaifenesin-CODEINE Phosphate, PO",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "5-10 mL, 1-2 UDCUP"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "30 UNIT, 0.3 mL"
+    },
+    {
+        "medication": "Nicotine Patch, TD",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "21 mg, 1 PTCH"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2171-08-26 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2171-08-27 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2171-08-27 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Milk of Magnesia, PO",
+        "start_time": "2171-08-27 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2171-08-27 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Ipratropium Bromide Neb, IH",
+        "start_time": "2171-08-27 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "HYDROmorphone (Dilaudid), IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "0.25 mg, 0.25 SYR"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Lactulose, PO",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "30 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Benzocaine 20% Spray, TP",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "1 SPRY, 0.1 CAN"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Lidocaine Jelly 2%, TP",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "1 Appl, 1 TUBE"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "2 mg, 1 SYR"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "D5 1/2NS, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "1000 mL, 1 mL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Morphine Sulfate, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-28 00:00:00",
+        "dosage": "2-4 mg, 1-2 SYR"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2171-09-03 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "40-80 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-09-03 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "12 UNIT, 0.12 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-09-03 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "7 UNIT, 0.07 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-09-03 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Azithromycin , IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "250 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "30 UNIT, 0.3 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Ciprofloxacin IV, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "400 mg, 1 BAG"
+    },
+    {
+        "medication": "Fentanyl Citrate, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "50 mcg, 1 mL"
+    },
+    {
+        "medication": "D5W, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "50 UNIT, 0.5 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "500 mg, 1 BAG"
+    },
+    {
+        "medication": "Pantoprazole Sodium, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "40 mg, 1 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "1/2 NS, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "1000 mL, 1000 mL"
+    },
+    {
+        "medication": "Vial, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Ondansetron, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "4 mg, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2171-08-28 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Potassium Chloride, PO",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "20 mEq, 10 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-29 00:00:00",
+        "dosage": "250 mL, 250 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Calcium Gluconate, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "2 gm, 2 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-08-30 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "Potassium Chl 20 mEq / 1000 mL D5 1/2 NS, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "MethylPREDNISolone Sodium Succ, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-01 00:00:00",
+        "dosage": "20 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "10 UNIT, 0.1 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "5 UNIT, 0.05 mL"
+    },
+    {
+        "medication": "Insulin, SC",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "0 UNIT, 0 VIAL"
+    },
+    {
+        "medication": "Levofloxacin, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "750 mg, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Dextrose 5%, IV",
+        "start_time": "2171-08-29 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "150 mL, 1 BAG"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-30 00:00:00",
+        "end_time": "2171-08-31 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-30 00:00:00",
+        "end_time": "2171-08-31 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "HydrALAzine, IV",
+        "start_time": "2171-08-30 00:00:00",
+        "end_time": "2171-08-31 00:00:00",
+        "dosage": "10 mg, 0.5 VIAL"
+    },
+    {
+        "medication": "Lorazepam, PO",
+        "start_time": "2171-08-31 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Senna, PO",
+        "start_time": "2171-08-31 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "Bisacodyl, PO",
+        "start_time": "2171-08-31 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "10 mg, 2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2171-08-31 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Omeprazole, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "50 mg, 1 TAB"
+    },
+    {
+        "medication": "NIFEdipine CR, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "90 mg, 1 TAB"
+    },
+    {
+        "medication": "Fluticasone-Salmeterol (250/50) , IH",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "1 INH, 0.0357 DEV"
+    },
+    {
+        "medication": "Atorvastatin, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "80 mg, 1 TAB"
+    },
+    {
+        "medication": "Fluoxetine, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "20 mg, 1 CAP"
+    },
+    {
+        "medication": "Gabapentin, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "traZODONE, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Aspirin, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2171-09-01 00:00:00",
+        "end_time": "2171-09-03 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-19 00:00:00",
+        "dosage": "1250 mg, 1 TAB"
+    },
+    {
+        "medication": "NS (Mini Bag Plus), IV",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-20 00:00:00",
+        "dosage": "100 mL, 1 BAG"
+    },
+    {
+        "medication": "Meropenem, IV",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-20 00:00:00",
+        "dosage": "500 mg, 1 VIAL"
+    },
+    {
+        "medication": "Paroxetine, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "PredniSONE, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "15 mg, 3 TAB"
+    },
+    {
+        "medication": "Quetiapine Fumarate, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "12.5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Simethicone, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "40-80 mg, 0.5-1 TAB"
+    },
+    {
+        "medication": "Tiotropium Bromide, IH",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 CAP, 1 CAP"
+    },
+    {
+        "medication": "Vitamin D, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "400 UNIT, 1 TAB"
+    },
+    {
+        "medication": "MetRONIDAZOLE (FLagyl), PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Acetaminophen (Liquid), PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "650 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Albuterol 0.083% Neb Soln, IH",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 NEB, 1 VIAL"
+    },
+    {
+        "medication": "Clonazepam, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "0.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Loperamide, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "2 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Metoclopramide, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "5 mg, 0.5 TAB"
+    },
+    {
+        "medication": "Calcium Carbonate, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1250 mg, 1 UDCUP"
+    },
+    {
+        "medication": "Chlorhexidine Gluconate 0.12% Oral Rinse, ORAL",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "15 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Alteplase (Catheter Clearance), IV",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "2 mg, 2 SYR"
+    },
+    {
+        "medication": "Sodium CITRATE 4%, DWELL",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "3 mL, 1 SYR"
+    },
+    {
+        "medication": "Vial, SC",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 VIAL, 1 VIAL"
+    },
+    {
+        "medication": "Nystatin Oral Suspension, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "5 mL, 1 UDCUP"
+    },
+    {
+        "medication": "Lansoprazole Oral Disintegrating Tab, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "30 mg, 1 TAB"
+    },
+    {
+        "medication": "Lisinopril, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Miconazole Powder 2%, TP",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 Appl, 1 BTL"
+    },
+    {
+        "medication": "Labetalol, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "400 mg, 2 TAB"
+    },
+    {
+        "medication": "Isosorbide Dinitrate, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "60 mg, 3 TAB"
+    },
+    {
+        "medication": "Epoetin Alfa, SC",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "4000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Pneumococcal Vac Polyvalent, IM",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "0.5 mL, 1 VIAL"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Ferrous Sulfate, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "325 mg, 1 TAB"
+    },
+    {
+        "medication": "FoLIC Acid, PO",
+        "start_time": "2135-04-20 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 mg, 1 TAB"
+    },
+    {
+        "medication": "Albuterol Inhaler, IH",
+        "start_time": "2135-04-21 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "2-4 PUFF, 0.01-0.02 INH"
+    },
+    {
+        "medication": "Warfarin, PO",
+        "start_time": "2135-04-21 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "2.5 mg, 1 TAB"
+    },
+    {
+        "medication": "Clonidine Patch 0.3 mg/24 hr, TD",
+        "start_time": "2135-04-22 00:00:00",
+        "end_time": "2135-04-21 00:00:00",
+        "dosage": "1 PTCH, 1 PTCH"
+    }
+]

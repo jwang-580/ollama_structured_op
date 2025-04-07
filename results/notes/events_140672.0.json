@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2171-08-28 17:16:00",
+        "discharge_time": "2171-09-03",
+        "event_time": "2171-08-29 10:41:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.5,C (99.5,   HR: 97 (78 - 98) bpm,   BP: 158/60(85) {118/43(65) - 177/72(99)} mmHg,   ",
+        "events": "24 Hour Events:, COLONOSCOPY - At [**2171-8-28**] 05:30 PM,   Tolerated colonoscopy without complications. Rectal tube left in place.,   Overnight, serial exams were reassuring.,   Feels substantially improved this morning.,   History obtained from [**Hospital 85**] Medical records, ICU team,   "
+    },
+    {
+        "admit_time": "2171-08-28 17:16:00",
+        "discharge_time": "2171-09-03",
+        "event_time": "2171-08-29 06:04:00",
+        "vitals": "Tmax: 37.2,C (98.9,   Tcurrent: 37.2,C (98.9,   HR: 79 (78 - 98) bpm,   BP: 142/60(82) {118/43(65) - 177/72(99)} mmHg,   ",
+        "events": "24 Hour Events:,   -transferred from the floor [**1-26**] progressive abd distention, CT findings, COLONOSCOPY - At [**2171-8-28**] 05:30 PM,   -tube place through colonic stricture to drain stool and decompress,   bowel,   -repleted K, Ca,   -spoke to surgery re: eval for transfer to floor vs need for surgical,   intervention,   "
+    }
+]

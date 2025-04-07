@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2124-07-09 04:22:00",
+        "discharge_time": "2124-07-24",
+        "event_time": "2124-07-11 06:59:00",
+        "vitals": "Tmax: 37.7,C (99.9,   Tcurrent: 37.6,C (99.7,   HR: 119 (101 - 137) bpm,   BP: 116/78(91) {89/56(67) - 116/78(91)} mmHg,   ",
+        "events": "24 Hour Events:,   - Weaned off of dopamine at 11:30am; patient converted to sinus rhythm,   with first degree AV block,   - Plan to call EP consult on [**2124-7-11**] if reverts to atrial flutter,   - Diuril 500mg IV x1 with good diuresis,   - Started on Protonix 40mg IV daily as NPO,   - I/O (2pm):  -30cc, with excellent urine output (had not yet received,   Diuril),   - Aspirin discontinued as no evidence of CAD and guaiac positive NG,   output,   - Amiodarone renewed (as of 6pm, has received 900mg total),   - 3pm:  Creatinine stable; potassium repleted; given slow hct drop and,   guaiac positive OG output, did OG lavage - negative,   - Abdominal radiograph to assess OGT positioning (advanced) -,   appropriate,   - 11pm (checked given aggressive diuresis):  Potassium 3.4, repleted,   with KCl 40meq IV x1; Mg 3.1; ionized calcium 1.05, repleted with,   calcium gluconate 2g IV x1,   - Hemodynamic trends:  CO decreasing, HR stable, so likely SV,   decreasing; in terms of SV, preload still high, afterload similar,,   likely contractility reduced (due to stopping dopamine this morning);,   MVO2 slightly down (60), lactate slightly up (1.8),   - I/O (11:30pm):  -2L; Given this and rising lactate and MVO2, Lasix,   gtt rate decreased,   "
+    },
+    {
+        "admit_time": "2124-07-09 04:22:00",
+        "discharge_time": "2124-07-24",
+        "event_time": "2124-07-12 07:40:00",
+        "vitals": "Tmax: 37.9,C (100.2,   Tcurrent: 37.2,C (99,   HR: 113 (86 - 121) bpm,   BP: 97/76(87) {77/54(70) - 116/80(93)} mmHg,   ",
+        "events": "24 Hour Events:,   - Given diuril bolus in AM with lasix gtt, had good UOP response.,   - Started Aspirin full strength,   - CHF consult - Dr. [**First Name (STitle) **] requested C. Cath to eval for CAD. Concern,   for ischemic cardiomyopathy.,   - [**First Name (STitle) **] - Mild [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]. LV wall thicknesses normal. LV mildly dilated.,   There is severe global left ventricular hypokinesis (LVEF = 20-25 %).,   Restrictive left ventricular filling pattern suggestive of severe,   diastolic dysfunction. RV is dilated with moderate global free wall,   hypokinesis. Normal aortic valve. 3 + MR. [**First Name (Titles) **] [**Last Name (Titles) **] htn.,   - C. Cath - Clean Coronaries. IABP placed. Heparin restarted.,   - Work up started for cardiomyopathy. C. Cath as above. Also added,   Ferritin, [**Doctor First Name **], ESR, RF, SPEP and UPEP,   - I/O - Neg. 2.5 L at 1800,   - CI 1.9 pre-IABP. 2.1 post IABP. Mixed venous sat 57 >61 >67 > 63,   - ABG was slightly worse with CO2 at 60,   - possible contraction alkalosys on electrolytes this AM, possibly,   overdiuresis,   - [**MD Number(3) 6251**] at 63% this AM (down from 67% late last PM),   - Carotid massage during cath suggested sinus tachycardia more likely,   than atrial tachycardia,   "
+    },
+    {
+        "admit_time": "2124-07-09 04:22:00",
+        "discharge_time": "2124-07-24",
+        "event_time": "2124-07-18 06:54:00",
+        "vitals": "Tmax: 37.5,C (99.5,   Tcurrent: 37.1,C (98.8,   HR: 70 (68 - 77) bpm,   BP: 105/62(79) {86/54(71) - 125/82(104)} mmHg,   ",
+        "events": "24 Hour Events:,   - Increased Captopril to 50 mg TID.,   - appears approx. euvolemic; I/0 goal 0 - negative 500. + 1 L at 1700.,   Gave lasix 40 mg IV x1.,   - Fick Numbers CI/CO/SVR 5/2.1/839 > 4.3/1.8/1240 > 8.2/3.4/703,   - Patient approximately 6400 mg into amiodarone load as of MN [**7-18**],   - C diff returned positive 0530 - Started flagyl,   "
+    },
+    {
+        "admit_time": "2124-07-09 04:22:00",
+        "discharge_time": "2124-07-24",
+        "event_time": "2124-07-19 07:27:00",
+        "vitals": "Tmax: 37.8,C (100,   Tcurrent: 37.1,C (98.8,   HR: 75 (68 - 79) bpm,   BP: 101/67(84) {86/58(73) - 115/72(88)} mmHg,   ",
+        "events": "24 Hour Events:,   -Ficks 1:2 6am 5.3/2.2/1010-->9am6.5/2.7/880-->1:4 4.5/1.9/1247-->8pm,   1:2 4.1/1.7/1208---> 6am 1:2 5.1/2.1/1186,   -Dr. [**First Name (STitle) **] saw pt this afternoon and rec tolerating CI 1.5-2,   -Notably pt was mentating a little slowly when CI 1.4 but improved when,   CI increased to 1.7,   -Feet cool though no e/o emboli. Pt not in pain.,   -Increased captopril to 62.5 mg TID and then to 100mg TID,   -11pm I/O check:-735 cc,   -A line came out this am,   -Repleted Mg and Phos this am, ARTERIAL LINE - STOP [**2124-7-19**] 04:00 AM,   "
+    },
+    {
+        "admit_time": "2124-07-09 04:22:00",
+        "discharge_time": "2124-07-24",
+        "event_time": "2124-07-20 07:29:00",
+        "vitals": "Tmax: 37.3,C (99.1,   Tcurrent: 37,C (98.6,   HR: 84 (72 - 101) bpm,   BP: 99/40(55) {88/40(55) - 129/87(92)} mmHg,   ",
+        "events": "24 Hour Events:, PA CATHETER - STOP [**2124-7-19**] 04:30 PM, CORDIS/INTRODUCER - STOP [**2124-7-19**] 04:30 PM, IABP LINE - STOP [**2124-7-19**] 05:15 PM, MULTI LUMEN - START [**2124-7-19**] 05:34 PM,   [**2124-7-19**]:,   Ficks: 1:2 6am 5.1/2/1/1186 --> 1:4 11am 5.6/2.6/1113,   Removed balloon pump at 6:49pm,   Swan removed and CVL line placed over wire LIJ, CXR OK,   I/O check -139cc at 11pm,   2300 noted to have cyanotic/painful/cold toes b/l. +dopplers.,   Restarted heparin gtt,   Vascular consulted, nothing new. Cont to monitor given +dopplers,   "
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "admit_time": "2115-09-20 16:17:00",
+        "discharge_time": "2115-09-26",
+        "event_time": "2115-09-21 09:01:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 29.1,C (84.3,   HR: 53 (47 - 73) bpm,   BP: 168/62(88) {118/42(66) - 179/86(88)} mmHg,   ",
+        "events": "24 Hour Events:, ANGIOGRAPHY - At [**2115-9-20**] 05:30 PM:  no active bleeding,   Tagged RBC study shows blushing at hepatic flexure.,   Received IVF with bicarb, mucomyst prior to dye load.,   Transfused total 7 u pRBCs, 2 u FFP, INR 1.3,   Hct nadir 19.2, this am 28,   History obtained from Patient,   "
+    },
+    {
+        "admit_time": "2115-09-20 16:17:00",
+        "discharge_time": "2115-09-26",
+        "event_time": "2115-09-21 08:06:00",
+        "vitals": "Tmax: 37,C (98.6,   Tcurrent: 36.9,C (98.4,   HR: 53 (47 - 73) bpm,   BP: 165/54(84) {118/42(66) - 179/86(87)} mmHg,   ",
+        "events": "24 Hour Events:,   -got tagged RBC; blush was positive in the RUQ near the hepatic flexure,   (site of polypectomy within last week); went to angio and angiography,   was negative for bleeding site; no intervention. GI is following;,   decided to bowel prep and go for colonoscopy during the night.,   -repeat HCT was 19 - >23.5 -> 28 this AM:  transfused a total of 3 [**Location **] O/N.  Put out 300 ccs of blood in bowel movements around midnight,   -family updated on plan,   3 units of pBRCs,   "
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "admit_time": "2201-10-14 04:23:00",
+        "discharge_time": "2201-10-27",
+        "event_time": "2201-10-20 07:18:00",
+        "vitals": "Tmax: 37.6,C (99.6,   Tcurrent: 37.4,C (99.4,   HR: 67 (58 - 85) bpm,   BP: 108/53(69) {83/40(54) - 138/74(95)} mmHg,   ",
+        "events": "24 Hour Events:,   - off pressors,   - having lots of diarrhea, nursing placed flexi-seal C.Diff sent (not,   logged),   "
+    },
+    {
+        "admit_time": "2201-10-14 04:23:00",
+        "discharge_time": "2201-10-27",
+        "event_time": "2201-10-21 07:16:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 37.6,C (99.6,   HR: 65 (64 - 83) bpm,   BP: 100/45(62) {83/37(54) - 126/64(81)} mmHg,   ",
+        "events": "24 Hour Events:,   - trach and peg placed,   - no events, stable on trach,   - C. Diff negative.,   "
+    },
+    {
+        "admit_time": "2201-10-14 04:23:00",
+        "discharge_time": "2201-10-27",
+        "event_time": "2201-10-15 07:19:00",
+        "vitals": "Tmax: 37.4,C (99.4,   Tcurrent: 37.4,C (99.4,   HR: 98 (84 - 108) bpm,   BP: 105/48(65) {72/40(50) - 149/63(86)} mmHg,   ",
+        "events": "24 Hour Events:,   - pulm c/s: patient appears dry, give fluids, will bronch tomorrow AM,,   if still in resp failure after euvolemia is achieved, consider inhaled,   nitric oxide to reduce pulm pressures,   - OSH records: sputum cx grew out MRSA, per ID curbside patient must be,   on vanc or linezolid x 3 weeks, started on vanc,   - failed PS trial [**1-5**] tachypnea,   - PCP [**Name Initial (PRE) **]: PFTs last performed [**11-10**], revealed FVC 1.47L, FEV1,   0.87L, ratio 0.59, no response to broncholdilators.  Severe restrictive,   ventilatory impairment.  Chronic respiratory acidosis with compensation,   at baseline with ABG 7.35/66/87, 96% 1.5L NC.  Dry weight noted as 185,   in [**2-9**].,   - RIJ central line placed, L subclavian pulled,   - gave 3L total NS, after each liter patient's tachycardia improved,,   urine output improved, pressor requirement decreased,   "
+    },
+    {
+        "admit_time": "2201-10-14 04:23:00",
+        "discharge_time": "2201-10-27",
+        "event_time": "2201-10-25 07:33:00",
+        "vitals": "Tmax: 37.7,C (99.8,   Tcurrent: 37.3,C (99.1,   HR: 70 (65 - 81) bpm,   BP: 109/53(67) {102/40(56) - 129/69(81)} mmHg,   ",
+        "events": "24 Hour Events:,   CPAP still [**9-7**].,   spent some time out of bed to chair.,   "
+    }
+]

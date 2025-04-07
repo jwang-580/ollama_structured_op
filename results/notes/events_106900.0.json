@@ -1,0 +1,37 @@
+[
+    {
+        "admit_time": "2101-05-22 23:37:00",
+        "discharge_time": "2101-05-29",
+        "event_time": "2101-05-23 07:05:00",
+        "vitals": "Tmax: 39.2,C (102.6,   Tcurrent: 37.6,C (99.7,   HR: 98 (90 - 124) bpm,   BP: 131/70(93) {89/54(0) - 180/79(328)} mmHg,   ",
+        "events": "24 Hour Events:, PRESEP CATHETER - START [**2101-5-22**] 07:00 PM,   started in ew, BLOOD CULTURED - At [**2101-5-22**] 08:15 PM, EKG - At [**2101-5-23**] 12:00 AM, ARTERIAL LINE - START [**2101-5-23**] 01:00 AM, FEVER - 102.6,F - [**2101-5-22**] 06:51 PM,   History obtained from Family / Friend,   [**Name (NI) 53**] unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2101-05-22 23:37:00",
+        "discharge_time": "2101-05-29",
+        "event_time": "2101-05-23 09:32:00",
+        "vitals": "Tmax: 39.2,C (102.6,   Tcurrent: 37.6,C (99.7,   HR: 98 (90 - 124) bpm,   BP: 131/70(93) {89/54(0) - 180/79(328)} mmHg,   ",
+        "events": "24 Hour Events:, PRESEP CATHETER - START [**2101-5-22**] 07:00 PM,   started in ew, BLOOD CULTURED - At [**2101-5-22**] 08:15 PM, EKG - At [**2101-5-23**] 12:00 AM, ARTERIAL LINE - START [**2101-5-23**] 01:00 AM, FEVER - 102.6,F - [**2101-5-22**] 06:51 PM,   Weaned off levophed overnight.,   Total in 10L, 1L out.,   Patient unable to provide history: Sedated,   "
+    },
+    {
+        "admit_time": "2101-05-22 23:37:00",
+        "discharge_time": "2101-05-29",
+        "event_time": "2101-05-26 07:55:00",
+        "vitals": "Tmax: 39.2,C (102.6,   Tcurrent: 37.1,C (98.8,   HR: 89 (85 - 102) bpm,   BP: 111/87(97) {84/52(64) - 171/106(119)} mmHg,   ",
+        "events": "24 Hour Events:,   FEVER - 102.6,F - [**2101-5-25**] 06:00 PM,   Growing citrobacter out of [**3-11**] blood cx bottles.,   Repeat urine culture no growth final,   Lytes stable,   Placed new L IJ as ? of leak at site of R subclavian,   SBT in AM on 0/0,   Continued diuresis- negative 1.7 L,   "
+    },
+    {
+        "admit_time": "2101-05-22 23:37:00",
+        "discharge_time": "2101-05-29",
+        "event_time": "2101-05-27 07:19:00",
+        "vitals": "Tmax: 37.8,C (100.1,   Tcurrent: 37.1,C (98.7,   HR: 93 (89 - 111) bpm,   BP: 161/67(90) {133/54(74) - 174/80(101)} mmHg,   ",
+        "events": "24 Hour Events:,   Pt had ARTERIAL LINE placed on  [**2101-5-26**]. Mental status persistently,   altered. On T piece until evening- then switched to PS of [**4-11**]. Pt with,   significantly improved mental status this afternoon. Pt awakened and,   responded to verbal stimuli, following commands. Her tube feeds were,   discontinued and the patient tolerated extubation well.,   "
+    },
+    {
+        "admit_time": "2101-05-22 23:37:00",
+        "discharge_time": "2101-05-29",
+        "event_time": "2101-05-28 10:40:00",
+        "vitals": "Tmax: 37.8,C (100.1,   Tcurrent: 37.4,C (99.4,   HR: 100 (92 - 115) bpm,   BP: 170/74(97) {146/53(78) - 170/79(139)} mmHg,   ",
+        "events": "24 Hour Events:,   Yesterday afternoon, mental status dramatically cleared and she was,   extubated successfully.  Interval history provided by the patient is,   that she had been experiencing back pain/dysuria for several days,   leading up to this admission., INVASIVE VENTILATION - START [**2101-5-27**] 02:15 PM, CALLED OUT,   History obtained from Patient,   "
+    }
+]

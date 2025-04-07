@@ -1,0 +1,212 @@
+[
+    {
+        "medication": "Multivitamins W/minerals, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "1 TAB, 1 TAB"
+    },
+    {
+        "medication": "LaMIVudine, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "100 mg, 1 TAB"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Cyanocobalamin, IM",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "1000 mcg, 1 VIAL"
+    },
+    {
+        "medication": "Potassium Chloride, IV",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "40 mEq, 20 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "500 mL, 500 mL"
+    },
+    {
+        "medication": "Potassium Chloride, NG",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-07 00:00:00",
+        "dosage": "40 mEq, 2 PKT"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-07 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Sodium Chloride 0.9%  Flush, IV",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "3 mL, 0.6 SYR"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "500 mg, 1 TAB"
+    },
+    {
+        "medication": "Levofloxacin, PO",
+        "start_time": "2108-09-06 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "250 mg, 1 TAB"
+    },
+    {
+        "medication": "Olanzapine (Disintegrating Tablet), PO",
+        "start_time": "2108-09-07 00:00:00",
+        "end_time": "2108-09-08 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-05 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-05 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-05 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Olanzapine (Disintegrating Tablet), PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "5 mg, 1 TAB"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "Piperacillin-Tazobactam Na, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "4.5 g, 1 BAG"
+    },
+    {
+        "medication": "Levofloxacin, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "750 mg, 1 BAG"
+    },
+    {
+        "medication": "Vancomycin, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "1000 mg, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "NS, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "1000 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "100 mL, 100 mL"
+    },
+    {
+        "medication": "Dextrose 5%, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "150 mL, 1 BAG"
+    },
+    {
+        "medication": "Iso-Osmotic Dextrose, IV",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-06 00:00:00",
+        "dosage": "200 mL, 200 mL"
+    },
+    {
+        "medication": "Fludrocortisone Acetate, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-09 00:00:00",
+        "dosage": "0.2 mg, 2 TAB"
+    },
+    {
+        "medication": "Acetaminophen, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "325-650 mg, 1-2 TAB"
+    },
+    {
+        "medication": "Docusate Sodium, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "100 mg, 1 CAP"
+    },
+    {
+        "medication": "Adefovir, ORAL",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "10 mg, 1 TAB"
+    },
+    {
+        "medication": "Heparin, SC",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "5000 UNIT, 1 mL"
+    },
+    {
+        "medication": "Polyethylene Glycol, PO",
+        "start_time": "2108-09-05 00:00:00",
+        "end_time": "2108-09-12 00:00:00",
+        "dosage": "17 g, 1 PKT"
+    }
+]

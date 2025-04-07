@@ -1,0 +1,9 @@
+[
+    {
+        "admit_time": "2125-08-31 12:55:00",
+        "discharge_time": "2125-09-02",
+        "event_time": "2125-09-01 06:58:00",
+        "vitals": "Tmax: 36.8,C (98.3,   Tcurrent: 36.8,C (98.3,   HR: 73 (65 - 91) bpm,   BP: 115/61(74) {91/44(57) - 138/83(121)} mmHg,   ",
+        "events": "24 Hour Events:,   Patient tolerated clear liquids last night.,   Had an EGD done yesterday: no active bleeding.  Three polypectomy sites,   were well visualized, not bleeding.  They were clipped off.,   Patient walked around the floor yesterday.  Feels well this AM. No,   recurrent bleeding. HCT stable.,   "
+    }
+]
